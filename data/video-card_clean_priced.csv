@@ -1,0 +1,1274 @@
+name,price,chipset,memory,core_clock,boost_clock,color,length,boost_clock_estimated,core_clock_known,length_estimated,estimated_tdp,tdp_is_estimated_fallback
+MSI GeForce RTX 3060 Ventus 2X 12G,299.97,GeForce RTX 3060 12GB,12.0,1320.0,1777.0,Black,235.0,False,True,False,170.0,False
+Sapphire PULSE,379.99,Radeon RX 9060 XT,16.0,2220.0,3290.0,Black,240.0,False,True,False,182.0,False
+MSI SHADOW 3X OC,829.99,GeForce RTX 5070 Ti,16.0,2300.0,2497.0,Black,303.0,False,True,False,300.0,False
+Gigabyte WINDFORCE OC SFF,549.99,GeForce RTX 5070,12.0,2160.0,2542.0,Black,282.0,False,True,False,250.0,False
+Sapphire PULSE,749.99,Radeon RX 9070 XT,16.0,2400.0,2970.0,Black,320.0,False,True,False,304.0,False
+ASRock Challenger OC,369.99,Radeon RX 9060 XT,16.0,2220.0,3290.0,Black / Silver,249.0,False,True,False,182.0,False
+Gigabyte GAMING OC,729.99,Radeon RX 9070 XT,16.0,2520.0,3060.0,Black,288.0,False,True,False,304.0,False
+Gigabyte GAMING OC,359.97,Radeon RX 7600 XT,16.0,1720.0,2810.0,Black / Gray,281.0,False,True,False,280.0,True
+Asus ROG Astral OC,3359.99,GeForce RTX 5090,32.0,2010.0,2610.0,Black / Silver,358.0,False,True,False,575.0,False
+ASRock Challenger D,219.99,Radeon RX 6600,8.0,1626.0,1626.0,Black,269.0,True,True,False,160.0,True
+Asus PRIME OC,719.99,Radeon RX 9070 XT,16.0,2460.0,3030.0,Black,312.0,False,True,False,304.0,False
+Asus PRIME,479.99,GeForce RTX 5060 Ti,16.0,2410.0,2602.0,Black,304.0,False,True,False,180.0,False
+MSI VENTUS 2X BLACK OC,449.99,GeForce RTX 4060,8.0,1830.0,2505.0,Black,199.0,False,True,False,115.0,False
+Asus PRIME OC,589.99,GeForce RTX 5070,12.0,2160.0,2512.0,Black / White,306.0,True,True,False,250.0,False
+MSI VENTUS 2X PLUS OC,499.99,GeForce RTX 5060 Ti,16.0,2410.0,2617.0,Black / Gray,227.0,False,True,False,180.0,False
+MSI VENTUS 3X OC,789.99,GeForce RTX 5070 Ti,16.0,2300.0,2497.0,Silver / Black,303.0,False,True,False,300.0,False
+ASRock Steel Legend,699.99,Radeon RX 9070 XT,16.0,2400.0,2970.0,White / Gray,298.0,False,True,False,304.0,False
+Gigabyte GAMING OC,389.99,Radeon RX 9060 XT,16.0,2220.0,3130.0,Black,281.0,True,True,False,182.0,False
+Intel Limited Edition,289.99,Arc B580,12.0,2670.0,2600.0,Black,272.0,True,True,False,190.0,False
+MSI SHADOW 2X OC,299.99,GeForce RTX 5060,8.0,2280.0,2535.0,Black / Silver,197.0,False,True,False,145.0,False
+PNY OC,549.99,GeForce RTX 5070,12.0,2325.0,2587.0,Black,300.0,False,True,False,250.0,False
+XFX Swift OC,389.98,Radeon RX 9060 XT,16.0,2220.0,3320.0,Black,290.0,False,True,False,182.0,False
+MSI VENTUS 2X OC,179.99,GeForce RTX 3050 6GB,6.0,1040.0,1492.0,Black,189.0,False,True,False,120.0,True
+Gigabyte WINDFORCE OC,299.99,GeForce RTX 5060,8.0,2280.0,2280.0,Black,199.0,True,True,False,145.0,False
+Asus TUF GAMING OC,1564.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Silver,348.0,True,True,False,360.0,False
+XFX Swift OC,534.45,Radeon RX 9060 XT,16.0,2220.0,3320.0,White,290.0,False,True,False,182.0,False
+ASRock Challenger,599.99,Radeon RX 9070,16.0,2070.0,2520.0,Black / Silver,290.0,False,True,False,280.0,True
+Sapphire NITRO+,799.99,Radeon RX 9070 XT,16.0,2520.0,3060.0,Black,331.0,False,True,False,304.0,False
+Gigabyte AORUS MASTER,2939.32,GeForce RTX 5090,32.0,2010.0,2655.0,White,360.0,False,True,False,575.0,False
+PowerColor Reaper,501.39,Radeon RX 9060 XT,16.0,2220.0,3230.0,Black,200.0,False,True,False,182.0,False
+Gigabyte WINDFORCE SFF,970.0,GeForce RTX 5070 Ti,16.0,2452.0,2452.0,Black,304.0,True,True,False,300.0,False
+XFX Speedster SWFT 210,345.0,Radeon RX 6600,8.0,1626.0,2491.0,Black,241.0,False,True,False,160.0,True
+PowerColor RX7800XT 16G-P,599.99,Radeon RX 7800 XT,16.0,1295.0,2430.0,Black,260.0,False,True,False,263.0,False
+Asus TUF GAMING OC,999.0,GeForce RTX 5070 Ti,16.0,2300.0,2610.0,Black / Silver,329.0,False,True,False,300.0,False
+XFX Swift,779.99,Radeon RX 9070 XT,16.0,1660.0,2970.0,Black,325.0,False,True,False,304.0,False
+ASRock Phantom Gaming OC,899.99,Radeon RX 7900 XTX,24.0,2300.0,2615.0,Black,330.0,False,True,False,355.0,False
+XFX GTS XXX,159.99,Radeon RX 580,8.0,1366.0,1386.0,Black / Red,270.0,False,True,False,185.0,False
+PNY VCNRTX6000ADA-PB,6974.0,RTX 6000 Ada Generation,48.0,915.0,2505.0,Black / Gold,267.0,False,True,False,280.0,True
+Gigabyte WINDFORCE OC,845.93,GeForce RTX 4070 SUPER,12.0,1980.0,2505.0,Black,261.0,False,True,False,220.0,False
+Zotac GAMING Twin Edge,256.98,GeForce RTX 3060 12GB,12.0,1320.0,1777.0,Black,224.0,False,True,False,170.0,False
+Asus ROG Astral OC,1799.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Silver,358.0,True,True,False,360.0,False
+NVIDIA Founders Edition,549.99,GeForce RTX 5070,12.0,2160.0,2510.0,Black / Gray,242.0,False,True,False,250.0,False
+Asus DUAL OC,479.99,GeForce RTX 5060 Ti,16.0,2410.0,2632.0,Black / Silver,229.0,False,True,False,180.0,False
+Sapphire PURE,991.27,Radeon RX 9070 XT,16.0,2460.0,3010.0,White,320.0,False,True,False,304.0,False
+Asus PRIME,829.99,GeForce RTX 5070 Ti,16.0,2300.0,2482.0,Black / White,306.0,False,True,False,300.0,False
+Asus PRIME OC,1399.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black / White,306.0,True,True,False,360.0,False
+NVIDIA Founders Edition,489.09,GeForce RTX 3060 Ti,8.0,1410.0,1670.0,Black / Silver,242.0,False,True,False,200.0,False
+Asus TUF GAMING OC,1117.99,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2670.0,Black,305.0,False,True,False,285.0,False
+Gigabyte WINDFORCE,501.01,GeForce RTX 5060 Ti,16.0,2410.0,2572.0,Black,208.0,False,True,False,180.0,False
+Gigabyte AERO OC,979.99,GeForce RTX 5070 Ti,16.0,2588.0,2588.0,White / Silver,340.0,True,True,False,300.0,False
+Gigabyte GAMING OC,1525.0,GeForce RTX 5080,16.0,2300.0,2617.0,Black,340.0,True,True,False,360.0,False
+XFX Swift OC,359.99,Radeon RX 9060 XT,16.0,2220.0,3320.0,Black,270.0,False,True,False,182.0,False
+Gigabyte WINDFORCE SFF,604.99,GeForce RTX 5070,12.0,2160.0,2512.0,Black,282.0,False,True,False,250.0,False
+XFX Speedster MERC 310 Black Edition,1049.99,Radeon RX 7900 XTX,24.0,2300.0,2615.0,Black / Silver,344.0,False,True,False,355.0,False
+Gigabyte WINDFORCE OC SFF,869.99,GeForce RTX 5070 Ti,16.0,2497.0,2497.0,Black,304.0,True,True,False,300.0,False
+Asus ROG Astral LC OC,4246.33,GeForce RTX 5090,32.0,2010.0,2610.0,Black / Silver,288.0,False,True,False,575.0,False
+Gigabyte WINDFORCE OC,449.99,GeForce RTX 5060 Ti,16.0,2410.0,2587.0,Black,208.0,False,True,False,180.0,False
+Asus Dual GeForce RTX 3060 V2 OC Edition,329.97,GeForce RTX 3060 12GB,12.0,1320.0,1867.0,Black,200.0,False,True,False,170.0,False
+MSI GAMING TRIO OC,549.99,GeForce RTX 5070,12.0,2160.0,2512.0,Black,338.0,True,True,False,250.0,False
+MSI GAMING TRIO OC,559.99,GeForce RTX 5060 Ti,16.0,2410.0,2662.0,White,300.0,False,True,False,180.0,False
+Asus DUAL OC V2,369.99,GeForce RTX 4060,8.0,1830.0,2535.0,Black,202.0,False,True,False,115.0,False
+Asus DUAL EVO OC,439.99,GeForce RTX 4060,8.0,1830.0,2535.0,Black,227.0,False,True,False,115.0,False
+Sapphire PULSE,642.99,Radeon RX 9070,16.0,2070.0,2520.0,Black,280.0,False,True,False,280.0,True
+PNY Dual Fan OC,428.33,GeForce RTX 5060 Ti,16.0,2407.0,2691.0,Black,245.0,False,True,False,180.0,False
+ASRock Steel Legend OC,519.0,Radeon RX 9060 XT,16.0,2220.0,3320.0,White / Gray,298.0,False,True,False,182.0,False
+Gigabyte GAMING OC,249.99,Radeon RX 9060 XT,8.0,2220.0,3130.0,Black,281.0,True,True,False,182.0,False
+Asus DUAL EVO OC,274.99,Radeon RX 7600,8.0,1720.0,2715.0,Black,229.0,False,True,False,160.0,True
+Gigabyte WINDFORCE OC,820.0,GeForce RTX 4070,12.0,1920.0,2490.0,Black,261.0,False,True,False,200.0,False
+Gigabyte GAMING OC,969.99,GeForce RTX 5070 Ti,16.0,2588.0,2588.0,Black,340.0,True,True,False,300.0,False
+XFX Swift,799.99,Radeon RX 9070 XT,16.0,1660.0,2970.0,White,325.0,False,True,False,304.0,False
+MSI GAMING TRIO OC,3049.99,GeForce RTX 5090,32.0,2010.0,2010.0,Black / Silver,359.0,True,True,False,575.0,False
+PowerColor Hellhound OC,859.99,Radeon RX 9070 XT,16.0,2400.0,3010.0,Black,327.0,False,True,False,304.0,False
+NVIDIA Founders Edition,2995.99,GeForce RTX 4090,24.0,2230.0,2520.0,Black / Silver,304.0,False,True,False,450.0,False
+PNY VERTO OC,759.99,GeForce RTX 4070 SUPER,12.0,1980.0,2490.0,Black,247.0,False,True,False,220.0,False
+ASRock Challenger OC,399.97,Radeon RX 7700 XT,12.0,1700.0,2584.0,Black,266.0,False,True,False,245.0,False
+Asus PRIME,609.99,GeForce RTX 5070,12.0,2160.0,2512.0,Black / White,306.0,True,True,False,250.0,False
+Gigabyte GAMING OC,2809.36,GeForce RTX 5090,32.0,2010.0,2550.0,Black,342.0,False,True,False,575.0,False
+MSI GAMING TRIO OC WHITE,954.13,GeForce RTX 5070,12.0,2160.0,2512.0,White,338.0,True,True,False,250.0,False
+Asus PRIME,299.99,GeForce RTX 5060,8.0,2280.0,2527.0,Black,268.0,False,True,False,145.0,False
+MSI VENTUS 3X OC PLUS,1599.99,GeForce RTX 5080,16.0,2300.0,2617.0,Silver / Black,303.0,True,True,False,360.0,False
+Asus TUF GAMING OC,604.99,GeForce RTX 5070,12.0,2160.0,2512.0,Black / Silver,329.0,True,True,False,250.0,False
+Gigabyte AERO OC SFF,1579.99,GeForce RTX 5080,16.0,2300.0,2617.0,White / Silver,304.0,True,True,False,360.0,False
+XFX Speedster MERC 310,996.87,Radeon RX 7900 XT,20.0,2000.0,2535.0,Black / Silver,344.0,False,True,False,315.0,False
+ASRock Challenger,318.42,Radeon RX 6600,8.0,1626.0,2491.0,White,269.0,False,True,False,160.0,True
+Gigabyte GAMING OC,469.99,GeForce RTX 5060 Ti,16.0,2410.0,2647.0,Black,281.0,False,True,False,180.0,False
+Gigabyte WINDFORCE OC,429.99,GeForce RTX 4060,8.0,1830.0,1830.0,Black,192.0,True,True,False,115.0,False
+Gigabyte AORUS MASTER,2999.99,GeForce RTX 5090,32.0,2010.0,2655.0,Black,360.0,False,True,False,575.0,False
+Gigabyte GAMING OC,669.99,Radeon RX 9070,16.0,2070.0,2700.0,Black,288.0,False,True,False,280.0,True
+Asus TUF GAMING,2759.99,GeForce RTX 5090,32.0,2010.0,2010.0,Black / Silver,348.0,True,True,False,575.0,False
+Sapphire PULSE,299.99,Radeon RX 9060 XT,8.0,2220.0,3290.0,Black,240.0,False,True,False,182.0,False
+Asus PRIME OC,939.99,GeForce RTX 5070 Ti,16.0,2300.0,2527.0,Black / White,306.0,False,True,False,300.0,False
+MSI GAMING TRIO OC,1449.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Silver,338.0,True,True,False,360.0,False
+Gigabyte GAMING OC,369.95,Radeon RX 7600,8.0,1720.0,2755.0,Black / Silver,282.0,False,True,False,160.0,True
+Asus TUF GAMING OC,698.0,GeForce RTX 3070,8.0,1500.0,1845.0,Black,300.0,False,True,False,220.0,False
+MSI SHADOW 2X OC,599.99,GeForce RTX 5070,12.0,2557.0,2512.0,Black,231.0,True,True,False,250.0,False
+Asus DUAL OC,199.97,GeForce RTX 3050 6GB,6.0,1040.0,1537.0,Black,201.0,False,True,False,120.0,True
+XFX Speedster QICK 319 Core,689.0,Radeon RX 7800 XT,16.0,1295.0,2430.0,Black,335.0,False,True,False,263.0,False
+Asus PRIME OC,439.99,Radeon RX 9060 XT,16.0,2220.0,3130.0,Black,304.0,True,True,False,182.0,False
+Gigabyte GAMING OC Rev 2.0,354.99,GeForce RTX 3060 12GB,12.0,1320.0,1837.0,Black / Gray,282.0,False,True,False,170.0,False
+MSI VENTUS 2X XS OC,219.99,GeForce RTX 3050 8GB,8.0,1550.0,1807.0,Black / Gray,205.0,False,True,False,130.0,False
+Zotac SOLID SFF OC,839.99,GeForce RTX 5070 Ti,16.0,2300.0,2482.0,Black / Gold,304.0,False,True,False,300.0,False
+MSI GAMING TRIO OC,1310.93,GeForce RTX 5070 Ti,16.0,2300.0,2580.0,White,338.0,False,True,False,300.0,False
+XFX Speedster SWFT 210 Core,409.99,Radeon RX 7700 XT,12.0,1425.0,2544.0,Black,280.0,False,True,False,245.0,False
+PowerColor Reaper,799.99,Radeon RX 9070 XT,16.0,2400.0,2970.0,Black / Red,289.0,False,True,False,304.0,False
+XFX Quicksilver,799.99,Radeon RX 9070 XT,16.0,2400.0,2970.0,Black,350.0,False,True,False,304.0,False
+Gigabyte EAGLE OC SFF,669.99,GeForce RTX 5070,12.0,2160.0,2587.0,White,290.0,False,True,False,250.0,False
+PNY OC,749.99,GeForce RTX 5070 Ti,16.0,2295.0,2572.0,Black,300.0,False,True,False,300.0,False
+MSI GAMING TRIO OC PLUS,849.99,GeForce RTX 5070 Ti,16.0,2300.0,2580.0,Black,338.0,False,True,False,300.0,False
+NVIDIA Founders Edition,399.0,GeForce RTX 4060 Ti,8.0,2310.0,2540.0,Black / Silver,244.0,False,True,False,160.0,False
+Gigabyte AORUS ELITE,1059.54,Radeon RX 9070 XT,16.0,2570.0,3100.0,Black,339.0,False,True,False,304.0,False
+MSI SHADOW 3X OC,1339.0,GeForce RTX 5080,16.0,2300.0,2655.0,Black,303.0,False,True,False,360.0,False
+MSI GT 710 2GD3 LP,59.95,GeForce GT 710,2.0,954.0,954.0,Black,146.0,True,True,False,75.0,True
+Zotac Twin Edge OC,479.99,GeForce RTX 5060 Ti,16.0,2410.0,2602.0,Black,220.0,False,True,False,180.0,False
+Asus TUF GAMING OC,945.2,Radeon RX 9070 XT,16.0,2520.0,3080.0,Black / Silver,330.0,False,True,False,304.0,False
+ONIX ODYSSEY,259.99,Arc B580,12.0,2670.0,2600.0,Black / Silver,260.0,True,True,False,190.0,False
+Asus DUAL EVO OC,439.99,GeForce RTX 4060 Ti,8.0,2310.0,2595.0,Black,227.0,False,True,False,160.0,False
+Lenovo 4X61D97085,7516.34,RTX A5000,24.0,1170.0,1695.0,Black,267.0,False,True,False,280.0,True
+MSI VENTUS XS OC,339.0,GeForce GTX 1660 SUPER,6.0,1530.0,1815.0,Black / Silver,204.0,False,True,False,120.0,True
+ASRock Taichi OC,799.99,Radeon RX 9070 XT,16.0,2570.0,3100.0,Black,330.0,False,True,False,304.0,False
+Gigabyte AORUS XTREME WATERFORCE,3762.26,GeForce RTX 5090,32.0,2010.0,2655.0,Black,246.0,False,True,False,575.0,False
+MSI VENTUS 3X OC,2699.99,GeForce RTX 5090,32.0,2010.0,2010.0,Silver / Black,325.0,True,True,False,575.0,False
+XFX RX-79TMBABF9,700.26,Radeon RX 7900 XT,20.0,2000.0,2400.0,Black,276.0,False,True,False,315.0,False
+Gigabyte AERO OC,694.99,GeForce RTX 5070,12.0,2160.0,2625.0,Black,324.0,False,True,False,250.0,False
+Gigabyte EAGLE OC ICE,329.99,GeForce RTX 5060,8.0,2280.0,2280.0,White,208.0,True,True,False,145.0,False
+EVGA FTW3 ULTRA GAMING,899.99,GeForce RTX 3080 10GB,10.0,1440.0,1800.0,Black,300.0,False,True,False,320.0,False
+XFX Speedster QICK 319 BLACK,569.0,Radeon RX 7700 XT,12.0,1700.0,2599.0,Black,335.0,False,True,False,245.0,False
+Gigabyte GAMING OC,439.99,GeForce RTX 4060,8.0,1830.0,1830.0,Black,281.0,True,True,False,115.0,False
+PNY VCG508016TFXPB1,1349.99,GeForce RTX 5080,16.0,2300.0,2620.0,Black,329.0,False,True,False,360.0,False
+PowerColor Red Devil OC,819.99,Radeon RX 9070 XT,16.0,2460.0,3060.0,Black / Red,340.0,False,True,False,304.0,False
+Gigabyte GAMING,349.99,Radeon RX 9060 XT,16.0,2220.0,3130.0,Black,281.0,True,True,False,182.0,False
+MSI SHADOW 3X OC,599.44,GeForce RTX 5070,12.0,2160.0,2557.0,Black,303.0,False,True,False,250.0,False
+Gigabyte AORUS MASTER ICE,1629.99,GeForce RTX 5080,16.0,2300.0,2617.0,White / Silver,360.0,True,True,False,360.0,False
+Palit Infinity 3,923.0,GeForce RTX 5070,12.0,2325.0,2512.0,Black,292.0,False,True,False,250.0,False
+ASRock Phantom Gaming D OC,159.99,Radeon RX 6500 XT,4.0,2365.0,2820.0,Black,240.0,False,True,False,120.0,True
+MSI SUPRIM LIQUID SOC,3229.0,GeForce RTX 5090,32.0,2010.0,2010.0,Black / Silver,280.0,True,True,False,575.0,False
+PowerColor Reaper,669.99,Radeon RX 9070,16.0,2070.0,2520.0,Black,289.0,False,True,False,280.0,True
+Asus TUF GAMING OC,1798.99,GeForce RTX 4080 SUPER,16.0,2210.0,2640.0,Black,348.0,False,True,False,320.0,False
+Asus ROG STRIX GAMING OC,3185.0,GeForce RTX 4090,24.0,2235.0,2640.0,Black,358.0,False,True,False,450.0,False
+NVIDIA Founders Edition,949.99,GeForce RTX 3080 Ti,12.0,1370.0,1670.0,Silver / Black,285.0,False,True,False,350.0,False
+MSI VENTUS 2X OC,319.99,GeForce RTX 5060,8.0,2280.0,2535.0,Silver / Black,197.0,False,True,False,145.0,False
+Gigabyte WINDFORCE OC SFF,1399.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black,304.0,True,True,False,360.0,False
+PNY OC,1349.99,GeForce RTX 5080,16.0,2300.0,2730.0,Black,329.0,False,True,False,360.0,False
+Gigabyte WINDFORCE OC,2639.99,GeForce RTX 5090,32.0,2010.0,2467.0,Black,342.0,False,True,False,575.0,False
+Sapphire PULSE,429.0,Radeon RX 6700 XT,12.0,2321.0,2581.0,Black,260.0,False,True,False,220.0,True
+NVIDIA Founders Edition,899.0,GeForce RTX 4070,12.0,1920.0,2480.0,Black / Silver,244.0,False,True,False,200.0,False
+Sapphire PULSE,337.33,Radeon RX 7600,8.0,1720.0,2755.0,Black / Red,240.0,False,True,False,160.0,True
+MSI VENTUS 2X OC,629.99,GeForce RTX 5070,12.0,2160.0,2557.0,White,236.0,False,True,False,250.0,False
+Sparkle TITAN OC,319.99,Arc B580,12.0,2670.0,2740.0,Blue / White,317.0,False,True,False,190.0,False
+Zotac GAMING SOLID OC,609.99,GeForce RTX 5070,12.0,2160.0,2542.0,Black / Copper,304.0,False,True,False,250.0,False
+Gigabyte AERO OC,649.0,GeForce RTX 5060 Ti,16.0,2410.0,2647.0,White / Silver,281.0,False,True,False,180.0,False
+Asus DUAL OC,299.99,GeForce RTX 5060,8.0,2280.0,2565.0,Black,228.0,False,True,False,145.0,False
+Gigabyte EAGLE OC,599.0,GeForce RTX 5060 Ti,16.0,2410.0,2617.0,White / Silver,215.0,False,True,False,180.0,False
+Asus DUAL EVO OC,775.87,GeForce RTX 4060 Ti,16.0,2310.0,2625.0,Black,227.0,False,True,False,160.0,False
+Sparkle GUARDIAN OC,259.99,Arc B570,10.0,2500.0,2660.0,Blue / White,242.0,False,True,False,160.0,True
+Zotac GAMING SOLID OC,2599.98,GeForce RTX 5090,32.0,2010.0,2422.0,Black / Copper,330.0,False,True,False,575.0,False
+Asus DUAL OC,699.0,Radeon RX 7800 XT,16.0,1295.0,2520.0,Black,280.0,False,True,False,263.0,False
+Asus PRIME,1264.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black / White,306.0,True,True,False,360.0,False
+NVIDIA Founders Edition,1849.99,GeForce RTX 4080,16.0,2210.0,2510.0,Black / Silver,304.0,False,True,False,320.0,False
+Sapphire PULSE,762.12,Radeon RX 7800 XT,16.0,1295.0,1295.0,Black / Red,280.0,True,True,False,263.0,False
+Sapphire NITRO+,649.99,Radeon RX 9070,16.0,2210.0,2700.0,Black,331.0,False,True,False,280.0,True
+Zotac GAMING SOLID,3495.23,GeForce RTX 5090,32.0,2010.0,2407.0,Black / Copper,330.0,False,True,False,575.0,False
+XFX Swift OC,319.99,Radeon RX 9060 XT,8.0,2220.0,3320.0,White,270.0,False,True,False,182.0,False
+EVGA KO ULTRA GAMING,320.0,GeForce RTX 2060,6.0,1365.0,1755.0,Black,202.0,False,True,False,160.0,False
+Gigabyte AORUS MASTER,1629.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black,360.0,True,True,False,360.0,False
+XFX Mercury OC RGB,869.98,Radeon RX 9070 XT,16.0,1870.0,3100.0,Black,360.0,False,True,False,304.0,False
+XFX Swift OC,299.99,Radeon RX 9060 XT,8.0,2220.0,3320.0,Black,270.0,False,True,False,182.0,False
+XFX Speedster SWFT 210 Core,331.42,Radeon RX 6650 XT,8.0,2055.0,2635.0,Black / Silver,241.0,False,True,False,160.0,True
+PNY ARGB EPIC-X RGB OC,1256.39,GeForce RTX 5070 Ti,16.0,2295.0,2640.0,Black,300.0,False,True,False,300.0,False
+Zotac GAMING SOLO,299.99,GeForce RTX 5060,8.0,2280.0,2497.0,Black,164.0,False,True,False,145.0,False
+Asus PRIME,612.98,Radeon RX 9070 XT,16.0,2460.0,2990.0,Black,312.0,False,True,False,304.0,False
+Intel Limited Edition,249.0,Arc A750,8.0,2050.0,2050.0,Black,250.0,True,True,False,160.0,True
+MSI GAMING TRIO OC,549.99,GeForce RTX 5060 Ti,16.0,2410.0,2662.0,Black,300.0,False,True,False,180.0,False
+XFX Speedster SWFT 210 Core,289.99,Radeon RX 7600,8.0,1875.0,2655.0,Black,241.0,False,True,False,160.0,True
+Zotac GAMING AMP Extreme INFINITY,1460.14,GeForce RTX 5080,16.0,2300.0,2670.0,Black / Copper,332.0,False,True,False,360.0,False
+Gigabyte GAMING OC,572.12,GeForce RTX 3070,8.0,1500.0,1815.0,Black / Silver,286.0,False,True,False,220.0,False
+Gigabyte OC Low Profile,339.99,GeForce RTX 5060,8.0,2280.0,2280.0,Black,182.0,True,True,False,145.0,False
+MSI VENTUS 3X OC,1409.99,GeForce RTX 5080,16.0,2300.0,2655.0,White,303.0,False,True,False,360.0,False
+PowerColor Hellhound Spectral,839.99,Radeon RX 9070 XT,16.0,2400.0,3010.0,White,327.0,False,True,False,304.0,False
+Asus PRIME OC,529.99,GeForce RTX 5060 Ti,16.0,2410.0,2647.0,Black,304.0,False,True,False,180.0,False
+MSI VENTUS 2X OC,629.99,GeForce RTX 5070,12.0,2160.0,2557.0,Silver / Black,236.0,False,True,False,250.0,False
+PNY EPIC-X RGB OC,2799.99,GeForce RTX 5090,32.0,2010.0,2625.0,Black,329.0,False,True,False,575.0,False
+Gigabyte EAGLE,535.0,Radeon RX 6600,8.0,1626.0,2491.0,Black / Silver,282.0,False,True,False,160.0,True
+MSI VENTUS 2X BLACK OC,479.99,GeForce RTX 4060 Ti,16.0,2310.0,2625.0,Black,199.0,False,True,False,160.0,False
+Asus TUF GAMING OC,267.3,GeForce GTX 1660 SUPER,6.0,1530.0,1845.0,Black,206.0,False,True,False,120.0,True
+Gigabyte WINDFORCE V2,1548.99,GeForce RTX 4080 SUPER,16.0,2210.0,2550.0,Black,330.0,False,True,False,320.0,False
+MSI VENTUS 2X OC,933.74,GeForce RTX 4070 SUPER,12.0,1980.0,2520.0,Black,242.0,False,True,False,220.0,False
+MSI SUPRIM SOC,3199.99,GeForce RTX 5090,32.0,2010.0,2010.0,Black / Silver,359.0,True,True,False,575.0,False
+ASRock Challenger OC,279.97,Radeon RX 7600,8.0,1720.0,2695.0,Black,269.0,False,True,False,160.0,True
+Zotac GAMING AMP Extreme INFINITY,899.99,GeForce RTX 5070 Ti,16.0,2300.0,2512.0,Black,332.0,False,True,False,300.0,False
+Asus TUF GAMING OC,1099.99,GeForce RTX 4070 Ti,12.0,2310.0,2760.0,Black,305.0,False,True,False,285.0,False
+Gigabyte WINDFORCE OC Rev 2.0,324.97,GeForce RTX 3060 12GB,12.0,1320.0,1792.0,Black,198.0,False,True,False,170.0,False
+Gigabyte WINDFORCE,379.99,GeForce RTX 5060 Ti,8.0,2410.0,2572.0,Black,208.0,False,True,False,180.0,False
+XFX Speedster SWFT 210 Core,649.0,Radeon RX 7800 XT,16.0,1295.0,2430.0,Black,283.0,False,True,False,263.0,False
+EVGA FTW3 ULTRA GAMING,765.0,GeForce RTX 3070 Ti,8.0,1575.0,1860.0,Black,300.0,False,True,False,290.0,False
+PowerColor Hellhound,1174.08,Radeon RX 7900 XTX,24.0,2300.0,2525.0,Black,320.0,False,True,False,355.0,False
+EVGA FTW3 ULTRA GAMING,1518.99,GeForce RTX 3090,24.0,1395.0,1800.0,Black,300.0,False,True,False,350.0,False
+XFX Quicksilver,799.99,Radeon RX 9070 XT,16.0,1660.0,2970.0,White,360.0,False,True,False,304.0,False
+ASRock Challenger OC,269.98,Arc B580,12.0,2670.0,2740.0,Black,249.0,False,True,False,190.0,False
+Asus TUF GAMING OC,599.99,GeForce RTX 5060 Ti,16.0,2410.0,2692.0,Black / Silver,302.0,False,True,False,180.0,False
+MSI VANGUARD SOC,859.99,GeForce RTX 5070 Ti,16.0,2300.0,2602.0,Black / Silver,357.0,False,True,False,300.0,False
+Sapphire PULSE,468.0,Radeon RX 7600 XT,16.0,1720.0,2810.0,Black / Red,250.0,False,True,False,280.0,True
+XFX Mercury OC RGB,839.99,Radeon RX 9070 XT,16.0,1870.0,3100.0,White,360.0,False,True,False,304.0,False
+Asus DUAL OC,399.99,GeForce RTX 4060,8.0,1830.0,2535.0,White,227.0,False,True,False,115.0,False
+MSI VANGUARD SOC,649.99,GeForce RTX 5070,12.0,2160.0,2512.0,Black,337.0,True,True,False,250.0,False
+Gigabyte GAMING OC,619.99,GeForce RTX 5070,12.0,2160.0,2625.0,Black,327.0,False,True,False,250.0,False
+Zotac Twin Edge,642.11,GeForce RTX 5060 Ti,16.0,2410.0,2572.0,Black,220.0,False,True,False,180.0,False
+Asus DUAL EVO OC,949.97,GeForce RTX 4070,12.0,1920.0,2550.0,Black,227.0,False,True,False,200.0,False
+Asus ROG STRIX GAMING OC,3539.99,GeForce RTX 4090,24.0,2235.0,2640.0,White,358.0,False,True,False,450.0,False
+MSI INSPIRE 3X OC PLUS,1010.0,GeForce RTX 5070 Ti,16.0,2300.0,2497.0,Gold / Black,288.0,False,True,False,300.0,False
+ASRock Intel Arc A380 Challenger ITX,139.99,Arc A380,6.0,2250.0,2250.0,Black,190.0,True,True,False,120.0,True
+XFX Swift OC,399.99,Radeon RX 9060 XT,16.0,2220.0,3320.0,Black,290.0,False,True,False,182.0,False
+ONIX LUMI OC,285.98,Arc B580,12.0,2670.0,2740.0,White / Silver,260.0,False,True,False,190.0,False
+XFX RX-79GMERCB9,669.99,Radeon RX 7900 GRE,16.0,1270.0,2395.0,Black,335.0,False,True,False,280.0,True
+Asus TUF GAMING OC,2940.55,GeForce RTX 5090,32.0,2010.0,2010.0,Black / Silver,348.0,True,True,False,575.0,False
+MSI GeForce RTX 3080 VENTUS 3X 10G OC,879.99,GeForce RTX 3080 10GB,10.0,1440.0,1440.0,Black,305.0,True,True,False,320.0,False
+MSI GT 710 2GD3H LP,71.62,GeForce GT 710,2.0,954.0,954.0,Black,146.0,False,True,False,75.0,True
+Gigabyte GAMING OC,595.0,Radeon RX 5700 XT,8.0,1650.0,1905.0,Black,280.0,False,True,False,225.0,False
+Asus TUF GAMING OC,1009.99,GeForce RTX 5070 Ti,16.0,2300.0,2610.0,White / Silver,329.0,False,True,False,300.0,False
+MSI GeForce RTX 2070 SUPER VENTUS GP OC,689.0,GeForce RTX 2070 SUPER,8.0,1605.0,1785.0,Silver / Black,258.0,False,True,False,215.0,False
+XFX Swift OC,719.99,Radeon RX 9070,16.0,1440.0,2700.0,White,325.0,False,True,False,280.0,True
+MSI GTX 1050 Ti 4GT OC,263.99,GeForce GTX 1050 Ti,4.0,1341.0,1455.0,Black / White,215.0,False,True,False,120.0,True
+MSI VENTUS 3X OC,1299.99,GeForce RTX 5080,16.0,2300.0,2655.0,Silver / Black,303.0,False,True,False,360.0,False
+Sapphire PURE,540.66,Radeon RX 9060 XT,16.0,2220.0,3290.0,Black,240.0,False,True,False,182.0,False
+Gigabyte EAGLE OC ICE SFF,1149.0,GeForce RTX 5070 Ti,16.0,2541.0,2541.0,White / Silver,304.0,True,True,False,300.0,False
+MSI GeForce RTX 3070 VENTUS 3X OC,534.19,GeForce RTX 3070,8.0,1500.0,1755.0,Black / Silver,305.0,False,True,False,220.0,False
+MSI GeForce GTX 1650 SUPER,419.0,GeForce GTX 1650 SUPER,4.0,1530.0,1740.0,Black / Silver,180.0,False,True,False,120.0,True
+Sapphire PURE,896.64,Radeon RX 9070,16.0,2210.0,2700.0,White,320.0,False,True,False,280.0,True
+Asus TUF GAMING OC,479.99,Radeon RX 9060 XT,16.0,2220.0,3130.0,Black / Silver,304.0,True,True,False,182.0,False
+MSI GAMING X,575.0,GeForce RTX 2060 SUPER,8.0,1470.0,1695.0,Black / Silver,248.0,False,True,False,175.0,False
+PowerColor Hellhound OC,399.98,Radeon RX 9060 XT,16.0,2220.0,3310.0,Black,310.0,False,True,False,182.0,False
+Gigabyte WINDFORCE OC,249.99,GeForce RTX 5050,8.0,2317.0,2587.0,Black,199.0,False,True,False,160.0,True
+MSI GAMING X,425.0,GeForce GTX 1660 Ti,6.0,1500.0,1875.0,Black,247.0,False,True,False,120.0,True
+Sapphire NITRO+,399.99,Radeon RX 9060 XT,16.0,2220.0,3320.0,Black,300.0,False,True,False,182.0,False
+Gigabyte AORUS MASTER,1039.99,GeForce RTX 5070 Ti,16.0,2670.0,2670.0,Black,360.0,True,True,False,300.0,False
+MSI VANGUARD SOC LAUNCH EDITION,3062.98,GeForce RTX 5090,32.0,2010.0,2010.0,Black / Silver,357.0,True,True,False,575.0,False
+Gigabyte WINDFORCE,1999.99,GeForce RTX 5090,32.0,2010.0,2407.0,Black,342.0,False,True,False,575.0,False
+Gigabyte GAMING OC,1480.0,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2655.0,Black,300.0,False,True,False,285.0,False
+Gigabyte AERO OC,334.99,GeForce RTX 5060,8.0,2280.0,2280.0,Silver,281.0,True,True,False,145.0,False
+Gigabyte EAGLE,528.66,GeForce RTX 4060 Ti,8.0,2310.0,2310.0,Black,272.0,True,True,False,160.0,False
+Asus DUAL OC,784.35,GeForce RTX 5070,12.0,2160.0,2572.0,Black / Silver,249.0,False,True,False,250.0,False
+Zotac GAMING SOLID CORE OC,1682.12,GeForce RTX 5080,16.0,2300.0,2640.0,Black / Copper,304.0,False,True,False,360.0,False
+Asus ROG STRIX GAMING OC,1299.99,GeForce RTX 4080 SUPER,16.0,2210.0,2670.0,White,358.0,False,True,False,320.0,False
+PNY XLR8 Gaming VERTO EPIC-X RGB,579.0,GeForce RTX 4070,12.0,1920.0,2475.0,Black,305.0,False,True,False,200.0,False
+PNY ARGB EPIC-X RGB OC,1459.24,GeForce RTX 5080,16.0,2300.0,2780.0,Black,329.0,False,True,False,360.0,False
+PNY Dual Fan OC,353.48,GeForce RTX 5060 Ti,8.0,2407.0,2692.0,Black,245.0,False,True,False,180.0,False
+MSI GAMING TRIO OC,369.99,GeForce RTX 5060,8.0,2280.0,2640.0,White,300.0,False,True,False,145.0,False
+Gigabyte GAMING,499.0,GeForce GTX 1080,8.0,1721.0,1860.0,Black / Orange,286.0,False,True,False,180.0,False
+ASRock Challenger OC,319.99,Radeon RX 9060 XT,8.0,2220.0,3290.0,Black / Silver,249.0,False,True,False,182.0,False
+PowerColor Hellhound OC,677.54,Radeon RX 7800 XT,16.0,1295.0,2520.0,Black,322.0,False,True,False,263.0,False
+Asus PRIME OC,737.85,Radeon RX 9070,16.0,2120.0,2610.0,Black,312.0,False,True,False,280.0,True
+MSI VENTUS 2X,329.99,GeForce RTX 5060,8.0,2280.0,2512.0,White,197.0,False,True,False,145.0,False
+MSI INSPIRE 3X OC,1399.99,GeForce RTX 5080,16.0,2300.0,2655.0,Gold / Black,288.0,False,True,False,360.0,False
+MSI VENTUS 2X BLACK OC,593.01,GeForce RTX 4060 Ti,8.0,2310.0,2310.0,Black,199.0,True,True,False,160.0,False
+Palit Infinity 3 OC,653.25,GeForce RTX 5060 Ti,16.0,2407.0,2662.0,Black,292.0,False,True,False,180.0,False
+PNY ARGB EPIC-X RGB OC,599.99,GeForce RTX 5070,12.0,2325.0,2685.0,Black,300.0,False,True,False,250.0,False
+Gigabyte GAMING OC,2915.99,GeForce RTX 4090,24.0,2235.0,2235.0,Black,340.0,True,True,False,450.0,False
+ASRock Steel Legend OC,339.99,Radeon RX 9060 XT,8.0,2220.0,3320.0,White / Gray,298.0,False,True,False,182.0,False
+MSI RTX 3060 Ventus 3X 12G OC,569.99,GeForce RTX 3060 12GB,12.0,1320.0,1807.0,Black,316.0,False,True,False,170.0,False
+MSI VANGUARD SOC,2799.99,GeForce RTX 5090,32.0,2010.0,2010.0,Black / Silver,357.0,True,True,False,575.0,False
+MSI VENTUS 3X OC,489.99,GeForce RTX 5060 Ti,16.0,2410.0,2617.0,Silver / Black,306.0,False,True,False,180.0,False
+ASRock Steel Legend OC,279.98,Arc B580,12.0,2670.0,2800.0,White / Gray,298.0,False,True,False,190.0,False
+XFX Speedster MERC 319 CORE,719.0,Radeon RX 6800 XT,16.0,1825.0,2250.0,Black / Silver,340.0,False,True,False,300.0,False
+MSI VENTUS 3X OC,579.99,GeForce RTX 5070,12.0,2557.0,2512.0,Gray / Black,302.0,True,True,False,250.0,False
+Gigabyte EAGLE OC,499.0,GeForce RTX 4060,8.0,1830.0,1830.0,Black,272.0,True,True,False,115.0,False
+Asus GT1030-2G-CSM,106.56,GeForce GT 1030,2.0,1266.0,1506.0,Black / Blue,173.0,False,True,False,75.0,True
+PNY OC,2699.99,GeForce RTX 5090,32.0,2010.0,2527.0,Black,329.0,False,True,False,575.0,False
+Asus ProArt OC,1799.0,GeForce RTX 4080 SUPER,16.0,2210.0,2640.0,Black / Gold,300.0,False,True,False,320.0,False
+NVIDIA Founders Edition,879.0,GeForce RTX 2080 Ti,11.0,1350.0,1635.0,Unknown,267.0,False,True,False,250.0,False
+Gigabyte GAMING OC,795.0,GeForce RTX 3070 Ti,8.0,1575.0,1830.0,Black / Silver,320.0,False,True,False,290.0,False
+PowerColor Fighter OC,110.49,Radeon RX 6500 XT,4.0,2310.0,2310.0,Black,191.0,True,True,False,120.0,True
+MSI GAMING OC,359.99,GeForce RTX 5060,8.0,2280.0,2640.0,Black,248.0,False,True,False,145.0,False
+Zotac GAMING Twin Fan,255.0,GeForce GTX 1660 SUPER,6.0,1530.0,1785.0,Black,173.0,False,True,False,120.0,True
+PNY RTX A-Series,4974.0,RTX A6000,48.0,1455.0,1860.0,Black / Gold,267.0,False,True,False,280.0,True
+MSI GAMING TRIO OC,869.99,GeForce RTX 5070 Ti,16.0,2300.0,2580.0,Black,338.0,False,True,False,300.0,False
+EVGA XC3 ULTRA GAMING,695.0,GeForce RTX 3070,8.0,1500.0,1770.0,Black / Silver,285.0,False,True,False,220.0,False
+Inno3D X3,1472.0,GeForce RTX 5080,16.0,2295.0,2617.0,Black / Silver,300.0,False,True,False,360.0,False
+MSI RX 6600 XT MECH 2X 8G OC,648.0,Radeon RX 6600 XT,8.0,1968.0,2602.0,Black / Silver,235.0,False,True,False,160.0,True
+Palit GameRock,3719.15,GeForce RTX 5090,32.0,2010.0,2010.0,Black,332.0,True,True,False,575.0,False
+MSI VENTUS 2X PLUS OC,379.99,GeForce RTX 5060 Ti,8.0,2410.0,2617.0,Black / Gray,227.0,False,True,False,180.0,False
+Gigabyte EAGLE OC SFF,659.99,GeForce RTX 5070,12.0,2160.0,2586.0,Black,290.0,False,True,False,250.0,False
+Gigabyte GV-R9070XTGAMING-16GD,839.95,Radeon RX 9070 XT,16.0,2400.0,2970.0,Black,288.0,False,True,False,304.0,False
+Gigabyte WINDFORCE OC,270.89,GeForce RTX 3050 6GB,6.0,1040.0,1477.0,Black / Gray,191.0,False,True,False,120.0,True
+MSI GAMING TRIO OC,349.99,GeForce RTX 5060,8.0,2280.0,2640.0,Black,300.0,False,True,False,145.0,False
+MSI LP OC,219.98,GeForce RTX 3050 6GB,6.0,1040.0,1492.0,Black,174.0,False,True,False,120.0,True
+NVIDIA Founders Edition,1949.99,GeForce RTX 3090 Ti,24.0,1560.0,1860.0,Silver / Black,313.0,False,True,False,280.0,True
+Asus DUAL EVO OC,877.7,GeForce RTX 4070,12.0,1920.0,2550.0,White,227.0,False,True,False,200.0,False
+Sapphire PULSE,633.37,Radeon RX 7700 XT,12.0,1700.0,2544.0,Black / Red,280.0,False,True,False,245.0,False
+Gigabyte WINDFORCE,299.99,GeForce RTX 5060,8.0,2280.0,2280.0,Black,199.0,True,True,False,145.0,False
+ASRock Taichi OC,1416.06,Radeon RX 7900 XTX,24.0,2300.0,2680.0,White,345.0,False,True,False,355.0,False
+Gigabyte EAGLE OC SFF,1019.98,GeForce RTX 5070 Ti,16.0,2542.0,2542.0,Black,304.0,True,True,False,300.0,False
+MSI GeForce RTX 3060 Ventus 2X 12G OC,349.75,GeForce RTX 3060 12GB,12.0,1320.0,1807.0,Black,235.0,False,True,False,170.0,False
+Asus TUF GAMING OC,1556.77,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2670.0,White,305.0,False,True,False,285.0,False
+Asus DUAL EVO OC,866.0,GeForce RTX 4070 SUPER,12.0,1980.0,2550.0,Black,227.0,False,True,False,220.0,False
+Asus PRIME OC,379.99,GeForce RTX 5060,8.0,2280.0,2595.0,Black,268.0,False,True,False,145.0,False
+Zotac GAMING SOLID OC,3112.98,GeForce RTX 5090,32.0,2010.0,2422.0,White / Copper,330.0,False,True,False,575.0,False
+PowerColor Reaper,299.99,Radeon RX 9060 XT,8.0,2220.0,3130.0,Black,200.0,False,True,False,182.0,False
+XFX Mercury OC Magnetic Air RGB,879.99,Radeon RX 9070 XT,16.0,1870.0,3100.0,White,360.0,False,True,False,304.0,False
+Asus TUF GAMING,1264.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Silver,348.0,True,True,False,360.0,False
+MSI VENTUS 2X OC,464.0,GeForce RTX 4060,8.0,1830.0,2505.0,White / Silver,199.0,False,True,False,115.0,False
+Palit GamingPro,1558.8,GeForce RTX 5080,16.0,2295.0,2617.0,Black,332.0,False,True,False,360.0,False
+ASRock Steel Legend Dark,1615.52,Radeon RX 9070 XT,16.0,2400.0,2970.0,Black / Gray,298.0,False,True,False,304.0,False
+MSI VENTUS 3X OC,944.99,GeForce RTX 4070 SUPER,12.0,1980.0,2520.0,Black / Silver,308.0,False,True,False,220.0,False
+MSI GeForce RTX 2060 VENTUS GP OC,349.99,GeForce RTX 2060,6.0,1365.0,1710.0,Gray / Black,231.0,False,True,False,160.0,False
+EVGA FTW3 ULTRA GAMING LE iCX3,1298.0,GeForce RTX 3080 Ti,12.0,1365.0,1800.0,Black,300.0,False,True,False,350.0,False
+XFX Speedster SWFT 210,459.0,Radeon RX 7600 XT,16.0,1720.0,2755.0,Black,272.0,False,True,False,280.0,True
+Zotac GAMING SOLID OC,1470.0,GeForce RTX 5080,16.0,2300.0,2625.0,Black / Copper,330.0,False,True,False,360.0,False
+Gigabyte GAMING OC,3411.6,GeForce RTX 3080 10GB,10.0,1440.0,1800.0,Black / Gray,320.0,False,True,False,320.0,False
+MSI GAMING TRIO OC,1867.62,GeForce RTX 5080,16.0,2300.0,2617.0,White / Silver,338.0,True,True,False,360.0,False
+Asus PRIME OC,378.0,Radeon RX 9060 XT,8.0,2220.0,3130.0,Black,304.0,True,True,False,182.0,False
+Asus DUAL,339.99,Radeon RX 9060 XT,8.0,2220.0,3130.0,Black,202.0,True,True,False,182.0,False
+Asus TUF GAMING OC,409.99,GeForce RTX 5060,8.0,2280.0,2677.0,Black,302.0,False,True,False,145.0,False
+ASRock Phantom Gaming OC,811.84,Radeon RX 7900 XT,20.0,2000.0,2450.0,White,330.0,False,True,False,315.0,False
+MSI RX 580 8G,260.0,Radeon RX 580,8.0,1257.0,1340.0,Black / Red,243.0,False,True,False,185.0,False
+Gigabyte EAGLE OC,459.99,GeForce RTX 5060 Ti,16.0,2410.0,2617.0,Black,215.0,False,True,False,180.0,False
+NVIDIA Founders Edition,575.0,GeForce RTX 2060 SUPER,8.0,1470.0,1650.0,Silver,229.0,False,True,False,175.0,False
+Sparkle TITAN Luna OC,393.45,Arc B580,12.0,2670.0,2740.0,White,315.0,False,True,False,190.0,False
+MSI VENTUS 3X OC,1799.99,GeForce RTX 4080 SUPER,16.0,2210.0,2595.0,Black,322.0,False,True,False,320.0,False
+Asus ROG STRIX-GTX1070-O8G-GAMING,499.0,GeForce GTX 1070,8.0,1632.0,1860.0,Black,298.0,False,True,False,150.0,False
+Asus PRIME OC,709.99,GeForce RTX 5070,12.0,2160.0,2587.0,White / Silver,304.0,False,True,False,250.0,False
+MSI D4 LP OC,99.97,GeForce GT 1030 DDR4,4.0,1151.0,1430.0,Black,150.0,False,True,False,120.0,True
+Acer Nitro OC,319.99,Arc B580,12.0,2740.0,2600.0,Black / Silver,268.0,True,True,False,190.0,False
+XFX Speedster QICK 319 Core,1028.0,Radeon RX 7800 XT,16.0,1295.0,2430.0,White,335.0,False,True,False,263.0,False
+Zotac GAMING SOLID CORE,1809.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Copper,304.0,False,True,False,360.0,False
+XFX Speedster QICK 210,169.99,Radeon RX 6500 XT,4.0,2310.0,2825.0,Black / Silver,232.0,False,True,False,120.0,True
+Gigabyte WINDFORCE OC,429.95,GeForce RTX 3060 12GB,12.0,1320.0,1792.0,Black,198.0,False,True,False,170.0,False
+Asus ROG STRIX OC,447.31,GeForce RTX 4060,8.0,1830.0,2700.0,Black,311.0,False,True,False,115.0,False
+EVGA XC GAMING,595.0,GeForce RTX 3060 Ti,8.0,1410.0,1710.0,Black,202.0,False,True,False,200.0,False
+EVGA SC ULTRA GAMING,279.99,GeForce GTX 1660 SUPER,6.0,1530.0,1830.0,Black,202.0,False,True,False,120.0,True
+Zotac GAMING AMP Extreme AIRO,2590.0,GeForce RTX 4090,24.0,2235.0,2580.0,Black / Silver,356.0,False,True,False,450.0,False
+XFX Mercury OC RGB V2,859.99,Radeon RX 9070 XT,16.0,1870.0,3100.0,Black,360.0,False,True,False,304.0,False
+MSI GeForce RTX 3080 GAMING X TRIO 10G,779.0,GeForce RTX 3080 10GB,10.0,1440.0,1440.0,Black,323.0,True,True,False,320.0,False
+MSI GT 710 1GD3H LP,45.99,GeForce GT 710,1.0,954.0,954.0,Black,146.0,True,True,False,75.0,True
+EVGA XC GAMING,748.97,GeForce RTX 3060 12GB,12.0,1320.0,1882.0,Black,202.0,False,True,False,170.0,False
+Asus TUF GAMING OC,3275.0,GeForce RTX 4090,24.0,2235.0,2595.0,Black,348.0,False,True,False,450.0,False
+Gigabyte GAMING OC,339.99,GeForce RTX 5060,8.0,2280.0,2280.0,Black,281.0,True,True,False,145.0,False
+ASRock Challenger OC,239.98,Arc B570,10.0,2500.0,2600.0,Black,249.0,False,True,False,160.0,True
+Asus DUAL OC,419.99,GeForce RTX 5060 Ti,8.0,2410.0,2632.0,Black / Silver,229.0,False,True,False,180.0,False
+PowerColor Red Devil E/OC,1043.99,Radeon RX 9070 XT,16.0,2460.0,3060.0,White,340.0,False,True,False,304.0,False
+Gigabyte AORUS XTREME WATERFORCE,1939.0,GeForce RTX 5080,16.0,2300.0,2805.0,Black,220.0,False,True,False,360.0,False
+PNY EPIC-X RGB OC,499.99,GeForce RTX 5060 Ti,16.0,2407.0,2692.0,Black,297.0,False,True,False,180.0,False
+MSI SUPRIM SOC,1809.0,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Silver,359.0,True,True,False,360.0,False
+PowerColor Red Devil,539.0,Radeon RX 5700 XT,8.0,1605.0,1905.0,Black / Red,300.0,False,True,False,225.0,False
+PowerColor Fighter,345.0,Radeon RX 6600,8.0,1626.0,2491.0,Black,200.0,False,True,False,160.0,True
+NVIDIA Founders Edition,775.0,GeForce RTX 2070 SUPER,8.0,1605.0,1770.0,Silver,267.0,False,True,False,215.0,False
+Asus STRIX GAMING,749.0,GeForce GTX 1080 Ti,11.0,1493.0,1632.0,Black,298.0,False,True,False,250.0,False
+MSI RTX 3070 GAMING X TRIO,699.0,GeForce RTX 3070,8.0,1500.0,1830.0,Black / Silver,323.0,False,True,False,220.0,False
+Zotac GAMING SOLID CORE,762.98,GeForce RTX 5070 Ti,16.0,2300.0,2452.0,Black / Copper,304.0,False,True,False,300.0,False
+Asus DUAL,385.0,GeForce GTX 1060 6GB,6.0,1594.0,1809.0,White,242.0,False,True,False,120.0,False
+Zotac GAMING AMP,499.99,GeForce RTX 5060 Ti,16.0,2410.0,2632.0,Black,220.0,False,True,False,180.0,False
+Sapphire PULSE,327.12,Radeon RX 6600,8.0,1626.0,2491.0,Black / Red,193.0,False,True,False,160.0,True
+MSI VANGUARD SOC,1459.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Silver,357.0,True,True,False,360.0,False
+MSI VENTUS 2X OC,487.54,GeForce RTX 3060 Ti,8.0,1410.0,1695.0,Black / Silver,232.0,False,True,False,200.0,False
+MSI GAMING X,194.99,GeForce RTX 3050 6GB,6.0,1040.0,1507.0,Black,205.0,False,True,False,120.0,True
+XFX Speedster SWFT 210 Core,299.99,Radeon RX 6650 XT,8.0,2055.0,2635.0,Black,241.0,False,True,False,160.0,True
+Acer Nitro OC,987.91,Radeon RX 9070 XT,16.0,2400.0,3100.0,Black / Silver,297.0,False,True,False,304.0,False
+Gigabyte GAMING OC,1324.17,GeForce RTX 3080 Ti,12.0,1365.0,1770.0,Black / Silver,320.0,False,True,False,350.0,False
+PNY VERTO,449.99,GeForce RTX 4060 Ti,16.0,2310.0,2535.0,Black,245.0,False,True,False,160.0,False
+PowerColor Hellhound OC,699.99,Radeon RX 9070,16.0,2070.0,2590.0,Black,327.0,False,True,False,280.0,True
+XFX Swift OC,712.98,Radeon RX 9070,16.0,1440.0,2700.0,Black,325.0,False,True,False,280.0,True
+Gigabyte GAMING OC,1799.99,GeForce RTX 4080 SUPER,16.0,2210.0,2595.0,Black,342.0,False,True,False,320.0,False
+Zotac Solid OC,1462.98,GeForce RTX 5080,16.0,2300.0,2640.0,White / Gold,330.0,False,True,False,360.0,False
+MSI GAMING Z TRIO,989.0,Radeon RX 6800 XT,16.0,1825.0,2310.0,Black / Silver,324.0,False,True,False,300.0,False
+Asus ROG STRIX GAMING OC,1985.0,GeForce RTX 4080 SUPER,16.0,2210.0,2670.0,Black,358.0,False,True,False,320.0,False
+NVIDIA Founders Edition,439.0,GeForce GTX 1060 6GB,6.0,1506.0,1709.0,Black / Silver,250.0,False,True,False,120.0,False
+MSI GAMING TRIO OC,429.99,GeForce RTX 5060 Ti,8.0,2410.0,2662.0,White,300.0,False,True,False,180.0,False
+Gigabyte OC,430.0,GeForce GTX 1660 Ti,6.0,1500.0,1800.0,Black / Gray,226.0,False,True,False,120.0,True
+Acer Nitro OC,832.67,Radeon RX 9070,16.0,2070.0,2700.0,Black / Silver,297.0,False,True,False,280.0,True
+Asus TUF GAMING OC,1849.99,Radeon RX 7900 XTX,24.0,2300.0,2615.0,Black,353.0,False,True,False,355.0,False
+Sparkle ECO,129.99,Arc A310,4.0,1750.0,1000.0,Blue,156.0,False,True,False,120.0,True
+Asus DUAL OC,894.99,GeForce RTX 4070,12.0,1920.0,2550.0,Black,267.0,False,True,False,200.0,False
+Asus ROG Astral,1762.98,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Silver,358.0,True,True,False,360.0,False
+Zotac GAMING Twin Edge OC,439.99,GeForce RTX 4060,8.0,1830.0,2490.0,White,221.0,False,True,False,115.0,False
+Asus DUAL OC,566.85,GeForce RTX 4060 Ti,8.0,2310.0,2595.0,White,227.0,False,True,False,160.0,False
+Zotac GAMING Twin Edge OC,429.9,GeForce RTX 3060 12GB,12.0,1320.0,1807.0,Black,224.0,False,True,False,170.0,False
+Sparkle ELF,149.99,Arc A380,6.0,2000.0,2000.0,Blue / Black,153.0,False,True,False,120.0,True
+MSI VENTUS 2X OC,576.1,GeForce RTX 3070,8.0,1500.0,1755.0,Black / Silver,232.0,False,True,False,220.0,False
+Zotac GAMING Trinity,1049.99,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2610.0,Black,307.0,False,True,False,285.0,False
+MSI GAMING TRIO OC,429.99,GeForce RTX 5060 Ti,8.0,2410.0,2662.0,Black,300.0,False,True,False,180.0,False
+Zotac GAMING Twin Edge OC,743.34,GeForce RTX 3070,8.0,1500.0,1755.0,Black,232.0,False,True,False,220.0,False
+Zotac GAMING SOLID CORE OC,1121.07,GeForce RTX 5070 Ti,16.0,2300.0,2482.0,Black / Copper,304.0,False,True,False,300.0,False
+MSI GAMING X,258.44,GeForce GTX 1660 SUPER,6.0,1530.0,1830.0,Black,247.0,False,True,False,120.0,True
+Gigabyte OC,521.38,GeForce GTX 1660 SUPER,6.0,1530.0,1830.0,Black / Silver,226.0,False,True,False,120.0,True
+Gigabyte AERO OC,1749.97,GeForce RTX 4080 SUPER,16.0,2210.0,2595.0,White / Silver,342.0,False,True,False,320.0,False
+Asus STRIX GAMING OC,1599.99,GeForce RTX 3090,24.0,1395.0,1890.0,Black,318.0,False,True,False,350.0,False
+PowerColor Fighter OC,708.4,Radeon RX 7800 XT,16.0,1295.0,2475.0,Black,290.0,False,True,False,263.0,False
+PowerColor RX 7900 XT 20G,998.59,Radeon RX 7900 XT,20.0,2000.0,2400.0,Black,276.0,False,True,False,315.0,False
+Asus ROG STRIX GAMING OC,835.0,GeForce RTX 3070 Ti,8.0,1575.0,1575.0,Black / Silver,318.0,True,True,False,290.0,False
+Asus DUAL OC,225.0,GeForce GTX 1650 G5,4.0,1485.0,1755.0,Silver / Black,204.0,False,True,False,120.0,True
+Zotac GAMING SOLID,759.9,GeForce RTX 5070,12.0,2160.0,2512.0,Black / Copper,304.0,False,True,False,250.0,False
+Gigabyte WINDFORCE OC,1361.35,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2625.0,Black,261.0,False,True,False,285.0,False
+Acer Nitro OC,239.99,Arc B570,10.0,2500.0,2690.0,Black / Silver,288.0,False,True,False,160.0,True
+Asus DUAL EVO OC,339.99,GeForce RTX 2060,6.0,1365.0,1785.0,Black,242.0,False,True,False,160.0,False
+Asus TUF GAMING OC,795.0,GeForce RTX 4070,12.0,1920.0,2580.0,Black,301.0,False,True,False,200.0,False
+Zotac ZT-71115-20L,59.99,GeForce GT 730,4.0,902.0,902.0,Black / Gold,146.0,True,True,False,120.0,True
+Gigabyte GAMING OC,379.99,GeForce RTX 5060 Ti,8.0,2410.0,2647.0,Black,281.0,False,True,False,180.0,False
+Asus STRIX GAMING OC,979.0,GeForce RTX 2080 Ti,11.0,1350.0,1665.0,Black,305.0,False,True,False,250.0,False
+Yeston Sakura,849.0,GeForce RTX 4070 SUPER,12.0,1980.0,2640.0,White / Blue,330.0,False,True,False,220.0,False
+Asus TUF GAMING OC,1199.0,GeForce RTX 3080 Ti,12.0,1365.0,1695.0,Black,300.0,False,True,False,350.0,False
+XFX Quicksilver Magnetic Air,959.0,Radeon RX 9070 XT,16.0,1870.0,3100.0,Black,350.0,False,True,False,304.0,False
+MSI SUPRIM LIQUID X,3049.0,GeForce RTX 4090,24.0,2235.0,2235.0,Black / Silver,280.0,True,True,False,450.0,False
+Asus PRIME,419.99,GeForce RTX 5060 Ti,8.0,2410.0,2602.0,Black,304.0,False,True,False,180.0,False
+Asus PRIME OC,1129.0,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2655.0,Black,300.0,False,True,False,285.0,False
+MSI VENTUS 3X OC,527.39,GeForce RTX 4060 Ti,8.0,2310.0,2310.0,Black,308.0,True,True,False,160.0,False
+Asus TUF GAMING OC,699.0,GeForce RTX 3060 Ti,8.0,1410.0,1785.0,Black,302.0,False,True,False,200.0,False
+MSI VENTUS 2X OC,899.0,GeForce RTX 4070,12.0,1920.0,2520.0,Silver / Black,242.0,False,True,False,200.0,False
+Gigabyte GV-N1030D4-2GL,77.98,GeForce GT 1030 DDR4,2.0,1151.0,1417.0,Black,150.0,False,True,False,75.0,True
+XFX Quicksilver OC,833.21,Radeon RX 9070,16.0,1440.0,2700.0,Black,355.0,False,True,False,280.0,True
+Sapphire PULSE Low Profile,216.56,Radeon RX 6400,4.0,1923.0,1923.0,Black / Red,170.0,True,True,False,120.0,True
+Gigabyte EAGLE,267.24,Radeon RX 6500 XT,4.0,2310.0,2815.0,Black,192.0,False,True,False,120.0,True
+MSI GAMING X,469.0,GeForce GTX 1070,8.0,1506.0,1797.0,Black / Red,279.0,False,True,False,150.0,False
+PowerColor Red Devil,825.0,Radeon RX 6700 XT,12.0,2321.0,2622.0,Black,320.0,False,True,False,220.0,True
+Gigabyte AERO OC,1443.85,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2655.0,White / Silver,300.0,False,True,False,285.0,False
+EVGA FTW3 ULTRA GAMING,1999.99,GeForce RTX 3090 Ti,24.0,1560.0,1920.0,Black,300.0,False,True,False,280.0,True
+NVIDIA Founders Edition,775.0,GeForce RTX 2080,8.0,1515.0,1800.0,Black / Silver,267.0,False,True,False,215.0,False
+Gigabyte GAMING OC,269.99,GeForce RTX 5050,8.0,2317.0,2632.0,Black,280.0,False,True,False,160.0,True
+XFX Mercury OC Magnetic Air RGB,859.99,Radeon RX 9070 XT,16.0,1870.0,3100.0,Black,360.0,False,True,False,304.0,False
+MSI VENTUS 3X OC,795.0,GeForce RTX 3070 Ti,8.0,1575.0,1800.0,Black / Silver,316.0,False,True,False,290.0,False
+Yeston Sakura,587.16,GeForce RTX 4060 Ti,16.0,2310.0,2595.0,White / Blue,305.0,False,True,False,160.0,False
+Gigabyte GAMING OC,1495.0,GeForce RTX 4070 Ti,12.0,2310.0,2640.0,Black,336.0,False,True,False,285.0,False
+MSI RTX 5060 Ti 16G INSPIRE 2X OC,539.98,GeForce RTX 5060 Ti,16.0,2410.0,2632.0,Gold / Black,204.0,False,True,False,180.0,False
+Sapphire NITRO+,451.97,Radeon RX 6600 XT,8.0,1968.0,2607.0,Black / Silver,240.0,False,True,False,160.0,True
+Zotac GAMING Twin Fan,269.0,GeForce GTX 1660,6.0,1530.0,1785.0,Black,216.0,False,True,False,120.0,True
+Gigabyte WINDFORCE SFF,1399.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black,304.0,True,True,False,360.0,False
+XFX Speedster MERC 319 Black,958.99,Radeon RX 7800 XT,16.0,1295.0,2565.0,Black / Silver,326.0,False,True,False,263.0,False
+Asus TUF GAMING,1984.99,GeForce RTX 4080 SUPER,16.0,2210.0,2580.0,Black,348.0,False,True,False,320.0,False
+Asus ROG STRIX GAMING OC,1298.0,GeForce RTX 3080 Ti,12.0,1365.0,1845.0,Black / Silver,318.0,False,True,False,350.0,False
+Asus DUAL EVO OC,629.99,GeForce RTX 4070 SUPER,12.0,1980.0,2550.0,White,227.0,False,True,False,220.0,False
+MSI VENTUS 3X OC,1005.74,GeForce RTX 4070,12.0,1920.0,1920.0,Silver / Black,308.0,True,True,False,200.0,False
+MSI GAMING X TRIO,1245.0,GeForce RTX 4070 Ti,12.0,2310.0,2760.0,Black,337.0,False,True,False,285.0,False
+EVGA FTW3 ULTRA GAMING,695.0,GeForce RTX 3070,8.0,1500.0,1815.0,Black / Silver,300.0,False,True,False,220.0,False
+Zotac GAMING AMP Extreme INFINITY,2799.99,GeForce RTX 5090,32.0,2010.0,2467.0,Black,332.0,False,True,False,575.0,False
+MSI GAMING X TRIO,3259.95,GeForce RTX 4090,24.0,2235.0,2235.0,Black,337.0,True,True,False,450.0,False
+Zotac Twin Edge,379.99,GeForce RTX 5060 Ti,8.0,2410.0,2572.0,Black,220.0,False,True,False,180.0,False
+MSI VENTUS 2X PLUS,489.99,GeForce RTX 5060 Ti,16.0,2410.0,2587.0,Black / Gray,227.0,False,True,False,180.0,False
+XFX Mercury OC,399.99,Radeon RX 9060 XT,16.0,2220.0,3320.0,Black / Silver,320.0,False,True,False,182.0,False
+Palit Dual,452.86,GeForce RTX 5060,8.0,2280.0,2497.0,Unknown,262.0,False,True,False,145.0,False
+Asus PRIME OC,399.99,GeForce RTX 5060 Ti,8.0,2410.0,2647.0,Black,304.0,False,True,False,180.0,False
+Palit GameRock,1233.54,GeForce RTX 5070 Ti,16.0,2300.0,2452.0,Black,332.0,False,True,False,300.0,False
+Gigabyte WINDFORCE OC,384.99,GeForce RTX 5060 Ti,8.0,2410.0,2587.0,Black,208.0,False,True,False,180.0,False
+AMD 100-300000074,3640.0,Radeon PRO W7900,48.0,1855.0,2495.0,Black,280.0,False,True,False,280.0,True
+Asus ROG STRIX,498.0,GeForce GTX 1080,8.0,1670.0,1835.0,Black,298.0,False,True,False,180.0,False
+Gigabyte AORUS MASTER,757.06,GeForce RTX 3070,8.0,1500.0,1845.0,Black,290.0,False,True,False,220.0,False
+Zotac Twin Edge OC,829.99,GeForce RTX 4070,12.0,1920.0,2490.0,Black,226.0,False,True,False,200.0,False
+PowerColor Red Devil Ultimate,769.99,Radeon RX 6900 XT,16.0,1825.0,2425.0,Black,320.0,False,True,False,300.0,False
+MSI VENTUS 3X OC,579.99,GeForce RTX 5070,12.0,2160.0,2557.0,Silver / Black,302.0,False,True,False,250.0,False
+MSI GAMING OC,539.99,GeForce RTX 5060 Ti,16.0,2410.0,2572.0,Black,247.0,True,True,False,180.0,False
+MSI GAMING X TRIO,1795.0,GeForce RTX 4080,16.0,2205.0,2610.0,Black,337.0,False,True,False,320.0,False
+Gigabyte OC Low Profile,499.99,GeForce RTX 4060,8.0,1830.0,2475.0,Black,182.0,False,True,False,115.0,False
+Asus ROG STRIX GAMING OC,1398.0,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2700.0,Black,336.0,False,True,False,285.0,False
+Sapphire NITRO+,459.0,Radeon RX 580,8.0,1257.0,1411.0,Black,260.0,False,True,False,185.0,False
+Zotac GAMING Trinity OC,2590.0,GeForce RTX 4090,24.0,2235.0,2535.0,Black / Silver,356.0,False,True,False,450.0,False
+Yeston Sakura,899.0,Radeon RX 9070 XT,16.0,2070.0,2700.0,White / Blue,342.0,False,True,False,304.0,False
+EVGA XC3 ULTRA GAMING,919.0,GeForce RTX 3080 10GB,10.0,1440.0,1755.0,Black,285.0,False,True,False,320.0,False
+Asus TUF Gaming OG OC,1819.99,GeForce RTX 4090,24.0,2235.0,2595.0,Black,326.0,False,True,False,450.0,False
+Gigabyte AORUS MASTER,799.99,GeForce RTX 5070,12.0,2160.0,2715.0,Black,317.0,False,True,False,250.0,False
+Zotac GAMING Trinity,1750.0,GeForce RTX 4080 SUPER,16.0,2210.0,2550.0,Black,307.0,False,True,False,320.0,False
+Gigabyte EAGLE OC,594.0,GeForce RTX 4060 Ti,8.0,2310.0,2310.0,Black,272.0,True,True,False,160.0,False
+Gigabyte AORUS ELITE,795.3,GeForce RTX 5060 Ti,16.0,2410.0,2722.0,Black,329.0,False,True,False,180.0,False
+PNY VCNRTX4000ADA-PB,1290.73,RTX 4000 Ada Generation,20.0,1500.0,2175.0,Black,241.0,False,True,False,280.0,True
+Zotac GAMING AMP,309.99,GeForce RTX 5060,8.0,2280.0,2550.0,Black,220.0,False,True,False,145.0,False
+Sparkle ROC Luna OC,301.6,Arc A750,8.0,2050.0,2200.0,White,281.0,False,True,False,160.0,True
+Asus TUF GAMING OC,1189.0,GeForce RTX 4070 SUPER,12.0,1980.0,2595.0,Black,301.0,False,True,False,220.0,False
+ASRock Steel Legend OC,430.55,Radeon RX 7600,8.0,1720.0,2725.0,White,303.0,False,True,False,160.0,True
+EVGA SC GAMING ACX 3.0,495.0,GeForce GTX 1070,8.0,1594.0,1784.0,Black / Silver,267.0,False,True,False,150.0,False
+MSI Radeon RX 6600 MECH 2X 8G,595.0,Radeon RX 6600,8.0,1626.0,2491.0,Black / Silver,235.0,False,True,False,160.0,True
+Asus STRIX GAMING OC,685.0,GeForce RTX 2070,8.0,1410.0,1845.0,Black,305.0,False,True,False,175.0,False
+MSI GeForce RTX 3090 GAMING X TRIO 24G,1695.99,GeForce RTX 3090,24.0,1395.0,1395.0,Black,335.0,True,True,False,350.0,False
+Asus DUAL OC,599.0,Radeon RX 7700 XT,12.0,1700.0,2599.0,Black,280.0,False,True,False,245.0,False
+Gigabyte WINDFORCE OC,299.99,GeForce GTX 1660 Ti,6.0,1500.0,1845.0,Black / Gray,265.0,False,True,False,120.0,True
+Asus TUF GAMING OC,1889.0,GeForce RTX 4080,16.0,2205.0,2625.0,Black,348.0,False,True,False,320.0,False
+Asus DUAL OC,695.0,GeForce RTX 3070,8.0,1500.0,1500.0,Black,267.0,True,True,False,220.0,False
+ASRock Challenger OC,840.45,Radeon RX 7800 XT,16.0,1295.0,2475.0,Black,267.0,False,True,False,263.0,False
+MSI RTX 4090 VENTUS 3X 24G OC,3089.0,GeForce RTX 4090,24.0,2235.0,2565.0,Silver / Black,322.0,False,True,False,450.0,False
+Inno3D X3 OC,1175.73,GeForce RTX 5070 Ti,16.0,2295.0,2482.0,White / Silver,300.0,False,True,False,300.0,False
+NVIDIA Founders Edition,859.0,GeForce RTX 2080 SUPER,8.0,1650.0,1815.0,Silver,267.0,False,True,False,250.0,False
+Zotac GAMING Trinity OC,1699.99,GeForce RTX 3090,24.0,1395.0,1710.0,Black,318.0,False,True,False,350.0,False
+Zotac GAMING Low Profile,299.28,GeForce RTX 3050 6GB,6.0,1040.0,1470.0,Black,151.0,False,True,False,120.0,True
+XFX Speedster MERC 310,1059.0,Radeon RX 7900 XT,20.0,1775.0,2535.0,White,344.0,False,True,False,315.0,False
+Zotac Solid Core OC,1220.25,GeForce RTX 5070 Ti,16.0,2300.0,2482.0,White / Gold,304.0,False,True,False,300.0,False
+Asus DUAL OC,899.99,GeForce RTX 4070 SUPER,12.0,1980.0,2550.0,Black,267.0,False,True,False,220.0,False
+Asus DUAL,249.99,GeForce RTX 5050,8.0,2317.0,2602.0,Black,203.0,False,True,False,160.0,True
+PNY OC,299.99,GeForce RTX 5060,8.0,2280.0,2535.0,Black,200.0,False,True,False,145.0,False
+Asus DUAL OC,619.99,GeForce RTX 4070,12.0,1920.0,2550.0,White,267.0,False,True,False,200.0,False
+ASRock Steel Legend OC,898.99,Radeon RX 9070,16.0,2210.0,2700.0,White / Gray,298.0,False,True,False,280.0,True
+NVIDIA 9001G4012510000,369.0,GeForce GTX 970,4.0,1050.0,1178.0,Black / Silver,267.0,False,True,False,120.0,True
+PNY XLR8 Gaming VERTO EPIC-X RGB OC,899.0,GeForce RTX 4070 SUPER,12.0,1980.0,2505.0,Black,305.0,False,True,False,220.0,False
+MSI VENTUS 3X OC,514.79,GeForce RTX 3060 Ti LHR,8.0,1410.0,1695.0,Black / Gray,316.0,False,True,False,200.0,False
+Gigabyte AERO OC,484.02,GeForce RTX 5060 Ti,8.0,2410.0,2647.0,White / Silver,281.0,False,True,False,180.0,False
+MSI GAMING X,445.0,GeForce GTX 1060 6GB,6.0,1506.0,1809.0,Black / Red,277.0,False,True,False,120.0,False
+PNY VCQP600-PB,64.04,Quadro P600,2.0,1354.0,1455.0,Black,145.0,False,True,False,75.0,True
+Zotac Twin Edge OC,668.0,GeForce RTX 3060 Ti,8.0,1410.0,1695.0,Black,222.0,False,True,False,200.0,False
+Zotac GAMING Trinity OC,1080.0,GeForce RTX 3080 10GB,10.0,1440.0,1725.0,Black,318.0,False,True,False,320.0,False
+Asus DUAL,530.96,Radeon RX 6600,8.0,1626.0,2491.0,Black / Silver,243.0,False,True,False,160.0,True
+Gigabyte AERO OC,2990.0,GeForce RTX 4090,24.0,2520.0,2535.0,Silver / White,342.0,False,True,False,450.0,False
+MSI GAMING X,699.0,GeForce GTX 1080 Ti,11.0,1569.0,1683.0,Black / Red,290.0,False,True,False,250.0,False
+MSI GAMING X,350.0,GeForce GTX 1050 Ti,4.0,1290.0,1493.0,Black / Red,229.0,False,True,False,120.0,True
+AMD RADEON PRO WX 7100,184.96,Radeon Pro WX 7100,8.0,900.0,1080.0,Blue,242.0,False,True,False,160.0,True
+MSI SUPRIM LIQUID SOC,1699.99,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Silver,280.0,True,True,False,360.0,False
+PowerColor Hellhound OC,365.72,Radeon RX 9060 XT,8.0,2220.0,3310.0,Black,310.0,False,True,False,182.0,False
+PowerColor Fighter,325.61,Radeon RX 7600,8.0,1720.0,2655.0,Black,212.0,False,True,False,160.0,True
+PNY RTX A-Series,944.0,RTX A4000,16.0,735.0,1560.0,Black / Gold,241.0,False,True,False,280.0,True
+PowerColor Fighter,789.0,Radeon RX 6700 XT,12.0,2321.0,2581.0,Black,228.0,False,True,False,220.0,True
+MSI ARMOR OC,472.57,Radeon RX 580,8.0,1257.0,1366.0,Black / White,269.0,False,True,False,185.0,False
+XFX Swift,799.99,Radeon RX 9070 XT,16.0,1660.0,2970.0,Unknown,325.0,False,True,False,304.0,False
+Gigabyte Vision OC,795.0,GeForce RTX 3070 Ti,8.0,1575.0,1830.0,White / Silver,320.0,False,True,False,290.0,False
+PNY EPIC-X RGB Triple Fan Plus OC,1272.91,GeForce RTX 5070 Ti,16.0,2295.0,2640.0,Black,328.0,False,True,False,300.0,False
+Sparkle ROC OC,404.5,Arc A770,16.0,2100.0,2300.0,Black,281.0,False,True,False,225.0,False
+MSI VENTUS 2X OC,359.99,GeForce RTX 3060 8GB,8.0,1320.0,1807.0,Black,235.0,False,True,False,160.0,True
+Zotac GAMING Twin Edge,574.39,GeForce RTX 4060 Ti,8.0,2310.0,2535.0,Black,226.0,False,True,False,160.0,False
+XFX Speedster QICK 308 Black,376.72,Radeon RX 7600,8.0,1875.0,2755.0,Black,272.0,False,True,False,160.0,True
+Gigabyte WINDFORCE OC,399.0,GeForce GTX 1060 6GB,6.0,1582.0,1797.0,Black / Red,223.0,False,True,False,120.0,False
+MSI VENTUS 2X PLUS,369.99,GeForce RTX 5060 Ti,8.0,2410.0,2587.0,Black / Gray,227.0,False,True,False,180.0,False
+Asus ROG STRIX GAMING OC,1999.99,GeForce RTX 4080,16.0,2205.0,2655.0,Black / Red,358.0,False,True,False,320.0,False
+MSI GAMING X TRIO,949.99,GeForce RTX 3070 Ti,8.0,1575.0,1830.0,Black / Silver,323.0,False,True,False,290.0,False
+Yeston LP,205.0,GeForce RTX 3050 6GB,6.0,1040.0,1470.0,Pink,160.0,False,True,False,120.0,True
+Gigabyte GAMING,459.0,GeForce GTX 1070,8.0,1594.0,1822.0,Black / Orange,280.0,False,True,False,150.0,False
+EVGA FTW3 ULTRA GAMING iCX3,689.0,GeForce RTX 3060 Ti,8.0,1410.0,1800.0,Black,285.0,False,True,False,200.0,False
+EVGA XC3 ULTRA GAMING,593.02,GeForce RTX 3070 Ti,8.0,1575.0,1815.0,Black,285.0,False,True,False,290.0,False
+PNY VERTO OC,1799.0,GeForce RTX 4080 SUPER,16.0,2210.0,2565.0,Black,340.0,False,True,False,320.0,False
+Asus TUF GAMING,1189.0,GeForce RTX 4070 Ti,12.0,2310.0,2640.0,Black,305.0,False,True,False,285.0,False
+Gigabyte OC,198.0,GeForce GTX 1050,2.0,1379.0,1518.0,Black / Orange,191.0,False,True,False,75.0,True
+PowerColor Red Devil OC,864.91,Radeon RX 6800 XT,16.0,1825.0,2340.0,Black,320.0,False,True,False,300.0,False
+Asus DUAL OC,249.99,GeForce RTX 5050,8.0,2317.0,2677.0,Black,203.0,False,True,False,160.0,True
+MSI GAMING X TRIO,980.99,GeForce RTX 3080 Ti,12.0,1365.0,1770.0,Black / Silver,324.0,False,True,False,350.0,False
+Zotac Twin Edge OC,389.99,GeForce RTX 5060 Ti,8.0,2410.0,2602.0,Black,220.0,False,True,False,180.0,False
+PNY VCQRTX8000-PB,3296.96,Quadro RTX 8000,48.0,1395.0,1770.0,Black / White,267.0,False,True,False,280.0,True
+EVGA FTW GAMING ACX 3.0,598.0,GeForce GTX 1080,8.0,1721.0,1860.0,Black / Silver,267.0,False,True,False,180.0,False
+Gigabyte EAGLE OC ICE,599.8,GeForce RTX 4060,8.0,1830.0,2505.0,White,272.0,False,True,False,115.0,False
+Sapphire NITRO+,678.68,Radeon RX 7700 XT,12.0,1700.0,1700.0,Black,320.0,True,True,False,245.0,False
+MSI GAMING OC,379.99,GeForce RTX 5060 Ti,8.0,2410.0,2572.0,Black,247.0,True,True,False,180.0,False
+Asus ROG STRIX GAMING OC,1298.0,GeForce RTX 4070 Ti,12.0,2310.0,2790.0,Black,336.0,False,True,False,285.0,False
+Yeston Sakura,519.0,Radeon RX 7700 XT,12.0,2171.0,2599.0,White / Blue,340.0,False,True,False,245.0,False
+MSI VENTUS 3X OC,1345.0,GeForce RTX 3080 Ti,12.0,1365.0,1695.0,Black / Silver,305.0,False,True,False,350.0,False
+Sapphire PULSE,471.92,Radeon RX 6600 XT,8.0,1968.0,2593.0,Black / Red,240.0,False,True,False,160.0,True
+MSI GAMING X,518.3,GeForce RTX 4060 Ti,8.0,2310.0,2310.0,Black,247.0,True,True,False,160.0,False
+PNY RTX A-Series,596.96,RTX A2000 12GB,12.0,562.0,1200.0,Black,167.0,False,True,False,220.0,True
+Asus ROG STRIX GAMING OC V2,699.99,GeForce RTX 3060 12GB,12.0,1320.0,1912.0,Black / Silver,300.0,False,True,False,170.0,False
+Asus ProArt OC,1198.0,GeForce RTX 4060 Ti,16.0,2310.0,2685.0,Black / Gold,300.0,False,True,False,160.0,False
+Inno3D Twin X2,778.55,GeForce RTX 5070,12.0,2325.0,2512.0,Black / Silver,250.0,False,True,False,250.0,False
+Gigabyte GAMING OC,995.0,Radeon RX 6800 XT,16.0,1825.0,2285.0,Black / Silver,286.0,False,True,False,300.0,False
+ASRock Phantom Gaming,244.26,Radeon RX 6500 XT,8.0,2420.0,2825.0,Black,240.0,False,True,False,160.0,True
+AMD ‎100-438373,1099.99,Radeon RX 6900 XT,16.0,1825.0,2250.0,Black / Silver,267.0,False,True,False,300.0,False
+Gigabyte AORUS MASTER,868.0,GeForce RTX 3070 Ti,8.0,1575.0,1875.0,Black,324.0,False,True,False,290.0,False
+PNY VERTO OC,389.99,GeForce RTX 4060 Ti,8.0,2310.0,2550.0,Black,245.0,False,True,False,160.0,False
+Asus TUF GAMING OC,1599.99,GeForce RTX 3090,24.0,1395.0,1395.0,Black,300.0,True,True,False,350.0,False
+Asus TUF GAMING OC,799.99,Radeon RX 7900 XT,20.0,2000.0,2000.0,Black,353.0,True,True,False,315.0,False
+Gigabyte OC Low Profile,265.99,GeForce RTX 3050 6GB,6.0,1040.0,1477.0,Black,181.0,False,True,False,120.0,True
+NVIDIA TITAN RTX,1269.0,TITAN RTX,24.0,1350.0,1770.0,Gold / Black,267.0,False,True,False,280.0,True
+EVGA SC GAMING ACX 3.0 Black Edition,525.0,GeForce GTX 1070 Ti,8.0,1607.0,1683.0,Black,267.0,False,True,False,180.0,False
+PowerColor Red Dragon,529.0,Radeon RX 5700 XT,8.0,1650.0,1905.0,Black,240.0,False,True,False,225.0,False
+EVGA SC ULTRA GAMING,235.04,GeForce GTX 1660,6.0,1530.0,1830.0,Silver / Black,202.0,False,True,False,120.0,True
+Zotac GAMING Twin Edge OC,1094.0,GeForce RTX 4070 SUPER,12.0,1980.0,2490.0,Black,234.0,False,True,False,220.0,False
+Asus TUF GAMING OC,1295.0,GeForce RTX 4070 Ti,12.0,2310.0,2760.0,White,305.0,False,True,False,285.0,False
+Asus Phoenix GeForce RTX 3060 V2,299.99,GeForce RTX 3060 12GB,12.0,1320.0,1807.0,Black,177.0,False,True,False,170.0,False
+PowerColor Red Dragon OC,995.0,Radeon RX 6800 XT,16.0,1825.0,2310.0,Black,310.0,False,True,False,300.0,False
+PowerColor Hellhound,998.99,Radeon RX 7900 XT,20.0,2000.0,2500.0,Black,320.0,False,True,False,315.0,False
+Asus TUF GAMING OC,1056.64,Radeon RX 9070,16.0,2170.0,2670.0,Black / Silver,330.0,False,True,False,280.0,True
+ASRock Phantom Gaming OC,1129.99,Radeon RX 7900 XT,20.0,2000.0,2450.0,Black,330.0,False,True,False,315.0,False
+Asus TUF GAMING OC,705.56,GeForce RTX 4060 Ti,8.0,2310.0,2655.0,Black,300.0,False,True,False,160.0,False
+Sapphire PULSE ITX PURE,220.71,Radeon RX 6500 XT,4.0,2310.0,2825.0,White,152.0,False,True,False,120.0,True
+Asus PRIME OC,899.97,GeForce RTX 4070 SUPER,12.0,1980.0,2550.0,Black,269.0,False,True,False,220.0,False
+PNY VERTO,499.95,GeForce RTX 4060 Ti,8.0,2310.0,2535.0,Black,245.0,False,True,False,160.0,False
+EVGA SSC ACX 2.0+,399.0,GeForce GTX 960,4.0,1279.0,1342.0,Black / Silver,257.0,False,True,False,120.0,True
+Palit GameRock OC,3637.59,GeForce RTX 5090,32.0,2010.0,2010.0,Black,332.0,True,True,False,575.0,False
+Palit Dual OC,378.95,GeForce RTX 3060 12GB,12.0,1320.0,1320.0,Black,245.0,True,True,False,170.0,False
+PNY VERTO,3295.0,GeForce RTX 4090,24.0,2235.0,2520.0,Black,337.0,False,True,False,450.0,False
+XFX Speedster SWFT 105,149.99,Radeon RX 6400,4.0,1923.0,1923.0,Black,155.0,True,True,False,120.0,True
+Gigabyte GAMING OC,1060.9,GeForce RTX 4070 SUPER,12.0,1980.0,2565.0,Black,300.0,False,True,False,220.0,False
+Asus ROG STRIX GAMING OC,449.99,Radeon RX 6600 XT,8.0,1968.0,2607.0,Black / Gray,243.0,False,True,False,160.0,True
+Zotac GAMING Trinity OC,770.0,GeForce RTX 3070 Ti,8.0,1575.0,1800.0,Black,318.0,False,True,False,290.0,False
+NVIDIA Founders Edition,720.0,GeForce RTX 2070,8.0,1410.0,1710.0,Silver / Black,229.0,False,True,False,175.0,False
+MSI VENTUS XS OC,785.0,GeForce RTX 2080 SUPER,8.0,1650.0,1830.0,Silver / Black,257.0,False,True,False,250.0,False
+Gigabyte OC Rev 2.0,309.0,GeForce RTX 2060,6.0,1365.0,1755.0,Black / Gray,226.0,False,True,False,160.0,False
+MSI GAMING X,598.0,GeForce GTX 1080,8.0,1607.0,1847.0,Black / Red,279.0,False,True,False,180.0,False
+Asus GT730-SL-2GD5-BRK,79.99,GeForce GT 730,2.0,902.0,902.0,Blue / Black,165.0,True,True,False,75.0,True
+Asus ROG STRIX GAMING OC,725.0,GeForce RTX 3070,8.0,1500.0,1905.0,Black,318.0,False,True,False,220.0,False
+EVGA FTW3 ULTRA GAMING,1189.0,GeForce RTX 3080 12GB LHR,12.0,1260.0,1800.0,Black,300.0,False,True,False,350.0,False
+Asus LP BRK OC,449.0,GeForce RTX 4060,8.0,1830.0,2520.0,Black,188.0,False,True,False,115.0,False
+PNY VCNRTX2000ADA-PB,705.93,RTX 2000 Ada Generation,16.0,1620.0,2130.0,Unknown,168.0,False,True,False,280.0,True
+Asus ROG STRIX WHITE OC,1999.99,GeForce RTX 3090,24.0,1395.0,1890.0,White / Black,318.0,False,True,False,350.0,False
+MSI MECH OC,635.0,Radeon RX 5700 XT,8.0,1670.0,1925.0,Black,232.0,False,True,False,225.0,False
+AMD 100-506115,132.69,Radeon Pro WX 3200,4.0,1250.0,1290.0,Blue / Black,168.0,False,True,False,120.0,True
+Sparkle ORC OC,225.93,Arc A580,8.0,1700.0,2000.0,Blue / Black,222.0,False,True,False,160.0,True
+Asus TUF GAMING,1168.51,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2640.0,Black,305.0,False,True,False,285.0,False
+ASRock Steel Legend OC,809.81,Radeon RX 7700 XT,12.0,1700.0,2599.0,White,304.0,False,True,False,245.0,False
+Palit GamingPro,861.59,GeForce RTX 5070,12.0,2325.0,2512.0,Black,332.0,False,True,False,250.0,False
+Sapphire PULSE,989.0,Radeon RX 6800 XT,16.0,1825.0,1825.0,Black / Red,313.0,True,True,False,300.0,False
+AMD 100-506001,74.98,Radeon Pro WX 2100,2.0,925.0,1219.0,Blue,145.0,False,True,False,75.0,True
+EVGA FTW3 ULTRA GAMING,998.0,GeForce RTX 2080 Ti,11.0,1350.0,1755.0,Clear / Black,302.0,False,True,False,250.0,False
+Zotac GAMING Trinity OC,1299.99,GeForce RTX 3080 Ti,12.0,1365.0,1695.0,Black / Silver,318.0,False,True,False,350.0,False
+PNY EPIC-X RGB OC,399.99,GeForce RTX 5060 Ti,8.0,2407.0,2692.0,Black,297.0,False,True,False,180.0,False
+XFX Mercury OC Magnetic Air RGB V2,919.99,Radeon RX 9070 XT,16.0,1870.0,3100.0,Black,360.0,False,True,False,304.0,False
+MSI GAMING X SLIM,3189.0,GeForce RTX 4090,24.0,2235.0,2610.0,Black,322.0,False,True,False,450.0,False
+MSI GAMING X,738.0,GeForce RTX 2070 SUPER,8.0,1605.0,1800.0,Black,297.0,False,True,False,215.0,False
+XFX Quicksilver Magnetic Air,920.0,Radeon RX 7800 XT,16.0,1295.0,2430.0,White,337.0,False,True,False,263.0,False
+Asus TUF GAMING OC V2,1049.0,GeForce RTX 3080 10GB LHR,10.0,1440.0,1815.0,Black,300.0,False,True,False,160.0,True
+MSI GAMING Z TRIO,949.95,GeForce RTX 3080 10GB LHR,10.0,1440.0,1830.0,Black,323.0,False,True,False,160.0,True
+PNY VCG509032TFXPB1,3862.99,GeForce RTX 5090,32.0,2010.0,2407.0,Black,329.0,False,True,False,575.0,False
+XFX RS XXX,299.0,Radeon RX 570,4.0,1168.0,1284.0,Black / Red,243.0,False,True,False,150.0,False
+Asus TUF GAMING,799.0,GeForce RTX 3070 Ti,8.0,1575.0,1800.0,Black / Silver,300.0,False,True,False,290.0,False
+Inno3D Twin X2 OC,429.55,GeForce RTX 5060,8.0,2280.0,2527.0,Black / Silver,250.0,False,True,False,145.0,False
+Asus DUAL OC,559.99,GeForce RTX 4060 Ti,8.0,2310.0,2595.0,Black,227.0,False,True,False,160.0,False
+Zotac GAMING AMP Holo,698.0,GeForce RTX 3070,8.0,1500.0,1785.0,Silver / Black,291.0,False,True,False,220.0,False
+MSI GAMING X TRIO,539.0,GeForce RTX 3060 Ti,8.0,1410.0,1830.0,Black / Silver,323.0,False,True,False,200.0,False
+EVGA XC ULTRA GAMING,735.0,GeForce RTX 2080,8.0,1515.0,1815.0,Black / Clear,270.0,False,True,False,215.0,False
+Gigabyte EAGLE OC,947.76,GeForce RTX 4070 SUPER,12.0,1980.0,2535.0,Black,261.0,False,True,False,220.0,False
+EVGA Superclocked ACX 2.0,389.0,GeForce GTX 980,4.0,1266.0,1367.0,Black,267.0,False,True,False,120.0,True
+MSI VENTUS XS OC,425.0,GeForce GTX 1660 Ti,6.0,1500.0,1830.0,Unknown,204.0,False,True,False,120.0,True
+EVGA SC GAMING ACX 2.0,259.01,GeForce GTX 1050 Ti,4.0,1354.0,1468.0,Black,145.0,False,True,False,120.0,True
+PNY VCG16606SSFPPB,259.0,GeForce GTX 1660 SUPER,6.0,1530.0,1785.0,Black,168.0,False,True,False,120.0,True
+PowerColor Red Devil Limited Edition OC,1050.0,Radeon RX 9070 XT,16.0,2460.0,3060.0,Black,340.0,False,True,False,304.0,False
+Sparkle ORC OC,280.95,Arc A750,8.0,2050.0,2200.0,Blue / Black,222.0,False,True,False,160.0,True
+MSI GeForce RTX 3090 TI GAMING X TRIO 24G,1989.0,GeForce RTX 3090 Ti,24.0,1560.0,1920.0,Black,325.0,False,True,False,280.0,True
+PNY VCG507012TFXPB1,795.78,GeForce RTX 5070,12.0,2325.0,2512.0,Black,300.0,False,True,False,250.0,False
+PNY VCQRTX4000-PB,349.96,Quadro RTX 4000,8.0,1005.0,1545.0,Silver / Black,267.0,False,True,False,160.0,True
+Gigabyte AERO OC,2140.0,GeForce RTX 4080,16.0,2205.0,2535.0,White,342.0,False,True,False,320.0,False
+Gigabyte GAMING OC,795.0,Radeon RX 6700 XT,12.0,2321.0,2321.0,Black / Silver,281.0,True,True,False,220.0,True
+Asus DUAL EVO OC,329.99,GeForce GTX 1660 SUPER,6.0,1530.0,1860.0,Black,242.0,False,True,False,120.0,True
+XFX RX-560D2SFG5,109.99,Radeon RX 560 - 896,2.0,1196.0,1196.0,Black / Red,211.0,True,True,False,75.0,True
+Inno3D Twin X2 OC,784.09,GeForce RTX 5070,12.0,2325.0,2542.0,Black / Silver,250.0,False,True,False,250.0,False
+Asus STRIX GAMING OC,795.0,GeForce RTX 2080,8.0,1515.0,1890.0,Unknown,298.0,False,True,False,215.0,False
+Asus TUF-RX6800XT-O16G-GAMING,998.0,Radeon RX 6800 XT,16.0,1825.0,2340.0,Black,320.0,False,True,False,300.0,False
+EVGA XC ULTRA GAMING,749.0,GeForce RTX 2070 SUPER,8.0,1605.0,1800.0,Transparent,270.0,False,True,False,215.0,False
+Gigabyte EAGLE OC,329.99,GeForce RTX 5060,8.0,2280.0,2280.0,Black,208.0,True,True,False,145.0,False
+MSI VANGUARD SOC LAUNCH EDITION,1992.0,GeForce RTX 5080,16.0,2300.0,2617.0,Black / Silver,357.0,True,True,False,360.0,False
+MSI GAMING X TRIO,738.0,GeForce RTX 2070 SUPER,8.0,1605.0,1800.0,Black,328.0,False,True,False,215.0,False
+Asus ROG STRIX GAMING,3600.0,GeForce RTX 4090,24.0,2235.0,2550.0,Black,358.0,False,True,False,450.0,False
+Inno3D Twin X2,437.13,GeForce RTX 3060 12GB,12.0,1320.0,1777.0,Black,240.0,False,True,False,170.0,False
+Zotac GAMING Twin Edge OC White Edition,659.0,GeForce RTX 3070 LHR,8.0,1500.0,1755.0,White,232.0,False,True,False,220.0,False
+XFX RX-570P8DFD6,399.0,Radeon RX 570,8.0,1168.0,1286.0,Black / Red,243.0,False,True,False,150.0,False
+ASRock Challenger ITX,191.05,Radeon RX 6400,4.0,1923.0,1923.0,Black / Silver,162.0,True,True,False,120.0,True
+ASRock Challenger SE OC,340.84,Arc A750,8.0,2200.0,2200.0,Black,267.0,True,True,False,160.0,True
+PowerColor RX7700XT 12G-P,551.18,Radeon RX 7700 XT,12.0,1700.0,2544.0,Black,260.0,False,True,False,245.0,False
+Gigabyte AORUS ELITE,553.55,GeForce RTX 5060,8.0,2280.0,2280.0,Black,329.0,True,True,False,145.0,False
+Asus TUF GAMING,649.99,GeForce RTX 4070,12.0,1920.0,2505.0,Black,301.0,False,True,False,200.0,False
+MSI GAMING,529.0,GeForce GTX 1070 Ti,8.0,1607.0,1683.0,Black / Red,279.0,False,True,False,180.0,False
+MSI GAMING X TRIO,985.0,GeForce RTX 2080 Ti,11.0,1350.0,1755.0,Black,327.0,False,True,False,250.0,False
+Zotac GAMING Twin Edge OC,569.99,GeForce RTX 4060 Ti,8.0,2310.0,2565.0,White,226.0,False,True,False,160.0,False
+Gigabyte AERO OC,1349.0,GeForce RTX 4070,12.0,1920.0,2565.0,White / Silver,300.0,False,True,False,200.0,False
+Asus DUAL OC,369.99,GeForce RTX 3060 12GB,12.0,1320.0,1320.0,Black,200.0,True,True,False,170.0,False
+Gigabyte Vision OC,745.0,GeForce RTX 3060 Ti,8.0,1665.0,1755.0,Silver / White,281.0,False,True,False,200.0,False
+ASRock Phantom Gaming OC,458.2,Arc A770,16.0,2100.0,2100.0,Black,305.0,True,True,False,225.0,False
+MSI VENTUS 2X OC,521.04,GeForce RTX 3070 LHR,8.0,1500.0,1755.0,Black,232.0,False,True,False,220.0,False
+MSI SUPRIM X,1995.0,GeForce RTX 4080 SUPER,16.0,2210.0,2655.0,Silver / Black,336.0,False,True,False,320.0,False
+Asus GT1030-2G-BRK,112.01,GeForce GT 1030,2.0,1266.0,1506.0,Black / Blue,169.0,False,True,False,75.0,True
+PNY XLR8 Gaming VERTO EPIC-X RGB,582.21,GeForce RTX 4060,8.0,1830.0,2460.0,Black,260.0,False,True,False,115.0,False
+Gigabyte GAMING OC,1456.34,Radeon RX 7900 XT,20.0,2000.0,2535.0,Black,331.0,False,True,False,315.0,False
+XFX Speedster QICK 308 Black,629.99,Radeon RX 6600 XT,8.0,2188.0,2607.0,Black,274.0,False,True,False,160.0,True
+Asus TUF GAMING OC V2,456.61,GeForce RTX 3060 12GB,12.0,1320.0,1882.0,Black,301.0,False,True,False,170.0,False
+Gigabyte OC,299.0,Radeon RX 5500 XT,4.0,1647.0,1845.0,Black / Gray,225.0,False,True,False,120.0,True
+Zotac GAMING SOLID OC,1099.0,GeForce RTX 5070 Ti,16.0,2300.0,2482.0,Black / Copper,330.0,False,True,False,300.0,False
+MSI VENTUS 2X OC,1379.0,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2655.0,White / Silver,242.0,False,True,False,285.0,False
+MSI GeForce RTX 3080 RTX 3080 SUPRIM X 10G,1145.0,GeForce RTX 3080 10GB,10.0,1440.0,1920.0,Black / Silver,336.0,False,True,False,320.0,False
+Sparkle TITAN OC,428.12,Arc A770,16.0,2100.0,2300.0,Blue / Black,306.0,False,True,False,225.0,False
+Zotac GAMING SOLO,249.99,GeForce RTX 5050,8.0,2317.0,2572.0,Black / Copper,164.0,False,True,False,160.0,True
+Asus ROG STRIX WHITE OC,1219.99,GeForce RTX 3080 10GB,10.0,1440.0,1935.0,White,318.0,False,True,False,320.0,False
+Zotac GAMING Trinity OC,1212.73,GeForce RTX 4070 Ti,12.0,2310.0,2625.0,Black,307.0,False,True,False,285.0,False
+Zotac MINI,698.0,GeForce RTX 2070 SUPER,8.0,1605.0,1770.0,Black,210.0,False,True,False,215.0,False
+MSI GT OC,239.0,GeForce GTX 1060 3GB,3.0,1544.0,1759.0,Black / White,243.0,False,True,False,75.0,True
+PNY XLR8 Gaming VERTO EPIC-X RGB OC,1898.0,GeForce RTX 4080 SUPER,16.0,2210.0,2595.0,Black,332.0,False,True,False,320.0,False
+Asus STRIX GAMING Advanced,735.0,GeForce RTX 2070 SUPER,8.0,1635.0,1830.0,Black,300.0,False,True,False,215.0,False
+XFX Mercury OC,440.12,Radeon RX 9060 XT,16.0,2220.0,3320.0,Black / Silver,320.0,False,True,False,182.0,False
+EVGA XC3 BLACK GAMING,789.0,GeForce RTX 3080 10GB LHR,10.0,1440.0,1710.0,Black,285.0,False,True,False,160.0,True
+Asus DUAL OC,429.99,GeForce RTX 4060,8.0,1830.0,2535.0,Black,227.0,False,True,False,115.0,False
+MSI GAMING X,603.3,Radeon RX 6600 XT,8.0,1968.0,2607.0,Black / Silver,277.0,False,True,False,160.0,True
+Asus Phoenix OC,289.0,GeForce GTX 1660 SUPER,6.0,1530.0,1830.0,Black / White,174.0,False,True,False,120.0,True
+MSI VANGUARD SOC LAUNCH EDITION,1059.99,GeForce RTX 5070 Ti,16.0,2300.0,2602.0,Black / Silver,357.0,False,True,False,300.0,False
+Asus ROG STRIX,549.0,GeForce GTX 1070 Ti,8.0,1607.0,1759.0,Black,298.0,False,True,False,180.0,False
+PNY VCQP1000-PB,107.0,Quadro P1000,4.0,1354.0,1455.0,Black,145.0,False,True,False,120.0,True
+MSI VENTUS 3X OC,329.99,GeForce RTX 5060,8.0,2280.0,2550.0,Silver / Black,303.0,False,True,False,145.0,False
+Asus ROG STRIX GAMING OC,999.99,GeForce RTX 3080 12GB LHR,12.0,1260.0,1890.0,Black / Silver,318.0,False,True,False,350.0,False
+Sapphire PULSE,979.0,Radeon RX 6800,16.0,1700.0,1700.0,Black / Red,303.0,True,True,False,280.0,True
+MSI GeForce RTX 3090 VENTUS 3X 24G OC,1599.99,GeForce RTX 3090,24.0,1395.0,1395.0,Black,305.0,True,True,False,350.0,False
+Gigabyte EAGLE OC,473.52,GeForce RTX 5060 Ti,8.0,2410.0,2617.0,White / Silver,215.0,False,True,False,180.0,False
+MSI VENTUS 3X OC,1249.0,GeForce RTX 4070 Ti,12.0,2310.0,2655.0,Silver / Black,308.0,False,True,False,285.0,False
+EVGA ACX 2.0,359.0,GeForce GTX 970,4.0,1050.0,1178.0,Black / Blue,241.0,False,True,False,120.0,True
+Gigabyte OC Low Profile,376.93,GeForce RTX 5050,8.0,2317.0,2587.0,Black,182.0,False,True,False,160.0,True
+Asus ROG STRIX GAMING OC V2,485.17,GeForce RTX 3060 Ti LHR,8.0,1410.0,1890.0,Black / Silver,318.0,False,True,False,200.0,False
+Asus DUAL OC,379.99,GeForce RTX 3050 8GB,8.0,1550.0,1852.0,Black,200.0,False,True,False,130.0,False
+MSI GAMING X,489.0,Radeon RX 580,8.0,1257.0,1393.0,Black / Red,276.0,False,True,False,185.0,False
+PNY VCNRTX4000ADALP-PB,1299.0,RTX 4000 SFF Ada Generation,20.0,1290.0,1565.0,Black,168.0,False,True,False,280.0,True
+Palit Infinity 3 OC,583.58,GeForce RTX 5060 Ti,8.0,2407.0,2662.0,Black,292.0,False,True,False,180.0,False
+EVGA FTW GAMING ACX 3.0,489.0,GeForce GTX 1070,8.0,1607.0,1797.0,Black / Gray,267.0,False,True,False,150.0,False
+Asus TUF GAMING OC,868.88,Radeon RX 6700 XT,12.0,2321.0,2321.0,Black,322.0,True,True,False,220.0,True
+MSI EXPERT,1989.0,GeForce RTX 4080 SUPER,16.0,2210.0,2625.0,Copper / Black,312.0,False,True,False,320.0,False
+MSI VENTUS 2X E OC,1398.88,GeForce RTX 4070,12.0,1920.0,2520.0,Silver / Black,245.0,False,True,False,200.0,False
+Palit StormX,256.0,GeForce RTX 3050 6GB,6.0,1040.0,1470.0,Black,162.0,False,True,False,120.0,True
+EVGA SSC GAMING,383.0,GeForce GTX 1060 6GB,6.0,1607.0,1835.0,Black,267.0,False,True,False,120.0,False
+MSI SHADOW 3X,1089.0,GeForce RTX 5070 Ti,16.0,2300.0,2467.0,Black,303.0,False,True,False,300.0,False
+Asus TUF GAMING OC,539.99,GeForce RTX 5060 Ti,8.0,2410.0,2692.0,Black / Silver,302.0,False,True,False,180.0,False
+PNY VCQP620-PB,91.07,Quadro P620,2.0,1266.0,1354.0,Black,145.0,False,True,False,75.0,True
+Asus TUF GAMING OC V2,698.97,GeForce RTX 3060 Ti LHR,8.0,1410.0,1785.0,Black,301.0,False,True,False,200.0,False
+MSI GAMING Z,916.69,GeForce RTX 2060,6.0,1365.0,1830.0,Black / Gray,247.0,False,True,False,160.0,False
+Asus ROG STRIX GAMING OC,1229.99,GeForce RTX 4070 SUPER,12.0,1980.0,2670.0,Black,339.0,False,True,False,220.0,False
+Zotac GAMING AMP,399.99,GeForce RTX 5060 Ti,8.0,2410.0,2632.0,Black,220.0,False,True,False,180.0,False
+Asus DUAL OC,970.0,Radeon RX 6750 XT,12.0,2150.0,2618.0,Black / Silver,295.0,False,True,False,220.0,True
+MSI RTX 3090 SUPRIM X 24G,1658.0,GeForce RTX 3090,24.0,1395.0,1875.0,Silver,336.0,False,True,False,350.0,False
+MSI Radeon RX 6900 XT GAMING X TRIO 16G,1135.01,Radeon RX 6900 XT,16.0,1825.0,2340.0,Silver / Black,324.0,False,True,False,300.0,False
+XFX GTS,294.3,Radeon RX 580,8.0,1405.0,1425.0,Black / Red,270.0,False,True,False,185.0,False
+PowerColor ITX,149.8,Radeon RX 6500 XT,4.0,2310.0,2310.0,Black,165.0,True,True,False,120.0,True
+Sapphire NITRO+,898.0,Radeon RX 6800 XT,16.0,1825.0,1825.0,Black / Silver,310.0,True,True,False,300.0,False
+Asus STRIX-GTX960-DC2OC-2GD5,249.0,GeForce GTX 960,2.0,1228.0,1291.0,Black,215.0,False,True,False,75.0,True
+Gigabyte GAMING OC,589.0,Radeon RX 6600 XT,8.0,1968.0,2593.0,Black / Silver,282.0,False,True,False,160.0,True
+XFX RX-97TMAQKW9,1221.15,Radeon RX 9070 XT,16.0,2400.0,2970.0,White,360.0,False,True,False,304.0,False
+Asus ProArt OC,720.0,GeForce RTX 4060,8.0,1830.0,2580.0,Black / Gold,300.0,False,True,False,115.0,False
+MSI GAMING X TRIO,1249.0,Radeon RX 6950 XT,16.0,1890.0,2454.0,Silver / Black,325.0,False,True,False,280.0,True
+Asus TUF Gaming EVO OC,420.0,GeForce GTX 1660 Ti,6.0,1500.0,1845.0,Black / Gray,206.0,False,True,False,120.0,True
+Zotac GAMING Twin Edge OC,309.99,GeForce RTX 5060,8.0,2280.0,2527.0,Black,220.0,False,True,False,145.0,False
+Gigabyte GAMING OC,1569.99,GeForce RTX 3090,24.0,1395.0,1755.0,Black / Gray,320.0,False,True,False,350.0,False
+Asus DUAL OC,549.0,Radeon RX 6600 XT,8.0,1968.0,2607.0,Black / White,243.0,False,True,False,160.0,True
+Zotac GAMING SOLO,278.53,GeForce RTX 3050 6GB,6.0,1040.0,1470.0,Black,151.0,False,True,False,120.0,True
+Zotac GAMING AMP Holo,585.99,GeForce RTX 3070 Ti,8.0,1575.0,1830.0,Black / Silver,317.0,False,True,False,290.0,False
+MSI GAMING X TRIO,913.46,Radeon RX 6750 XT,12.0,2150.0,2623.0,Silver / Black,327.0,False,True,False,220.0,True
+MSI Radeon RX 6800 XT Gaming X Trio 16G,1170.49,Radeon RX 6800 XT,16.0,1850.0,2285.0,Silver / Black,324.0,False,True,False,300.0,False
+Asus DUAL,345.0,GeForce GTX 1060 3GB,3.0,1594.0,1809.0,White,242.0,False,True,False,75.0,True
+MSI GeForce RTX 2080 TI VENTUS 11G OC,998.0,GeForce RTX 2080 Ti,11.0,1350.0,1635.0,Silver / Black,268.0,False,True,False,250.0,False
+EVGA FTW3 ULTRA GAMING LHR,799.99,GeForce RTX 3080 10GB LHR,10.0,1440.0,1800.0,Black,300.0,False,True,False,160.0,True
+AMD 100-505999,139.96,Radeon Pro WX 3100,4.0,925.0,1219.0,Blue,168.0,False,True,False,120.0,True
+Gigabyte GAMING OC Rev 2.0,849.99,GeForce RTX 3080 10GB LHR,10.0,1440.0,1800.0,Black / Gray,320.0,False,True,False,160.0,True
+EVGA Black,998.0,GeForce RTX 2080 Ti,11.0,1350.0,1545.0,Black / Clear,270.0,False,True,False,250.0,False
+PNY VCQRTX5000-PB,749.96,Quadro RTX 5000,16.0,1620.0,1815.0,Silver / Black,267.0,False,True,False,280.0,True
+MSI MSI RTX 2070 Ventus 8G Video Card,659.0,GeForce RTX 2070,8.0,1410.0,1620.0,Silver / Black,226.0,False,True,False,175.0,False
+PNY ARGB EPIC-X RGB OC,339.99,GeForce RTX 5060,8.0,2280.0,2580.0,Black,280.0,False,True,False,145.0,False
+EVGA SC GAMING,589.0,GeForce RTX 2060,6.0,1365.0,1710.0,Black,190.0,False,True,False,160.0,False
+PNY VCQP400-PB,89.99,Quadro P400,2.0,1070.0,1170.0,Black,145.0,False,True,False,75.0,True
+MSI SUPRIM X,1667.49,GeForce RTX 3070 Ti,8.0,1575.0,1875.0,Black / Silver,335.0,False,True,False,290.0,False
+PowerColor Red Devil,599.0,Radeon RX 6600 XT,8.0,1968.0,2607.0,Black,251.0,False,True,False,160.0,True
+Gainward Phantom,3324.37,GeForce RTX 5090,32.0,2010.0,2010.0,Black,332.0,True,True,False,575.0,False
+MSI RTX 4090 GAMING SLIM 24G,3070.0,GeForce RTX 4090,24.0,2235.0,2535.0,Black,322.0,False,True,False,450.0,False
+MSI Ventus XS OCV1,245.0,GeForce GTX 1650 G6,4.0,1410.0,1620.0,Black / Silver,179.0,False,True,False,120.0,True
+PNY VCNRTX2000ADAS-LLP,749.99,RTX 2000E Ada Generation,16.0,,,Black,168.0,True,False,False,280.0,True
+Gigabyte GAMING OC Rev 2.0,699.0,GeForce RTX 3070 LHR,8.0,1500.0,1815.0,Black,286.0,False,True,False,220.0,False
+Asus STRIX GAMING OC,599.0,GeForce RTX 2060,6.0,1365.0,1860.0,Black,300.0,False,True,False,160.0,False
+Gigabyte GAMING,289.99,Radeon RX 570,4.0,1168.0,1255.0,Black / Orange,232.0,False,True,False,150.0,False
+PNY XLR8 Gaming VERTO EPIC-X RGB OC,1249.97,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2655.0,Black,333.0,False,True,False,285.0,False
+PNY XLR8 Gaming REVEL EPIC-X RGB,625.0,GeForce RTX 3060 12GB,12.0,1320.0,1320.0,Black,170.0,True,True,False,170.0,False
+Gigabyte GAMING,299.99,Radeon RX 9060 XT,8.0,2220.0,3130.0,Black,281.0,True,True,False,182.0,False
+MSI VENTUS 2X OC,1089.0,GeForce RTX 4070 SUPER,12.0,1980.0,2520.0,White,242.0,False,True,False,220.0,False
+MSI ARMOR OC,592.33,GeForce GTX 1660 Ti,6.0,1500.0,1860.0,Black / White,243.0,False,True,False,120.0,True
+Sapphire PULSE BE,599.0,Radeon RX 5700 XT,8.0,1605.0,1925.0,Black / Gray,254.0,False,True,False,225.0,False
+PowerColor Red Devil OC,779.99,Radeon RX 9070,16.0,2170.0,2700.0,Black / Red,340.0,False,True,False,280.0,True
+EVGA XC3 ULTRA GAMING,1598.0,GeForce RTX 3090,24.0,1395.0,1725.0,Black / Red,285.0,False,True,False,350.0,False
+Zotac AMP,395.0,GeForce GTX 1060 6GB,6.0,1556.0,1771.0,Black / Silver,210.0,False,True,False,120.0,False
+Zotac GAMING,378.88,GeForce GTX 1660 Ti,6.0,1500.0,1770.0,Black,173.0,False,True,False,120.0,True
+PNY VCQM2000-PB,94.11,Quadro M2000,4.0,872.0,1180.0,Black,168.0,False,True,False,120.0,True
+AMD RADEON PRO WX 4100,159.0,Radeon Pro WX 4100,4.0,925.0,975.0,Blue,168.0,False,True,False,120.0,True
+Asus TUF Gaming OG OC,1189.0,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2670.0,Black,326.0,False,True,False,285.0,False
+Asus GT730-4H-SL-2GD5,111.09,GeForce GT 730,2.0,902.0,927.0,Blue,148.0,False,True,False,75.0,True
+EVGA SC GAMING,268.68,GeForce GTX 1060 3GB,3.0,1607.0,1835.0,Black,173.0,False,True,False,75.0,True
+MSI GAMING TRIO,3089.0,GeForce RTX 4090,24.0,2235.0,2235.0,Black,337.0,True,True,False,450.0,False
+Inno3D Twin X2,256.77,GeForce RTX 3050 6GB,6.0,1040.0,1470.0,Gray / Black,222.0,False,True,False,120.0,True
+MSI ARMOR,659.0,GeForce RTX 2070,8.0,1410.0,1740.0,Black / Silver,309.0,False,True,False,175.0,False
+Gigabyte GAMING OC,799.0,Radeon RX 6800,16.0,1815.0,2155.0,Silver / Black,286.0,False,True,False,280.0,True
+MSI GAMING X TRIO,656.98,GeForce RTX 3060 12GB,12.0,1320.0,1852.0,Black,323.0,False,True,False,170.0,False
+PNY RTX A-Series,1865.62,RTX A5000,24.0,1170.0,1695.0,Black,267.0,False,True,False,280.0,True
+Gigabyte AERO OC,1395.0,GeForce RTX 4070 Ti,12.0,2310.0,2640.0,White / Silver,336.0,False,True,False,285.0,False
+Yeston Sakura,749.0,GeForce RTX 5070,12.0,2325.0,2572.0,White / Blue,342.0,False,True,False,250.0,False
+PNY VCNRTX4500ADA-PB,2329.98,RTX 4500 Ada Generation,24.0,2070.0,2580.0,Black / Gold,245.0,False,True,False,280.0,True
+Asus Turbo,545.0,GeForce GTX 1080 Ti,11.0,1480.0,1582.0,Black / White,267.0,False,True,False,250.0,False
+XFX Speedster MERC 319 Black,1014.0,Radeon RX 6700 XT,12.0,2321.0,2622.0,Black,323.0,False,True,False,220.0,True
+Gigabyte EAGLE,589.0,Radeon RX 6600 XT,8.0,1968.0,2589.0,Black / Silver,282.0,False,True,False,160.0,True
+Asus STRIX GAMING OC,498.0,Radeon RX 5600 XT,6.0,1247.0,1770.0,Black,304.0,False,True,False,120.0,True
+Gainward Phantom GS,4569.8,GeForce RTX 4080,16.0,2205.0,2640.0,Black,329.0,False,True,False,320.0,False
+EVGA XC GAMING,419.99,GeForce RTX 2060,12.0,1365.0,1680.0,Black,268.0,False,True,False,160.0,False
+MSI GAMING X SLIM,999.99,GeForce RTX 4070,12.0,1920.0,2625.0,Black / Gray,307.0,False,True,False,200.0,False
+Asus ProArt OC,1295.0,GeForce RTX 4070 SUPER,12.0,1980.0,2565.0,Black / Gold,300.0,False,True,False,220.0,False
+MSI GTX 1070 TI TITANIUM 8G,499.0,GeForce GTX 1070 Ti,8.0,1607.0,1683.0,Black / Silver,279.0,False,True,False,180.0,False
+Asus ROG STRIX GAMING OC,1599.99,GeForce RTX 4080,16.0,2205.0,2655.0,White,358.0,False,True,False,320.0,False
+Gigabyte EAGLE OC,795.0,GeForce RTX 3070 Ti,8.0,1575.0,1800.0,Black,283.0,False,True,False,290.0,False
+Acer Predator BiFrost OC,899.95,Radeon RX 9070,16.0,2070.0,2700.0,Black / Silver,297.0,False,True,False,280.0,True
+Gigabyte WINDFORCE V2,2990.0,GeForce RTX 4090,24.0,2235.0,2520.0,Black,331.0,False,True,False,450.0,False
+MSI INSPIRE 2X OC,329.99,GeForce RTX 5060,8.0,2280.0,2550.0,Gold / Black,204.0,False,True,False,145.0,False
+MSI MECH 2X,738.0,Radeon RX 6700 XT,12.0,2321.0,2321.0,Black / Silver,247.0,True,True,False,220.0,True
+VisionTek 901491,62.99,Radeon HD 6570,1.0,480.0,480.0,Black,150.0,True,True,False,75.0,True
+AMD RADEON PRO WX 5100,182.6,Radeon Pro WX 5100,8.0,926.0,1206.0,Blue,173.0,False,True,False,160.0,True
+MSI SHADOW 2X OC,249.99,GeForce RTX 5050,8.0,2317.0,2617.0,Black,197.0,False,True,False,160.0,True
+Asus DUAL,1048.0,GeForce RTX 4070,12.0,1920.0,2505.0,Black,267.0,False,True,False,200.0,False
+Palit KalmX,269.67,GeForce RTX 3050 6GB,6.0,1040.0,1470.0,Silver / Black,166.0,False,True,False,120.0,True
+MSI DUKE OC,495.0,GeForce GTX 1080 Ti,11.0,1531.0,1645.0,Black,320.0,False,True,False,250.0,False
+Zotac MINI,459.0,GeForce GTX 1070,8.0,1518.0,1708.0,Black / Silver,210.0,False,True,False,150.0,False
+PNY VCQP2000-PB,190.0,Quadro P2000,5.0,1370.0,1470.0,Black,201.0,False,True,False,120.0,True
+MSI SUPRIM X,1325.0,GeForce RTX 3080 Ti,12.0,1365.0,1845.0,Black / Silver,336.0,False,True,False,350.0,False
+EVGA XC3 BLACK GAMING,699.99,GeForce RTX 3070,8.0,1500.0,1725.0,Black / Silver,285.0,False,True,False,220.0,False
+Zotac GAMING AMP Holo,1007.48,GeForce RTX 3080 Ti,12.0,1365.0,1710.0,Black / Silver,318.0,False,True,False,350.0,False
+EVGA XC3 ULTRA GAMING iCX3,619.0,GeForce RTX 3070 LHR,8.0,1500.0,1770.0,Black,285.0,False,True,False,220.0,False
+Asus ROG STRIX BTF GAMING OC,3499.99,GeForce RTX 4090,24.0,2235.0,2640.0,Black,358.0,False,True,False,450.0,False
+Asus DUAL V2,435.0,Radeon RX 6600,8.0,1626.0,2491.0,Black,243.0,False,True,False,160.0,True
+AMD 100-506095,182.99,Radeon Pro W5500,8.0,1354.0,1900.0,Blue / White,241.0,False,True,False,160.0,True
+MSI GAMING X SLIM,999.99,GeForce RTX 4060 Ti,16.0,2310.0,2685.0,White,307.0,False,True,False,160.0,False
+Gigabyte AERO OC V2,1345.0,GeForce RTX 4070 Ti,12.0,2310.0,2640.0,White / Silver,300.0,False,True,False,285.0,False
+Gigabyte GAMING OC,1140.0,GeForce RTX 4070,12.0,1920.0,2565.0,Black,300.0,False,True,False,200.0,False
+EVGA SC GAMING ACX 3.0,614.05,GeForce GTX 1080,8.0,1708.0,1847.0,Black / Silver,267.0,False,True,False,180.0,False
+Asus TUF Gaming BTF OC,1589.88,GeForce RTX 4070 Ti,16.0,2310.0,2670.0,White,305.0,False,True,False,285.0,False
+MSI GAMING X,345.0,GeForce GTX 1650 G5,4.0,1485.0,1860.0,Black,245.0,False,True,False,120.0,True
+MSI VENTUS 3X PLUS OC,1189.0,GeForce RTX 3080 12GB LHR,12.0,1260.0,1740.0,Black / Gray,305.0,False,True,False,350.0,False
+Gigabyte WINDFORCE OC,430.0,GeForce GTX 1070,8.0,1556.0,1771.0,Black / Orange,280.0,False,True,False,150.0,False
+MSI ARMOR OC,598.0,GeForce GTX 1080,8.0,1657.0,1797.0,Black / White,279.0,False,True,False,180.0,False
+Asus TUF GAMING,1889.0,GeForce RTX 4080,16.0,2205.0,2535.0,Black,348.0,False,True,False,320.0,False
+Asus ProArt OC,1958.0,GeForce RTX 4080,16.0,2205.0,2625.0,Black / Gold,300.0,False,True,False,320.0,False
+MSI DUKE,399.0,GeForce GTX 1070 Ti,8.0,1607.0,1683.0,Black,312.0,False,True,False,180.0,False
+Asus GTXTITANX-12GD5,799.0,GeForce GTX Titan X,12.0,1075.0,1000.0,Black / Silver,267.0,False,True,False,220.0,True
+Palit StormX,368.71,GeForce GTX 1050 Ti,4.0,1290.0,1392.0,Black,166.0,False,True,False,120.0,True
+EVGA SC ULTRA GAMING,317.33,GeForce GTX 1650 SUPER,4.0,1530.0,1755.0,Black,202.0,False,True,False,120.0,True
+Zotac GAMING Twin Edge OC,339.99,GeForce RTX 3050 8GB,8.0,1550.0,1807.0,Black / Silver,224.0,False,True,False,130.0,False
+Gigabyte GAMING OC PRO Rev 3.0,598.76,GeForce RTX 3060 Ti LHR,8.0,1410.0,1770.0,Black,281.0,False,True,False,200.0,False
+NVIDIA 9001G4012500000,389.0,GeForce GTX 980,4.0,1126.0,1216.0,Black / Silver,267.0,False,True,False,120.0,True
+PNY VCQP4000-PB,300.61,Quadro P4000,8.0,1227.0,1480.0,Black / Green,242.0,False,True,False,160.0,True
+Zotac ZT-P10300A-10L,124.19,GeForce GT 1030,2.0,1227.0,1468.0,Black,173.0,False,True,False,75.0,True
+NVIDIA 900-5G172-2580-000,499.83,RTX A1000,8.0,727.0,1462.0,Black,163.0,False,True,False,160.0,True
+Gigabyte GAMING OC 3X,795.0,GeForce RTX 2070 SUPER,8.0,1605.0,1815.0,Black,286.0,False,True,False,215.0,False
+Asus ROG STRIX GAMING OC,795.0,Radeon RX 6700 XT,12.0,2321.0,2321.0,Black / Silver,322.0,True,True,False,220.0,True
+PNY VCNRTX5000ADA-PB,4100.93,RTX 5000 Ada Generation,32.0,1620.0,2130.0,Black,267.0,False,True,False,280.0,True
+Gigabyte AORUS XTREME,1598.0,GeForce RTX 3090,24.0,1395.0,1860.0,Black,319.0,False,True,False,350.0,False
+MSI GAMING X,379.0,GeForce GTX 1650 SUPER,4.0,1530.0,1755.0,Black / Silver,248.0,False,True,False,120.0,True
+MSI GeForce GTX 1650 SUPER,505.8,GeForce GTX 1650 SUPER,4.0,1530.0,1740.0,Black / White,175.0,False,True,False,120.0,True
+Zotac GAMING AMP,1769.99,GeForce RTX 4080 SUPER,16.0,2210.0,2610.0,Black,308.0,False,True,False,320.0,False
+ASRock Challenger D OC,411.32,Radeon RX 5500 XT,8.0,1685.0,1845.0,Black / Yellow,241.0,False,True,False,160.0,True
+HP C2J92AA,65.18,Quadro K600,1.0,876.0,876.0,Black / Green,160.0,True,True,False,75.0,True
+MSI GeForce RTX 3070 Ventus 3X 8G OC LHR,735.0,GeForce RTX 3070 LHR,8.0,1500.0,1755.0,Black,305.0,False,True,False,220.0,False
+Asus ROG STRIX GAMING OC,459.99,Radeon RX 6650 XT,8.0,2055.0,2694.0,Black / Gray,281.0,False,True,False,160.0,True
+PNY UPRISING,718.94,GeForce RTX 3070,8.0,1500.0,1725.0,Black,265.0,False,True,False,220.0,False
+MSI N730-2GD3V3,107.52,GeForce GT 730,2.0,700.0,700.0,White,145.0,True,True,False,75.0,True
+Asus TUF GAMING OC,1145.0,GeForce RTX 3080 12GB LHR,12.0,1260.0,1815.0,Black / Silver,300.0,False,True,False,350.0,False
+Asus TUF GAMING OC P,255.99,GeForce GTX 1650 G6,4.0,1410.0,1785.0,Black,206.0,False,True,False,120.0,True
+AMD 100-300000078,429.0,Radeon PRO W7500,8.0,1500.0,1700.0,Black,216.0,False,True,False,160.0,True
+Asus Turbo,869.0,GeForce RTX 2080 Ti,11.0,1350.0,1350.0,Black,269.0,True,True,False,250.0,False
+Gigabyte TURBO,1550.0,GeForce RTX 3090,24.0,1395.0,1695.0,Black,267.0,False,True,False,350.0,False
+MSI VENTUS 2X OCV1,487.54,GeForce RTX 3060 Ti LHR,8.0,1410.0,1695.0,Black / Gray,235.0,False,True,False,200.0,False
+MSI GAMING Z TRIO,1189.0,GeForce RTX 3080 12GB LHR,12.0,1260.0,1815.0,Black / Gray,323.0,False,True,False,350.0,False
+EVGA SSC DT,319.99,GeForce GTX 1060 6GB,6.0,1506.0,1708.0,Black / Silver,267.0,False,True,False,120.0,False
+Gigabyte GV-N107TGAMING-8GD,399.0,GeForce GTX 1070 Ti,8.0,1607.0,1721.0,Black / Orange,280.0,False,True,False,180.0,False
+Gigabyte EAGLE OC,1150.0,GeForce RTX 4070,12.0,1920.0,2505.0,Black,261.0,False,True,False,200.0,False
+Gainward Ghost,864.46,GeForce RTX 5060 Ti,8.0,2410.0,2572.0,Black,262.0,False,True,False,180.0,False
+Gigabyte GAMING OC,759.0,GeForce RTX 2080,8.0,1515.0,1515.0,Black,286.0,True,True,False,215.0,False
+MSI GeForce RTX 3070 VENTUS 3X,534.19,GeForce RTX 3070,8.0,1500.0,1725.0,Black / Silver,305.0,False,True,False,220.0,False
+Asus Turbo,379.99,GeForce GTX 1060 6GB,6.0,1506.0,1708.0,Black,267.0,False,True,False,120.0,False
+ASRock Phantom Gaming D OC,1085.0,Radeon RX 6900 XT,16.0,1925.0,2340.0,Black / Silver,330.0,False,True,False,300.0,False
+EVGA FTW DT GAMING,485.0,GeForce GTX 1080,8.0,1607.0,1733.0,Black / Gray,267.0,False,True,False,180.0,False
+Asus ROG STRIX GAMING OC V2,1099.0,GeForce RTX 3080 10GB LHR,10.0,1440.0,1935.0,Black,318.0,False,True,False,160.0,True
+MSI ARMOR OC,231.32,GeForce GTX 1660,6.0,1530.0,1845.0,Black / White,243.0,False,True,False,120.0,True
+Gigabyte AORUS MASTER,1549.0,GeForce RTX 3080 Ti,12.0,1365.0,1770.0,Black,320.0,False,True,False,350.0,False
+Zotac GAMING AMP Extreme INFINITY ULTRA,1800.26,GeForce RTX 5080,16.0,2300.0,2730.0,Black,332.0,False,True,False,360.0,False
+XFX GTS,219.99,Radeon RX 580,8.0,1257.0,1405.0,Black / Red,270.0,False,True,False,185.0,False
+XFX Speedster MERC 308 Black,595.35,Radeon RX 6650 XT,8.0,2055.0,2694.0,Silver / Black,274.0,False,True,False,160.0,True
+Palit Infinity 3,479.78,GeForce RTX 5060,8.0,2280.0,2497.0,Unknown,292.0,False,True,False,145.0,False
+MSI GAMING Z TRIO V1,629.99,Radeon RX 6800,16.0,1700.0,2155.0,Black / Silver,324.0,False,True,False,280.0,True
+MSI GAMING X TRIO,1995.0,GeForce RTX 4080,16.0,2205.0,2610.0,White,337.0,False,True,False,320.0,False
+PowerColor Red Dragon,164.9,Radeon RX 550 - 512,4.0,1100.0,1071.0,Black,181.0,False,True,False,120.0,True
+MSI GAMING,389.0,Radeon R9 390,8.0,1000.0,1060.0,Black / Red,277.0,False,True,False,160.0,True
+Gigabyte GAMING OC,1962.0,Radeon RX 6900 XT,16.0,1825.0,2285.0,Black / Silver,286.0,False,True,False,300.0,False
+AMD 100-505724,189.96,FirePro W7100,8.0,824.0,824.0,Black / Red,279.0,True,True,False,160.0,True
+MSI GAMING Z TRIO,948.99,GeForce RTX 3070 LHR,8.0,1500.0,1845.0,Black / Silver,323.0,False,True,False,220.0,False
+Palit GameRock OC,1279.58,GeForce RTX 5070 Ti,16.0,2300.0,2512.0,Black,332.0,False,True,False,300.0,False
+Asus KO Gaming OC,735.0,GeForce RTX 3070,8.0,1500.0,1845.0,Black / Silver,275.0,False,True,False,220.0,False
+Gigabyte AI TOP,1349.0,GeForce RTX 4070 Ti SUPER,16.0,2340.0,2610.0,Black,260.0,False,True,False,285.0,False
+Palit GamingPro OC,898.19,GeForce RTX 5070,12.0,2325.0,2572.0,Black,332.0,False,True,False,250.0,False
+Gigabyte GV-N1030SL-2GL,183.0,GeForce GT 1030,2.0,1252.0,1506.0,White,175.0,False,True,False,75.0,True
+Asus TURBO-GTX1070-8G,479.0,GeForce GTX 1070,8.0,1506.0,1683.0,Black / Silver,267.0,False,True,False,150.0,False
+EVGA XC BLACK GAMING,435.0,GeForce GTX 1660 Ti,6.0,1500.0,1770.0,Unknown,190.0,False,True,False,120.0,True
+EVGA XC GAMING,675.0,GeForce RTX 2070,8.0,1410.0,1710.0,Clear / Black,269.0,False,True,False,175.0,False
+Asus Turbo,495.0,GeForce GTX 1080,8.0,1607.0,1733.0,Black / Silver,267.0,False,True,False,180.0,False
+AMD 100-300000075,2382.14,Radeon PRO W7800,32.0,1855.0,2499.0,Black,280.0,False,True,False,280.0,True
+Zotac GAMING AMP AIRO Spider-Man: Across the Spider-Verse,999.99,GeForce RTX 4070 Ti,12.0,2310.0,2670.0,Black,308.0,False,True,False,285.0,False
+MSI GAMING X,756.0,Radeon RX 6700 XT,12.0,2321.0,2321.0,Black / Silver,279.0,True,True,False,220.0,True
+Asus STRIX LC GAMING OC,1499.99,GeForce RTX 3090 Ti,24.0,1560.0,1980.0,Silver / Black,293.0,False,True,False,280.0,True
+AMD 100-506061,1149.0,Vega Frontier Edition,16.0,1440.0,1600.0,Blue / Gold,267.0,False,True,False,280.0,True
+Gigabyte GAMING OC PRO,560.0,Radeon RX 6600 XT,8.0,1968.0,2607.0,Black / Silver,282.0,False,True,False,160.0,True
+Sparkle ROC OC,229.72,Arc A750,8.0,2050.0,2200.0,Black,281.0,False,True,False,160.0,True
+Zotac GAMING Trinity OC,1839.99,GeForce RTX 4080,16.0,2205.0,2520.0,Black,356.0,False,True,False,320.0,False
+PNY VCQK4200-PB,169.0,Quadro K4200,4.0,771.0,771.0,Black / Silver,241.0,True,True,False,120.0,True
+PNY VCQRTX6000-PB,1845.0,Quadro RTX 6000,24.0,1440.0,1770.0,Black / Silver,267.0,False,True,False,280.0,True
+Asus PRIME OC,289.99,GeForce RTX 5050,8.0,2317.0,2707.0,Black,268.0,False,True,False,160.0,True
+PNY T-Series,179.0,T400 4GB,4.0,420.0,1425.0,Black / Gray,156.0,False,True,False,120.0,True
+EVGA 01G-P3-1302-LR,74.91,GeForce 8400 GS,1.0,520.0,520.0,Black / Green,158.0,True,True,False,75.0,True
+EVGA FTW3 ULTRA GAMING,486.84,GeForce RTX 3060 Ti LHR,8.0,1410.0,1800.0,Black,285.0,False,True,False,200.0,False
+Asus DUAL,1295.0,GeForce RTX 4070 SUPER,12.0,1980.0,2505.0,Black,267.0,False,True,False,220.0,False
+Zotac GAMING Twin Edge,380.69,GeForce RTX 5050,8.0,2317.0,2572.0,Black,220.0,False,True,False,160.0,True
+EVGA Founders Edition,695.0,GeForce GTX 1080 Ti,11.0,1480.0,1582.0,Black / Silver,267.0,False,True,False,250.0,False
+PNY Dual Fan,479.99,GeForce RTX 5060 Ti,16.0,2407.0,2572.0,Black,245.0,False,True,False,180.0,False
+Gigabyte EAGLE OC,465.78,GeForce RTX 5060 Ti,8.0,2410.0,2617.0,Black,215.0,False,True,False,180.0,False
+MSI MECH 2X V1,849.0,Radeon RX 6750 XT,12.0,2150.0,2600.0,Black / Silver,249.0,False,True,False,220.0,True
+EVGA KO GAMING,475.0,GeForce RTX 2060,6.0,1365.0,1680.0,Gray / Black,202.0,False,True,False,160.0,False
+PowerColor Red Devil OC,729.99,Radeon RX 6900 XT,16.0,2015.0,2340.0,Black,332.0,False,True,False,300.0,False
+Asus ROG STRIX GAMING,1499.99,GeForce RTX 4080,16.0,2205.0,2535.0,Black,358.0,False,True,False,320.0,False
+Asus ROG STRIX,509.99,Radeon RX 580,8.0,1257.0,1380.0,Black,298.0,False,True,False,185.0,False
+Gainward Phantom GS,3692.59,GeForce RTX 5090,32.0,2010.0,2010.0,Black,332.0,True,True,False,575.0,False
+MSI VENTUS 2X OC,1199.99,GeForce RTX 4070 Ti,12.0,2310.0,2655.0,Silver / Black,242.0,False,True,False,285.0,False
+Gigabyte WINDFORCE OC,611.32,GeForce RTX 3060 Ti LHR,8.0,1665.0,1680.0,Black / Silver,198.0,False,True,False,200.0,False
+Asus ROG STRIX GAMING,1298.0,GeForce RTX 4070 Ti,12.0,2310.0,2640.0,Black,336.0,False,True,False,285.0,False
+EVGA GAMING,589.99,GeForce GTX 1080 Ti,11.0,1480.0,1582.0,Black / Silver,267.0,False,True,False,250.0,False
+Sapphire PULSE,399.0,Radeon RX VEGA 56,8.0,1208.0,1512.0,Black / Red,282.0,False,True,False,160.0,True
+MSI SUPRIM X,1298.0,GeForce RTX 4070 Ti,12.0,2310.0,2790.0,Black / Silver,338.0,False,True,False,285.0,False
+Asus TUF GAMING OC,1289.0,Radeon RX 6800,16.0,1700.0,2190.0,Black,310.0,False,True,False,280.0,True
+Asus DUAL EVO,685.0,GeForce RTX 2060 12GB,12.0,1470.0,1680.0,Black,242.0,False,True,False,220.0,True
+MSI VANGUARD SOC LAUNCH EDITION,904.97,GeForce RTX 5070,12.0,2160.0,2512.0,Black,337.0,True,True,False,250.0,False
+Zotac AMP Extreme Core Holo,1849.0,GeForce RTX 3090 Ti,24.0,1560.0,1890.0,Black,356.0,False,True,False,280.0,True
+Asus TUF GAMING,1249.99,GeForce RTX 3080 Ti,12.0,1365.0,1695.0,Black,300.0,False,True,False,350.0,False
+Asus Phoenix,299.99,GeForce RTX 3050 8GB,8.0,1550.0,1807.0,Black,177.0,False,True,False,130.0,False
+Sapphire NITRO+ SE,1199.0,Radeon RX 6900 XT,16.0,1825.0,2365.0,Black / White,310.0,False,True,False,300.0,False
+EVGA XC ULTRA GAMING,998.0,GeForce RTX 2080 Ti,11.0,1350.0,1650.0,Black / Clear,270.0,False,True,False,250.0,False
+MSI AERO,599.0,GeForce GTX 1080 Ti,11.0,1506.0,1620.0,Black / Green,269.0,False,True,False,250.0,False
+Asus DUAL OC,439.0,GeForce RTX 3060 8GB,8.0,1320.0,1867.0,Black,200.0,False,True,False,160.0,True
+PNY VERTO,1899.0,GeForce RTX 4080,16.0,2205.0,2505.0,Black,332.0,False,True,False,320.0,False
+Gigabyte AORUS MASTER,769.99,Radeon RX 6800,16.0,1700.0,2190.0,Black,324.0,False,True,False,280.0,True
+Gigabyte GV-N105TD5-4GD,431.0,GeForce GTX 1050 Ti,4.0,1290.0,1430.0,Black / Orange,172.0,False,True,False,120.0,True
+EVGA FTW3 ULTRA GAMING,1029.0,GeForce RTX 2070 SUPER,8.0,1605.0,1815.0,Transparent,302.0,False,True,False,215.0,False
+Asus DUAL OC,840.0,GeForce RTX 3060 Ti,8.0,1410.0,1740.0,Black / Silver,269.0,False,True,False,200.0,False
+Zotac GAMING AMP,1000.0,GeForce RTX 2080 Ti,11.0,1350.0,1665.0,Black,308.0,False,True,False,250.0,False
+Asus DirectCU II,269.0,GeForce GTX 760,2.0,1006.0,1006.0,Black / Red,218.0,True,True,False,75.0,True
+MSI VENTUS 2X OC,1289.0,GeForce RTX 4070,12.0,1920.0,2520.0,White / Silver,242.0,False,True,False,200.0,False
+Zotac GAMING OC,325.0,GeForce GTX 1650 G5,4.0,1485.0,1695.0,Black / Silver,151.0,False,True,False,120.0,True
+Gigabyte AORUS,649.0,Radeon RX 5700 XT,8.0,1770.0,2010.0,Black,290.0,False,True,False,225.0,False
+AMD 100-300000006,968.98,Radeon PRO W7700,16.0,1900.0,2600.0,Unknown,241.0,False,True,False,280.0,True
+Asus TUF GAMING OC,335.0,GeForce GTX 1650 G6,4.0,1410.0,1680.0,Black,204.0,False,True,False,120.0,True
+MSI GAMING X TRIO,1498.0,GeForce RTX 4070 Ti,12.0,2310.0,2760.0,White / Silver,337.0,False,True,False,285.0,False
+EVGA FTW3 ULTRA GAMING iCX3,624.0,GeForce RTX 3070 LHR,8.0,1500.0,1815.0,Black,300.0,False,True,False,220.0,False
+ASRock Phantom Gaming D,429.9,Radeon RX 570,4.0,1168.0,1244.0,Black,236.0,False,True,False,150.0,False
+MSI GT 1030 2GHD4 LP OC,169.99,GeForce GT 1030 DDR4,2.0,1189.0,1430.0,Black,150.0,False,True,False,75.0,True
+PowerColor Hellhound,495.0,Radeon RX 6600,8.0,1626.0,2491.0,Black / White,220.0,False,True,False,160.0,True
+PNY XLR8 Gaming VERTO EPIC-X RGB OC,1249.0,GeForce RTX 4070 Ti,12.0,2310.0,2670.0,Black,332.0,False,True,False,285.0,False
+XFX GTS,286.3,Radeon RX 580,8.0,1405.0,1425.0,Black / Red,270.0,False,True,False,185.0,False
+Inno3D X3 OC,782.41,GeForce RTX 5070,12.0,2325.0,2542.0,Black / Silver,300.0,False,True,False,250.0,False
+AMD 100-506189,215.59,Radeon PRO W6400,4.0,2331.0,2331.0,Blue,168.0,False,True,False,120.0,True
+XFX THICC II,635.0,Radeon RX 5700 XT,8.0,1605.0,1905.0,Black,293.0,False,True,False,225.0,False
+PNY XLR8 Gaming EPIC-X RGB,1699.0,GeForce RTX 3090,24.0,1395.0,1695.0,Black,294.0,False,True,False,350.0,False
+ASRock Phantom Gaming OC,322.02,Radeon RX 7600,8.0,1720.0,2755.0,Black,305.0,False,True,False,160.0,True
+Gigabyte WINDFORCE,499.0,GeForce GTX 1070 Ti,8.0,1632.0,1721.0,Black / Orange,280.0,False,True,False,180.0,False
+AMD 100-506208,310.99,Radeon PRO W6600,8.0,2331.0,2580.0,Blue,241.0,False,True,False,160.0,True
+Gigabyte GV-N108TGAMINGOC BLACK-11GD,495.0,GeForce GTX 1080 Ti,11.0,1544.0,1657.0,Black,280.0,False,True,False,250.0,False
+Gigabyte EAGLE OC,999.99,GeForce RTX 3080 10GB,10.0,1440.0,1755.0,Black,320.0,False,True,False,320.0,False
+XFX Black Edition,272.38,Radeon RX 580,8.0,1405.0,1425.0,Black / White,279.0,False,True,False,185.0,False
+MSI VENTUS 3X,1889.99,GeForce RTX 4080,16.0,2205.0,2520.0,Black,322.0,False,True,False,320.0,False
+MSI Radeon RX 6900 XT GAMING Z TRIO 16G,799.99,Radeon RX 6900 XT,16.0,1825.0,2425.0,Silver / Black,324.0,False,True,False,300.0,False
+Asus ROG STRIX GAMING,2499.98,GeForce RTX 4080 SUPER,16.0,2210.0,2580.0,Black,358.0,False,True,False,320.0,False
+Asus ROG STRIX GAMING OC,679.99,Radeon RX 6750 XT,12.0,2150.0,2623.0,Black / Gray,322.0,False,True,False,220.0,True
+Asus STRIX-R9390-DC3OC-8GD5-GAMING,299.0,Radeon R9 390,8.0,1050.0,1050.0,Black / Red,300.0,True,True,False,160.0,True
+EVGA 02G-P4-6338-KR,129.99,GeForce GT 1030,2.0,1290.0,1544.0,Gray,168.0,False,True,False,75.0,True
+EVGA XC ULTRA GAMING,549.0,GeForce GTX 1660 Ti,6.0,1500.0,1860.0,Black,268.0,False,True,False,120.0,True
+Sapphire NITRO+,969.0,Radeon RX 6800,16.0,1700.0,1700.0,Black / Silver,310.0,True,True,False,280.0,True
+PNY Blower,979.0,GeForce RTX 2080 Ti,11.0,1350.0,1545.0,Black,267.0,False,True,False,250.0,False
+VisionTek 900356,65.12,Radeon HD 5450,2.0,,,Black / Red,172.0,True,False,False,75.0,True
+Asus ROG STRIX,379.0,Radeon RX 480,8.0,1120.0,1286.0,Black,298.0,False,True,False,150.0,False
+MSI VENTUS 2X OC,269.99,GeForce RTX 5050,8.0,2317.0,2617.0,Silver / Black,197.0,False,True,False,160.0,True
+Gigabyte AORUS ELITE Rev 2.0,730.0,GeForce RTX 3060 Ti LHR,8.0,1410.0,1785.0,Black,296.0,False,True,False,200.0,False
+PowerColor Red Dragon,569.0,Radeon RX 5600 XT,6.0,1247.0,1620.0,Black / Silver,240.0,False,True,False,120.0,True
+Zotac ZT-71302-20L,69.98,GeForce GT 710,2.0,954.0,954.0,Black,144.0,True,True,False,75.0,True
+MSI VENTUS,735.0,GeForce RTX 2080,8.0,1515.0,1710.0,Silver / Black,268.0,False,True,False,215.0,False
+Zotac ZT-70601-10M,395.0,GeForce GTX 750 Ti,2.0,1033.0,1111.0,Black / Orange,144.0,False,True,False,75.0,True
+Zotac GAMING Twin Edge OC,269.99,GeForce RTX 5050,8.0,2317.0,2602.0,Black,220.0,False,True,False,160.0,True
+XFX RX-580P427D6,359.0,Radeon RX 580,4.0,1366.0,1386.0,Black / Red,270.0,False,True,False,185.0,False
+EVGA SC BLACK GAMING,635.0,GeForce RTX 2060 SUPER,8.0,1470.0,1650.0,Black / Silver,268.0,False,True,False,175.0,False
+MSI AERO,498.0,GeForce GTX 1070 Ti,8.0,1607.0,1683.0,Black / White,269.0,False,True,False,180.0,False
+EVGA FTW3 ULTRA GAMING,1289.0,GeForce RTX 2080 SUPER,8.0,1650.0,1845.0,Transparent / Black,302.0,False,True,False,250.0,False
+Zotac GAMING SOLO,332.08,GeForce RTX 3050 8GB,8.0,1550.0,1777.0,Black,168.0,False,True,False,130.0,False
+EVGA SSC ACX 2.0+,359.0,GeForce GTX 970,4.0,1190.0,1342.0,Black / Blue,257.0,False,True,False,120.0,True
+Gigabyte GAMING OC,2298.0,GeForce RTX 3090 Ti,24.0,1560.0,1905.0,Black,331.0,False,True,False,280.0,True
+AMD 100-506157,2299.96,Radeon PRO W6800,32.0,2075.0,2320.0,Blue / Gray,267.0,False,True,False,280.0,True
+Gigabyte AORUS MASTER Rev 2.0,798.0,GeForce RTX 3070 LHR,8.0,1500.0,1845.0,Black,290.0,False,True,False,220.0,False
+EVGA 256-P2-N429-LR,69.98,GeForce 7200 GS,0.25,450.0,450.0,Black / Green,260.75,True,True,False,75.0,True
+PNY Blower,645.0,GeForce RTX 2070 SUPER,8.0,1605.0,1770.0,Black,281.0,False,True,False,215.0,False
+PNY VCQP5000-PB,598.0,Quadro P5000,16.0,1607.0,1733.0,Black / Green,260.75,False,True,False,280.0,True
+PNY T-Series,459.0,T1000 8GB,8.0,1065.0,1395.0,Black / Gray,156.0,False,True,False,160.0,True
+EVGA FTW3 GAMING,1995.0,GeForce RTX 3090 Ti,24.0,1560.0,1890.0,Black,300.0,False,True,False,280.0,True
+Gigabyte AORUS ELITE,1266.33,Radeon RX 6750 XT,12.0,2150.0,2623.0,Black / Gray,296.0,False,True,False,220.0,True
+MSI GAMING X SLIM,1345.0,GeForce RTX 4070 Ti,12.0,2310.0,2745.0,Black,307.0,False,True,False,285.0,False
+Asus TUF GAMING OC,799.99,GeForce RTX 3060 Ti,8.0,1410.0,1785.0,Black,301.0,False,True,False,200.0,False
+Gigabyte GAMING OC PRO,998.97,GeForce RTX 3060 Ti,8.0,1410.0,1770.0,Black / Silver,286.0,False,True,False,200.0,False
+Zotac GAMING Trinity OC,1195.95,GeForce RTX 3080 12GB LHR,12.0,1260.0,1725.0,Black,318.0,False,True,False,350.0,False
+EVGA XC3 BLACK GAMING,1098.0,GeForce RTX 3080 10GB,10.0,1440.0,1710.0,Black,285.0,False,True,False,320.0,False
+Asus ROG STRIX,499.0,Radeon RX VEGA 64,8.0,1247.0,1590.0,Black / Red,298.0,False,True,False,160.0,True
+MSI GT LP,69.98,GeForce GT 710,1.0,954.0,954.0,Black,129.0,True,True,False,75.0,True
+AMD 100-505957,879.96,Radeon Pro WX 9100,16.0,1200.0,1500.0,Blue,267.0,False,True,False,280.0,True
+PNY XLR8 Gaming VERTO EPIC-X RGB OC,1798.0,GeForce RTX 4080,16.0,2205.0,2550.0,Black,332.0,False,True,False,320.0,False
+Gigabyte AORUS MASTER,1898.0,GeForce RTX 4080,16.0,2205.0,2550.0,Black,357.0,False,True,False,320.0,False
+Asus STRIX GAMING,999.0,GeForce RTX 2080 Ti,11.0,1350.0,1560.0,Black,305.0,False,True,False,250.0,False
+EVGA FTW GAMING ACX 3.0,249.99,GeForce GTX 1050 Ti,4.0,1379.0,1493.0,Black,257.0,False,True,False,120.0,True
+EVGA FTW ACX 2.0,255.0,GeForce GTX 950,2.0,1203.0,1405.0,Black,257.0,False,True,False,75.0,True
+PNY VCGGTX10708XPB-OC-BB,399.0,GeForce GTX 1070,8.0,1518.0,1708.0,Unknown,267.0,False,True,False,150.0,False
+MSI Radeon RX 480 4G,399.0,Radeon RX 480,4.0,1120.0,1266.0,Black,242.0,False,True,False,150.0,False
+Zotac GAMING Twin Edge OC,279.99,GeForce RTX 5050,8.0,2317.0,2602.0,White / Copper,220.0,False,True,False,160.0,True
+AMD FirePro W2100,89.99,FirePro W2100,2.0,630.0,630.0,Black / Red,260.75,True,True,False,75.0,True
+EVGA FTW2 GAMING iCX,549.0,GeForce GTX 1070 Ti,8.0,1607.0,1683.0,Black / Silver,267.0,False,True,False,180.0,False
+PNY Dual Fan,385.95,GeForce RTX 5060 Ti,8.0,2407.0,2572.0,Black,245.0,False,True,False,180.0,False
+Asus STRIX,379.0,GeForce GTX 980,4.0,1178.0,1279.0,Black / Red,289.0,False,True,False,120.0,True
+EVGA K|NGP|N HYBRID GAMING,1840.0,GeForce RTX 3090,24.0,1395.0,1920.0,Black,289.0,False,True,False,350.0,False
+PowerColor AX5450 512MK3-SH,64.95,Radeon HD 5450,0.5,650.0,650.0,Black / Red,172.0,True,True,False,75.0,True
+VisionTek SFF,134.59,Radeon HD 7750,2.0,800.0,800.0,Red,130.0,True,True,False,75.0,True
+AMD 100-300000077,578.98,Radeon PRO W7600,8.0,1720.0,2440.0,Black,241.0,False,True,False,160.0,True
+MSI ARMOR OCV1,398.0,GeForce GTX 1060 6GB,6.0,1544.0,1759.0,Black / White,275.0,False,True,False,120.0,False
+Zotac GAMING Trinity,899.99,GeForce RTX 3070 Ti,8.0,1575.0,1770.0,Black / Silver,318.0,False,True,False,290.0,False
+Gigabyte GAMING OC Rev 2.0,698.0,GeForce RTX 3060 Ti LHR,8.0,1410.0,1740.0,Black,282.0,False,True,False,200.0,False
+XFX Speedster SWFT 210 Core 2,778.98,Radeon RX 7800 XT,16.0,1295.0,2430.0,Black,283.0,False,True,False,263.0,False
+EVGA SC ULTRA GAMING,303.36,GeForce GTX 1650 G5,4.0,1485.0,1860.0,Black,202.0,False,True,False,120.0,True
+MSI DUKE,735.0,GeForce RTX 2080,8.0,1515.0,1845.0,Black,314.0,False,True,False,215.0,False
+EVGA XC GAMING,789.0,GeForce RTX 2070 SUPER,8.0,1605.0,1800.0,Transparent,270.0,False,True,False,215.0,False
+PNY Blower,839.0,GeForce RTX 2080 SUPER,8.0,1650.0,1815.0,Black,281.0,False,True,False,250.0,False
+EVGA DT GAMING,495.0,GeForce GTX 1080 Ti,11.0,1480.0,1582.0,Silver / Black,300.0,False,True,False,250.0,False
+Asus ROG STRIX GAMING OC,429.99,GeForce RTX 3050 8GB,8.0,1550.0,1890.0,Black / Silver,300.0,False,True,False,130.0,False
+Asus GTX660 TI-DC2O-2GD5,239.0,GeForce GTX 660 Ti,2.0,1028.0,1028.0,Black / Red,271.0,True,True,False,75.0,True
+Gigabyte AORUS WATERFORCE,998.0,GeForce GTX 1080 Ti,11.0,1632.0,1746.0,Black / Orange,267.0,False,True,False,250.0,False
+NVIDIA Star Wars Galactic Empire,999.0,Titan Xp,12.0,1481.0,1582.0,Black / Red,267.0,False,True,False,220.0,True
+AMD FirePro W9100,549.96,FirePro W9100,16.0,930.0,930.0,Black / Red,275.0,True,True,False,280.0,True
+Asus STRIX OC,1672.49,GeForce RTX 3070,8.0,1500.0,1935.0,White,318.0,False,True,False,220.0,False
+EVGA Superclocked,199.0,GeForce GTX 950,2.0,1152.0,1342.0,Black,173.0,False,True,False,75.0,True
+EVGA 01G-P3-2616-KR,99.99,GeForce GT 610,1.0,,,Black,145.0,True,False,False,75.0,True
+PNY UPRISING,640.94,GeForce RTX 3060 Ti,8.0,1410.0,1665.0,Black,251.0,False,True,False,200.0,False
+MSI ARMOR OC,489.0,Radeon RX 570,8.0,1168.0,1268.0,Black / White,246.0,False,True,False,150.0,False
+PNY RTX A-Series,1730.0,RTX A4500,20.0,1050.0,1650.0,Black,267.0,False,True,False,280.0,True
+NVIDIA 900-1G500-2500-000,1250.0,Titan V,12.0,1200.0,1455.0,Black / Gold,267.0,False,True,False,220.0,True
+MSI ARMOR MK2 OC,499.99,Radeon RX 580,8.0,1340.0,1380.0,Red / Black,270.0,False,True,False,185.0,False
+EVGA XC GAMING,1710.0,GeForce RTX 2080 Ti,11.0,1350.0,1635.0,Black / Clear,270.0,False,True,False,250.0,False
+PNY VCQ420NVS-X1-DVI-PB,151.98,Quadro NVS 420,0.5,,,Black / Green,260.75,True,False,False,75.0,True
+EVGA ACX 3.0,399.99,GeForce GTX 1070,8.0,1506.0,1683.0,Black / Silver,267.0,False,True,False,150.0,False
+EVGA FTW3 ULTRA HYBRID GAMING iCX3,1599.0,GeForce RTX 3080 Ti,12.0,1365.0,1800.0,Black,300.0,False,True,False,350.0,False
+EVGA 04G-P4-2980-KR,369.0,GeForce GTX 980,4.0,1126.0,1216.0,Black / Silver,267.0,False,True,False,120.0,True
+PNY VCQP2200-SB,219.96,Quadro P2200,5.0,1000.0,1493.0,Unknown,201.0,False,True,False,120.0,True
+MSI D6 VENTUS XS OC,348.88,GeForce GTX 1650 G6,4.0,1410.0,1620.0,Black / Silver,178.0,False,True,False,120.0,True
+MSI VENTUS 3X PLUS OC,1717.75,GeForce RTX 3080 10GB LHR,10.0,1440.0,1740.0,Black,305.0,False,True,False,160.0,True
+MSI VENTUS 3X 8GD6X OC,698.0,GeForce RTX 3060 Ti,8.0,1410.0,1695.0,Black,305.0,False,True,False,200.0,False
+EVGA FTW ULTRA SILENT GAMING,549.0,GeForce GTX 1070 Ti,8.0,1607.0,1683.0,Black / Silver,267.0,False,True,False,180.0,False
+EVGA Superclocked,147.0,GeForce GT 740,2.0,1059.0,1059.0,Black / White,153.0,True,True,False,75.0,True
+PowerColor AXRX 560 4GBD5-DHA,275.0,Radeon RX 560 - 896,4.0,115.0,1176.0,Black,225.0,False,True,False,120.0,True
+EVGA SC ULTRA GAMING,319.98,GeForce GTX 1650 G6,4.0,1410.0,1710.0,Black,202.0,False,True,False,120.0,True
+ASRock Creator,1024.99,Radeon RX 7900 XT,20.0,2000.0,2395.0,Black / Silver,312.0,False,True,False,315.0,False
+Sapphire Toxic Extreme Edition,1782.99,Radeon RX 6900 XT,16.0,1825.0,2525.0,Black,270.0,False,True,False,300.0,False
+Zotac GAMING AMP Extreme AIRO,1949.99,GeForce RTX 4080 SUPER,16.0,2210.0,2610.0,Black,356.0,False,True,False,320.0,False
+EVGA FTW3 ULTRA HYBRID GAMING,2369.98,GeForce RTX 2080 Ti,11.0,1350.0,1755.0,Black / Clear,291.0,False,True,False,250.0,False
+PNY VERTO,638.04,GeForce RTX 3070 Ti,8.0,1575.0,1770.0,Black,305.0,False,True,False,290.0,False
+HP J3G93AT,189.96,FirePro W7100,8.0,920.0,920.0,Black / Red,241.0,True,True,False,160.0,True
+Gigabyte MINI ITX OC,359.0,GeForce GTX 1060 6GB,6.0,1531.0,1771.0,Black / Orange,169.0,False,True,False,120.0,False
+PNY XLR8 Gaming Overclocked Edition,599.0,GeForce RTX 2070,8.0,1410.0,1710.0,Black,235.0,False,True,False,175.0,False
+EVGA FTW+ GAMING,349.0,GeForce GTX 1060 6GB,6.0,1632.0,1860.0,Black,267.0,False,True,False,120.0,False
+PNY VCQK6000-PB,326.96,Quadro K6000,12.0,902.0,902.0,Black / Silver,267.0,True,True,False,220.0,True
+Zotac AMP Extreme,499.0,GeForce GTX 1070,8.0,1632.0,1835.0,Black,325.0,False,True,False,150.0,False
+Palit Infinity 3 OC,488.51,GeForce RTX 5060,8.0,2280.0,2580.0,Unknown,292.0,False,True,False,145.0,False
+Asus Turbo,861.44,GeForce GTX 1070 Ti,8.0,1607.0,1721.0,Unknown,267.0,False,True,False,180.0,False
+Gigabyte GAMING,359.0,GeForce GTX 1060 3GB,3.0,1620.0,1847.0,Black / Orange,278.0,False,True,False,75.0,True
+MSI AERO ITX OC,530.39,GeForce GTX 1070,8.0,1531.0,1721.0,Black / White,175.0,False,True,False,150.0,False
+Zotac GAMING Trinity OC,1869.99,GeForce RTX 4080,16.0,2205.0,2520.0,White,356.0,False,True,False,320.0,False
+MSI VENTUS 3X E1 OC,1145.0,GeForce RTX 4070,12.0,1920.0,2520.0,Silver / Black,308.0,False,True,False,200.0,False
+XFX RX-VEGMA3FD6,945.0,Radeon VII,16.0,1400.0,1801.0,Silver,280.0,False,True,False,280.0,True
+EVGA XC GAMING,874.99,GeForce RTX 2080,8.0,1515.0,1515.0,Black / Clear,270.0,True,True,False,215.0,False
+XFX Speedster QICK 319 Core,1025.99,Radeon RX 6700 XT,12.0,2321.0,2581.0,Black,323.0,False,True,False,220.0,True
+PNY T-Series,310.99,T1000 4GB,4.0,1065.0,1395.0,Black / Gray,156.0,False,True,False,120.0,True
+Gigabyte AORUS XTREME WATERFORCE,1879.0,GeForce RTX 3080 10GB,10.0,1440.0,1845.0,Black / Silver,252.0,False,True,False,320.0,False
+MSI GAMING GE,449.0,GeForce GTX 980 Ti,6.0,1000.0,1291.0,Black / Gold,277.0,False,True,False,120.0,True
+Asus TUF GAMING OC,389.99,GeForce RTX 3050 8GB,8.0,1550.0,1875.0,Black,272.0,False,True,False,130.0,False
+PNY VCQ2000D-PB,69.75,Quadro 2000D,1.0,625.0,625.0,Black / Green,178.0,True,True,False,75.0,True
+XFX HD-467X-ZDFR,74.98,Radeon HD 4670,1.0,750.0,750.0,Black,167.0,True,True,False,75.0,True
+MSI Founders Edition,698.0,GeForce GTX 1080 Ti,11.0,1480.0,1582.0,Black / Silver,267.0,False,True,False,250.0,False
+AMD 100-506163,1399.0,Radeon Pro VII,16.0,1400.0,1700.0,Blue / Silver,305.0,False,True,False,280.0,True
+Asus TUF-RTX3060-O12G-DEMONSLAYER,745.0,GeForce RTX 3060 12GB,12.0,1320.0,1882.0,Orange / Black,301.0,False,True,False,170.0,False
+EVGA Superclocked,680.0,GeForce GTX 980 Ti,6.0,1102.0,1190.0,Black / Silver,267.0,False,True,False,120.0,True
+Asus GT710-SL-2GD5,145.3,GeForce GT 710,2.0,954.0,954.0,Blue / Silver,167.0,True,True,False,75.0,True
+ATI 100-505588,199.99,FirePro 2450,0.5,,,Black / Red,170.0,True,False,False,75.0,True
+PNY VCGGT10302PB,119.99,GeForce GT 1030,2.0,1227.0,1468.0,Black / Silver,159.0,False,True,False,75.0,True
+MSI GAMING OC,279.99,GeForce RTX 5050,8.0,2317.0,2647.0,Black,202.0,False,True,False,160.0,True
+Gigabyte WINDFORCE,299.0,Radeon R9 270X,2.0,1000.0,1000.0,Black,290.0,True,True,False,75.0,True
+Asus DUAL OC,998.0,GeForce RTX 2080 Ti,11.0,1350.0,1350.0,Black,268.0,True,True,False,250.0,False
+EVGA Black,825.0,GeForce RTX 2080,8.0,1515.0,1710.0,Clear / Black,269.0,False,True,False,215.0,False
+Asus Turbo EVO,635.0,GeForce RTX 2060 SUPER,8.0,1500.0,1680.0,Black,268.0,False,True,False,175.0,False
+PNY VCQK1200DP-PB,138.01,Quadro K1200,4.0,1058.0,1124.0,Black / Green,160.0,False,True,False,120.0,True
+Asus ROG STRIX LC GAMING OC,1789.0,GeForce RTX 3080 Ti,12.0,1365.0,1860.0,Black / Silver,293.0,False,True,False,350.0,False
+MSI GAMING X SLIM,2522.19,GeForce RTX 4070,12.0,1920.0,2625.0,White,307.0,False,True,False,200.0,False
+XFX R9-290X ENFC,210.0,Radeon R9 290X,4.0,772.0,772.0,Black / Red,292.0,True,True,False,120.0,True
+Gigabyte AORUS XTREME,1449.0,GeForce RTX 3080 Ti,12.0,1365.0,1770.0,Black,320.0,False,True,False,350.0,False
+Zotac GAMING AMP Extreme AIRO,1245.0,GeForce RTX 4070 Ti,12.0,2310.0,2700.0,Black,356.0,False,True,False,285.0,False
+EVGA XC3 ULTRA GAMING,1299.0,GeForce RTX 3080 12GB LHR,12.0,1260.0,1755.0,Black,285.0,False,True,False,350.0,False
+Asus GTX950-2G,255.0,GeForce GTX 950 75W,2.0,1026.0,1228.0,White / Blue,210.0,False,True,False,75.0,True
+Gigabyte EAGLE OC Rev 2.0,735.0,GeForce RTX 3070 LHR,8.0,1500.0,1770.0,Black,282.0,False,True,False,220.0,False
+EVGA ACX 3.0,498.0,GeForce GTX 1080,8.0,1607.0,1733.0,Black / Silver,267.0,False,True,False,180.0,False
+EVGA XC BLACK GAMING,365.0,GeForce GTX 1660,6.0,1530.0,1785.0,Black,190.0,False,True,False,120.0,True
+MSI DUKE,659.0,GeForce RTX 2070,8.0,1410.0,1755.0,Silver / Black,314.0,False,True,False,175.0,False
+Zotac AMP Extreme,659.0,GeForce RTX 2070,8.0,1410.0,1860.0,Black,308.0,False,True,False,175.0,False
+EVGA Founders Edition,525.0,GeForce GTX 1080,8.0,1607.0,1733.0,Black / Silver,267.0,False,True,False,180.0,False
+PNY VCQK2200-PB,133.17,Quadro K2200,4.0,1046.0,1046.0,Black / Green,202.0,True,True,False,120.0,True
+Asus TUF GAMING OC,413.77,Radeon RX 6500 XT,4.0,2310.0,2825.0,Black,250.0,False,True,False,120.0,True
+EVGA XC3 ULTRA HYBRID GAMING,1359.0,GeForce RTX 3080 12GB LHR,12.0,1260.0,1755.0,Black,263.0,False,True,False,350.0,False
+MSI GAMING X TRIO,559.0,GeForce GTX 1080 Ti,11.0,1569.0,1683.0,Unknown,325.0,False,True,False,250.0,False
+EVGA 06G-P4-3790-KR,499.0,GeForce GTX Titan Black,6.0,889.0,980.0,Black / Silver,266.0,False,True,False,120.0,True
+Gigabyte MINI ITX OC,459.0,GeForce GTX 1070,8.0,1531.0,1746.0,Black / Orange,169.0,False,True,False,150.0,False
+PNY XLR8 Gaming Overclocked Edition,369.0,GeForce GTX 1660,6.0,1530.0,1830.0,Black,168.0,False,True,False,120.0,True
+Asus TUF GAMING,558.72,GeForce RTX 5060,8.0,2280.0,2527.0,Black,302.0,False,True,False,145.0,False
+Asus EAH6450 SILENT/DI/512MD3(LP),82.96,Radeon HD 6450,0.5,625.0,625.0,Red / Silver,177.0,True,True,False,75.0,True
+Asus R7240-2GD3-L,124.74,Radeon R7 240,2.0,730.0,730.0,Black / Red,159.0,True,True,False,75.0,True
+MSI GeForce GTX 1060 6G OCV1,395.0,GeForce GTX 1060 6GB,6.0,1544.0,1759.0,Black / White,188.0,False,True,False,120.0,False
+Gigabyte WINDFORCE,759.0,GeForce RTX 2080,8.0,1710.0,1710.0,Black,280.0,True,True,False,215.0,False
+MSI D3 LP,69.99,GeForce GT 710,2.0,954.0,954.0,Black,145.0,True,True,False,75.0,True
+PNY VCGGT620XPB,68.59,GeForce GT 620,1.0,700.0,700.0,Black / Red,152.0,True,True,False,75.0,True
+PNY T-Series,299.0,T600,4.0,735.0,1335.0,Black / Gray,156.0,False,True,False,120.0,True
+EVGA 01G-P3-1561-KR,701.12,GeForce GTX 560 Ti,1.0,850.0,850.0,Black / Yellow,228.0,True,True,False,75.0,True
+Asus STRIX GAMING Advanced,979.0,GeForce RTX 2080 Ti,11.0,1350.0,1350.0,Black,305.0,True,True,False,250.0,False
+EVGA Superclocked,255.0,GeForce GTX 960,2.0,1216.0,1279.0,Black / Silver,173.0,False,True,False,75.0,True
+Inno3D X3 OC,834.51,GeForce RTX 3070 Ti,8.0,1575.0,1785.0,Black,300.0,False,True,False,290.0,False
+VisionTek 900614,189.99,Radeon HD 7750,2.0,,,Black / Red,178.0,True,False,False,75.0,True
+NVIDIA Star Wars Jedi Order,999.0,Titan Xp,12.0,1481.0,1582.0,Silver / Green,267.0,False,True,False,220.0,True
+ASRock Taichi OC,1049.99,Radeon RX 7900 XT,20.0,2000.0,2560.0,Black,345.0,False,True,False,315.0,False
+PNY VCQ4000-PB,133.69,Quadro 4000,2.0,,,Black / Silver,260.75,True,False,False,75.0,True
+EVGA GAMING,549.0,GeForce GTX 1070 Ti,8.0,1607.0,1683.0,Silver / Black,267.0,False,True,False,180.0,False
+Asus Turbo,548.97,GeForce RTX 2060,6.0,1365.0,1710.0,Black / Silver,268.0,False,True,False,160.0,False
+Asus KO GAMING OC V2,740.0,GeForce RTX 3070 LHR,8.0,1500.0,1845.0,Black / Silver,275.0,False,True,False,220.0,False
+Asus ROG STRIX GAMING OC V2,995.0,GeForce RTX 3070 LHR,8.0,1500.0,1935.0,Black / Silver,318.0,False,True,False,220.0,False
+EVGA GAMING,499.0,GeForce GTX 1070,8.0,1506.0,1683.0,Black / Gray,267.0,False,True,False,150.0,False
+Asus Phoenix EVO,326.95,Radeon RX 550 - 512,4.0,1100.0,1183.0,Black,192.0,False,True,False,120.0,True
+PNY VCGGTX10606PB,399.0,GeForce GTX 1060 6GB,6.0,1506.0,1708.0,Black,265.0,False,True,False,120.0,False
+MSI AIR BOOST OC,399.99,Radeon RX VEGA 56,8.0,1181.0,1520.0,Black / Red,270.0,False,True,False,160.0,True
+Yeston Sakura Atlantis,879.9,Radeon RX 9070 XT,16.0,2400.0,3060.0,Blue / Pink,332.0,False,True,False,304.0,False
+EVGA FTW3 GAMING,998.0,GeForce RTX 2080 Ti,11.0,1350.0,1545.0,Unknown,302.0,False,True,False,250.0,False
+Lenovo 4X61J52234,178.86,T400 4GB,4.0,420.0,1425.0,Black,156.0,False,True,False,120.0,True
+Asus KO OC V2,695.0,GeForce RTX 3060 12GB,12.0,1320.0,1882.0,Black / Silver,275.0,False,True,False,170.0,False
+EVGA 01G-P3-2710-KR,103.99,GeForce GT 710,1.0,954.0,954.0,Black,115.0,True,True,False,75.0,True
+ASRock Challenger Pro OC,998.18,Radeon RX 6800,16.0,1700.0,1700.0,Black / Silver,303.0,True,True,False,280.0,True
+Gigabyte AORUS MASTER Rev 2.0,1369.0,GeForce RTX 3080 10GB LHR,10.0,1440.0,1845.0,Black,319.0,False,True,False,160.0,True
+MSI Radeon RX 6600 XT MECH 2X 8G OCV1,1210.0,Radeon RX 6600 XT,8.0,1968.0,2602.0,Black / Silver,215.0,False,True,False,160.0,True
+PowerColor Red Devil OC,1819.67,Radeon RX 6650 XT,8.0,2055.0,2694.0,Black,251.0,False,True,False,160.0,True
+EVGA KO GAMING,1450.0,GeForce RTX 2080 SUPER,8.0,1650.0,1815.0,Black,270.0,False,True,False,250.0,False
+XFX Speedster QICK 319 BLACK,1094.99,Radeon RX 6800,16.0,1850.0,2190.0,Black,340.0,False,True,False,280.0,True
+PNY VCQK4000-PB,139.0,Quadro K4000,3.0,810.0,810.0,Black / Silver,241.0,True,True,False,75.0,True
+Palit StormX,1289.0,GeForce RTX 2060,6.0,1365.0,1680.0,Black,168.0,False,True,False,160.0,False
+MSI DUKE OC,499.0,GeForce GTX 1080,8.0,1708.0,1847.0,Black / Beige,312.0,False,True,False,180.0,False
+Zotac GAMING AMP Extreme Holo,1799.99,GeForce RTX 3090,24.0,1395.0,1815.0,Black,356.0,False,True,False,350.0,False
+PNY VCG84512D3SPPB,126.02,GeForce 8400 GS,0.5,520.0,520.0,Black / Blue,167.0,True,True,False,75.0,True
+PNY VCG50608DFXPB1,368.99,GeForce RTX 5060,8.0,2280.0,2497.0,Black,200.0,False,True,False,145.0,False
+EVGA 06G-P4-4990-KR,599.99,GeForce GTX 980 Ti,6.0,1000.0,1076.0,Black / Silver,267.0,False,True,False,120.0,True
+MSI GeForce RTX 3070 Suprim X 8G LHR,735.0,GeForce RTX 3070 LHR,8.0,1500.0,1920.0,Black / Silver,335.0,False,True,False,220.0,False
+EVGA 02G-P4-6333-KR,272.33,GeForce GT 1030,2.0,1290.0,1544.0,Black,145.0,False,True,False,75.0,True
+PNY XLR8 Gaming Overclocked Edition,1929.99,GeForce RTX 2080 Ti,11.0,1350.0,1635.0,Black / Silver,302.0,False,True,False,250.0,False
+EVGA SC2 Gaming iCX,498.0,GeForce GTX 1080,8.0,1708.0,1847.0,White / Black,267.0,False,True,False,180.0,False
+PNY Blower,575.0,GeForce RTX 2060 SUPER,8.0,1470.0,1650.0,Black,281.0,False,True,False,175.0,False
+Gigabyte EAGLE OC,1565.0,GeForce RTX 3090,24.0,1395.0,1725.0,Black,320.0,False,True,False,350.0,False
+Gigabyte GV-N460OC-1GI V3,154.87,GeForce GTX 460,1.0,788.0,788.0,Black / Blue,238.0,True,True,False,75.0,True
+Gigabyte WINDFORCE 2X,785.0,GeForce RTX 2070,8.0,1410.0,1620.0,Black,265.0,False,True,False,175.0,False
+PNY VCQK2000-PB,129.96,Quadro K2000,2.0,,,Black / Green,198.0,True,False,False,75.0,True
+PowerColor Red Dragon,479.0,Radeon RX VEGA 56,8.0,1177.0,1478.0,Black / Red,305.0,False,True,False,160.0,True
+EVGA SC2 Gaming iCX,426.0,GeForce GTX 1070,8.0,1594.0,1784.0,White / Black,267.0,False,True,False,150.0,False
+MSI VENTUS 3X OC LHR,998.0,GeForce RTX 3080 10GB LHR,10.0,1440.0,1740.0,Black,305.0,False,True,False,160.0,True
+XFX PVT98GYAF3,181.98,GeForce 9800 GT,0.5,550.0,550.0,Black,228.0,True,True,False,75.0,True
+MSI ARMOR OC,399.0,GeForce GTX 1060 6GB,6.0,1506.0,1708.0,Black / White,279.0,False,True,False,120.0,False
+Zotac AMP Extreme Holo,1999.99,GeForce RTX 3080 Ti,12.0,1365.0,1785.0,Black,356.0,False,True,False,350.0,False
+VisionTek 900574,147.99,Radeon HD 7750,1.0,,,Black / Red,170.0,True,False,False,75.0,True
+VisionTek 901507,189.99,Radeon RX 550 - 512,4.0,1100.0,1071.0,Red,184.0,False,True,False,120.0,True
+Gigabyte GAMING OC,469.0,Radeon RX 5500 XT,4.0,1685.0,1845.0,Black / Gray,281.0,False,True,False,120.0,True
+EVGA 04G-P4-1970-KR,359.0,GeForce GTX 970,4.0,1050.0,1178.0,Black / Gray,241.0,False,True,False,120.0,True
+Gigabyte GV-R545-1GI,89.99,Radeon HD 5450,1.0,650.0,650.0,Blue / Silver,182.0,True,True,False,75.0,True
+MSI LP,126.12,Radeon R7 240,2.0,600.0,600.0,Black,144.0,True,True,False,75.0,True
+XFX PVT95GZAFG,161.98,GeForce 9500 GT,1.0,550.0,550.0,Black / Green,167.0,True,True,False,75.0,True
+EVGA XC GAMING,399.99,GeForce GTX 1660,6.0,1530.0,1830.0,Black,190.0,False,True,False,120.0,True
+Asus GTXTITAN-6GD5,595.0,GeForce GTX Titan,6.0,836.0,836.0,Black / Silver,267.0,True,True,False,120.0,True
+Gigabyte TURBO,849.0,GeForce RTX 2080 SUPER,8.0,1650.0,1815.0,Black,272.0,False,True,False,250.0,False
+EVGA FTW2 GAMING iCX,499.0,GeForce GTX 1070,8.0,1607.0,1797.0,Black / Gray,267.0,False,True,False,150.0,False
+Zotac GAMING AMP Holo,1085.0,GeForce RTX 3080 10GB LHR,10.0,1440.0,1770.0,Gray,318.0,False,True,False,160.0,True
+EVGA SSC ACX 2.0,299.99,GeForce GTX 950,2.0,1190.0,1393.0,Black,257.0,False,True,False,75.0,True
+EVGA FTW GAMING,389.0,GeForce GTX 1060 6GB,6.0,1620.0,1847.0,Black,267.0,False,True,False,120.0,False
+EVGA SSC GAMING,349.0,GeForce GTX 1060 3GB,3.0,1607.0,1835.0,Black / Silver,267.0,False,True,False,75.0,True
+PNY Founders Edition,695.0,GeForce GTX 1080 Ti,11.0,1480.0,1582.0,Black / Silver,267.0,False,True,False,250.0,False
+XFX PV-T95G-ZNF2,119.99,GeForce 9500 GT,1.0,550.0,550.0,Black / Green,167.0,True,True,False,75.0,True
+AMD FirePro W4100,149.96,FirePro W4100,2.0,630.0,630.0,Black / Red,171.0,True,True,False,75.0,True
+EVGA 01G-P1-N948-LR,181.98,GeForce 9400 GT,1.0,,,Unknown,175.0,True,False,False,75.0,True
+EVGA 02G-P4-2645-KR,199.99,GeForce GT 640,2.0,901.0,901.0,Black,170.0,True,True,False,75.0,True
+HP C2J94AT,136.99,Quadro K4000,3.0,810.0,810.0,Black / Silver,241.0,True,True,False,75.0,True
+EVGA FTW ACX 2.0+,265.0,GeForce GTX 960,2.0,1304.0,1367.0,Black / White,256.0,False,True,False,75.0,True
+XFX Black Edition,499.0,Radeon RX 570,8.0,1168.0,1328.0,Black / Red,243.0,False,True,False,150.0,False
+EVGA XC HYBRID GAMING,1899.21,GeForce RTX 2080 Ti,11.0,1350.0,1635.0,Black / Clear,269.0,False,True,False,250.0,False
+AMD 100-505956,499.0,Radeon Pro WX 8200,8.0,1200.0,1530.0,Blue,267.0,False,True,False,160.0,True
+EVGA 01G-P3-2711-KR,129.9,GeForce GT 710,1.0,954.0,954.0,Black,115.0,True,True,False,75.0,True
+PNY VCGGTX9804XPB-CG,248.45,GeForce GTX 980,4.0,1126.0,1216.0,Black / Silver,267.0,False,True,False,120.0,True
+XFX RX-VEGMLBFX6,449.0,Radeon RX VEGA 56,8.0,1156.0,1471.0,Black / Red,280.0,False,True,False,160.0,True
+EVGA 12G-P4-3990-KR,899.0,GeForce GTX Titan Z,12.0,705.0,876.0,Black / Silver,267.0,False,True,False,220.0,True
+PNY VCQM5000-PB,370.0,Quadro M5000,8.0,861.0,1038.0,Black / Green,267.0,False,True,False,160.0,True
+EVGA 02G-P4-2663-KR,299.0,GeForce GTX 660,2.0,1072.0,1072.0,Black / Silver,241.0,True,True,False,75.0,True
+Asus 710-1-SL,203.0,GeForce GT 710,1.0,954.0,954.0,Blue / Silver,134.0,True,True,False,75.0,True
+EVGA GAMING,369.0,GeForce GTX 1060 6GB,6.0,1506.0,1708.0,Black / Silver,267.0,False,True,False,120.0,False
+Asus DUAL,700.0,GeForce RTX 2060,6.0,1365.0,1680.0,Black / Silver,270.0,False,True,False,160.0,False
+VisionTek 900270,76.26,Radeon HD 4350,0.5,575.0,575.0,Unknown,166.5,True,True,False,75.0,True
+EVGA 02G-P3-2717-KR,119.99,GeForce GT 710,2.0,954.0,954.0,Black,115.0,True,True,False,75.0,True
+PNY VCQ450NVS-X16-PB,108.99,Quadro NVS 450,0.5,,,Black / Green,260.75,True,False,False,75.0,True
+AMD FirePro V7900 SDI,224.06,FirePro V7900 SDI,2.0,725.0,725.0,Black / Red,279.0,True,True,False,75.0,True
+PNY VCQ410-PB,76.0,Quadro 410,0.5,706.0,706.0,Black / Green,176.0,True,True,False,75.0,True
+Asus STRIX GAMING Advanced,685.0,GeForce RTX 2070,8.0,1410.0,1680.0,Black,300.0,False,True,False,175.0,False
+EVGA FTW3 ULTRA GAMING,735.0,GeForce RTX 2080,8.0,1515.0,1860.0,Clear / Black,302.0,False,True,False,215.0,False
+ATI FirePro RG220A,120.0,FirePro RG220A,0.5,800.0,800.0,Black / Red,168.0,True,True,False,75.0,True
+PNY XLR8,549.0,GeForce GTX 1080,8.0,1708.0,1848.0,Black / Red,292.0,False,True,False,180.0,False
+MSI SUPRIM X,1145.0,GeForce RTX 3080 10GB LHR,10.0,1440.0,1920.0,Black / Silver,336.0,False,True,False,160.0,True
+Gigabyte GV-N295-18I-B,527.36,GeForce GTX 295,1.75,,,Black / Blue,260.75,True,False,False,75.0,True
+ATI FirePro 2450 Multi-View,109.95,FirePro 2450,0.5,600.0,600.0,Black / Red,168.0,True,True,False,75.0,True
+Gigabyte GV-R57XT-8GD-B,630.0,Radeon RX 5700 XT,8.0,1605.0,1905.0,Silver,270.0,False,True,False,225.0,False
+EVGA 02G-P4-3660-KR,379.0,GeForce GTX 660 Ti,2.0,915.0,915.0,Black / Silver,241.0,True,True,False,75.0,True
+Gigabyte Radeon RX VEGA 56 8G,479.0,Radeon RX VEGA 56,8.0,1156.0,1471.0,Black / Red,280.0,False,True,False,160.0,True
+VisionTek Radeon HD 7790 1GB,142.85,Radeon HD 7790,1.0,1000.0,1000.0,Black / Blue,224.0,True,True,False,75.0,True
+Asus Phoenix EVO OC,325.0,GeForce GTX 1650 G6,4.0,1410.0,1635.0,Black,197.0,False,True,False,120.0,True
+EVGA 01G-P3-1526-KR,79.0,GeForce GT 520,1.0,810.0,810.0,Black,144.0,True,True,False,75.0,True
+PNY VCQ450NVS-X16-DVI-PB,134.96,Quadro NVS 450,0.5,550.0,550.0,Black / Green,260.75,True,True,False,75.0,True
+Gigabyte GAMING,399.0,GeForce GTX 1060 6GB,6.0,1506.0,1847.0,Black / Orange,278.0,False,True,False,120.0,False
+PNY T-Series,172.0,T400  2GB,2.0,420.0,1425.0,Black / Gray,156.0,False,True,False,75.0,True
+MSI D3H LP,89.0,GeForce GT 710,1.0,954.0,954.0,Black,146.0,True,True,False,75.0,True
+Gigabyte GV-R929D5-4GD-B,299.0,Radeon R9 290,4.0,947.0,947.0,Black / Red,289.0,True,True,False,120.0,True
+EVGA 01G-P3-3736-KR,169.0,GeForce GT 730,1.0,700.0,700.0,Black / Green,154.0,True,True,False,75.0,True
+PNY VCQK5000-PB,169.95,Quadro K5000,4.0,706.0,706.0,Black,267.0,True,True,False,120.0,True
+PNY VCGGTX1070T8PB-CG,459.0,GeForce GTX 1070 Ti,8.0,1607.0,1683.0,Black / White,279.0,False,True,False,180.0,False
+EVGA 01G-P3-1303-KR,99.0,GeForce 8400 GS,1.0,520.0,520.0,Black / Green,158.0,True,True,False,75.0,True
+EVGA Superclocked,259.0,GeForce GT 740,2.0,1085.0,1085.0,Black,153.0,True,True,False,75.0,True
+EVGA ACX 2.0+,359.0,GeForce GTX 970,4.0,1050.0,1178.0,Black / Blue,257.0,False,True,False,120.0,True
+Asus Founders Edition,498.0,GeForce GTX 1080,8.0,1607.0,1733.0,Black / Silver,267.0,False,True,False,180.0,False
+EVGA FTW+ GAMING,335.0,GeForce GTX 1060 3GB,3.0,1632.0,1860.0,Black,267.0,False,True,False,75.0,True
+PNY VCNVS810DVI-PB,645.0,NVS 810,4.0,1020.0,1020.0,Black / Silver,241.0,True,True,False,120.0,True
+HP 5Z7D8AT,499.0,T1000 8GB,8.0,1065.0,1395.0,Black,156.0,False,True,False,160.0,True
+EVGA 768-P3-1360-RX,447.0,GeForce GTX 460,0.75,675.0,675.0,Unknown,209.0,True,True,False,75.0,True
+Asus ENGTX570 DCII/2DIS/1280MD5,398.0,GeForce GTX 570,1.25,742.0,742.0,Black / Red,292.0,True,True,False,75.0,True
+PNY VCQK2000D-PB,168.75,Quadro K2000D,2.0,,,Black / Green,198.0,True,False,False,75.0,True
+AMD FirePro W9000,344.96,FirePro W9000,6.0,975.0,975.0,Black / Red,279.0,True,True,False,120.0,True
+MSI SEA HAWK X,795.0,GeForce RTX 2080,8.0,1515.0,1860.0,Black / Silver,268.0,False,True,False,215.0,False
+MSI R5670-PD512,80.08,Radeon HD 5670,0.5,775.0,775.0,Black / Silver,181.5,True,True,False,75.0,True
+EVGA 01G-P3-1377-TR,228.18,GeForce GTX 460,1.0,850.0,850.0,Black / Silver,209.0,True,True,False,75.0,True
+Gigabyte GV-R785OC-1GD,174.99,Radeon HD 7850,1.0,900.0,900.0,Black / Blue,241.0,True,True,False,75.0,True
+PNY VCQK420-PB,129.89,Quadro K420,1.0,876.0,876.0,Black / Green,160.0,True,True,False,75.0,True
+PowerColor Red Devil,599.0,Radeon RX VEGA 56,8.0,1308.0,1526.0,Red / Black,316.0,False,True,False,160.0,True
+Asus ENGTS250/DI/512MD3/WW,118.11,GeForce GTS 250,0.5,675.0,675.0,Blue,241.0,True,True,False,75.0,True
+ATI FirePro W5000,149.96,FirePro W5000,2.0,825.0,825.0,Black / Red,191.0,True,True,False,75.0,True
+EVGA FTW ACX 2.0,369.0,GeForce GTX 980,4.0,1279.0,1380.0,Black,269.0,False,True,False,120.0,True
+ATI FirePro V7900 SDI,202.0,FirePro V7900 SDI,2.0,725.0,725.0,Black / Red,279.0,True,True,False,75.0,True
+EVGA Classified ACX 2.0,399.0,GeForce GTX 980,4.0,1291.0,1393.0,Black / Red,280.0,False,True,False,120.0,True
+XFX RX-VEGMTSFX6,699.0,Radeon RX VEGA 64,8.0,1247.0,1546.0,Silver / Red,282.0,False,True,False,160.0,True
+EVGA 02G-P4-3662-KR,379.0,GeForce GTX 660 Ti,2.0,967.0,967.0,Black / Silver,241.0,True,True,False,75.0,True
+ATI FirePro W7000,199.0,FirePro W7000,4.0,950.0,950.0,Black / Red,242.0,True,True,False,120.0,True
+Asus 90YV0810-U0NA00,799.0,GeForce GTX Titan X,12.0,1000.0,1075.0,Black / Silver,282.0,False,True,False,220.0,True
+Lenovo 4X61J52233,542.79,T1000 8GB,8.0,1065.0,1395.0,Black,156.0,False,True,False,160.0,True
+PNY VCQ6000-PB,349.77,Quadro 6000,6.0,,,Black / Silver,260.75,True,False,False,120.0,True
+PNY VCQK1200DVI-PB,137.42,Quadro K1200,4.0,1058.0,1124.0,Black / Green,160.0,False,True,False,120.0,True
+MSI VENTUS 3X OC,998.0,GeForce RTX 3080 10GB LHR,10.0,1440.0,1740.0,Black,305.0,False,True,False,160.0,True
+XFX HD-467X-ZDF2,119.99,Radeon HD 4670,1.0,750.0,750.0,Black,167.0,True,True,False,75.0,True
+Asus GT730-SL-1GD3-BRK,143.26,GeForce GT 730,1.0,902.0,902.0,Black / Blue,137.0,True,True,False,75.0,True
+Gigabyte GV-N275UD-896I,253.59,GeForce GTX 275,0.875,,,Black / Blue,260.75,True,False,False,75.0,True
+Gigabyte WINDFORCE 2X,299.0,Radeon R7 370,2.0,975.0,1015.0,Black,194.0,False,True,False,75.0,True
+BFG BFGE94512GTE,129.99,GeForce 9400 GT,0.5,,,Blue / White,175.0,True,False,False,75.0,True
+Gigabyte GV-N970TTOC-4GD,379.0,GeForce GTX 970,4.0,1101.0,1241.0,Black / Blue,266.0,False,True,False,120.0,True
+HP J3G92AT,158.96,FirePro W5100,4.0,930.0,930.0,Black / Red,171.0,True,True,False,120.0,True
+PNY VCQ5000-PB,184.96,Quadro 5000,2.5,,,Black / Silver,260.75,True,False,False,75.0,True
+HP C2J93AA,129.96,Quadro K2000,2.0,,,Black / Green,203.0,True,False,False,75.0,True
+ATI FirePro 2270,129.75,FirePro 2270,1.0,600.0,600.0,Black / Red,170.0,True,True,False,75.0,True
+Gigabyte GV-N250OC-1GI,169.79,GeForce GTS 250,1.0,,,Black / Blue,241.0,True,False,False,75.0,True
+MSI TWIN FROZR II,329.42,Radeon HD 5850,1.0,725.0,725.0,Black / Silver,257.0,True,True,False,75.0,True
+HP C2J93AT,129.96,Quadro K2000,2.0,954.0,954.0,Black / Green,202.0,True,True,False,75.0,True
+ATI FirePro W600,234.96,FirePro W600,2.0,600.0,600.0,Black / Red,163.0,True,True,False,75.0,True
+Asus ENGTX460/2DI/768MD5,224.95,GeForce GTX 460,0.75,,,Black / Silver,209.0,True,False,False,75.0,True
+EVGA 01G-P3-2722-KR,460.08,GeForce GT 720,1.0,797.0,797.0,Black / Green,167.0,True,True,False,75.0,True
+EVGA 04G-P4-1976-KR,399.0,GeForce GTX 970,4.0,1140.0,1279.0,Black / Silver,242.0,False,True,False,120.0,True
+Gigabyte XTREME,459.0,GeForce GTX 1070,8.0,1670.0,1898.0,Black / Orange,291.0,False,True,False,150.0,False
+Asus EAH5550/DI/1GD3(LP),90.17,Radeon HD 5550,1.0,550.0,550.0,Black / Red,167.0,True,True,False,75.0,True
+Asus EAH6870/2DI2S/1GD5,267.73,Radeon HD 6870,1.0,913.0,913.0,Black / Red,241.0,True,True,False,75.0,True
+Asus ARES/2DIS/4GD5,1092.21,Radeon HD 5870 X2,4.0,850.0,850.0,Black / Red,279.0,True,True,False,120.0,True
+MSI R5450-MD1GH/D2,78.34,Radeon HD 5450,1.0,650.0,650.0,Black / Silver,167.0,True,True,False,75.0,True
+MSI N465GTX-M2D1G,274.64,GeForce GTX 465,1.0,607.0,607.0,Black / Red,243.0,True,True,False,75.0,True
+XFX FX-795A-TDJC,358.26,Radeon HD 7950,3.0,800.0,800.0,Black / Silver,274.0,True,True,False,75.0,True
+EVGA 02G-P3-2738-KR,189.0,GeForce GT 730,2.0,700.0,700.0,Black / Green,167.0,True,True,False,75.0,True
+EVGA Superclocked,369.0,GeForce GTX 980,4.0,1241.0,1342.0,Black / Silver,267.0,False,True,False,120.0,True
+PNY VCQK5000MAC-PB,588.02,Quadro K5000,4.0,706.0,706.0,Black / Silver,267.0,True,True,False,120.0,True
+MSI R5750-MD1G,117.84,Radeon HD 5750,1.0,700.0,700.0,Black / Silver,200.0,True,True,False,75.0,True
+Galaxy 68NPH6DV5ZGX,738.0,GeForce GTX 680,2.0,1006.0,1006.0,Black / Silver,254.0,True,True,False,75.0,True
+ATI FirePro W5000,149.96,FirePro W5000,2.0,825.0,825.0,Black / Red,183.0,True,True,False,75.0,True
+XFX PVT95GYAR2,119.99,GeForce 9500 GT,0.5,550.0,550.0,Black / Green,167.0,True,True,False,75.0,True
+MSI N570GTX-M2D12D5,387.62,GeForce GTX 570,1.25,732.0,732.0,Black / Blue,267.0,True,True,False,75.0,True
+MSI R6850-PM2D1GD5/OC,206.7,Radeon HD 6850,1.0,820.0,820.0,Unknown,234.0,True,True,False,75.0,True
+PNY VCQ4000MAC-PB,221.01,Quadro 4000,2.0,,,Black / Silver,260.75,True,False,False,75.0,True
+Gigabyte WINDFORCE 2X,243.89,Radeon R9 285,2.0,973.0,973.0,Black,263.0,True,True,False,75.0,True
+ATI FirePro W8000,199.96,FirePro W8000,4.0,900.0,900.0,Black / Red,279.0,True,True,False,120.0,True
+Asus R7265-DC2-2GD5,159.72,Radeon R7 265,2.0,900.0,925.0,Black / Red,233.0,False,True,False,75.0,True
+XFX HD-545X-ZAF2,69.98,Radeon HD 5450,1.0,650.0,650.0,Black,172.0,True,True,False,75.0,True
+Asus R9290-4GD5,448.14,Radeon R9 290,4.0,947.0,947.0,Black / Red,276.0,True,True,False,120.0,True
+Lenovo 0B47392,129.96,Quadro K2000,2.0,954.0,954.0,Black / Green,202.0,True,True,False,75.0,True
+Asus EAH5850 DIRECTCU TOP/2DIS/1GD5,252.4,Radeon HD 5850,1.0,765.0,765.0,Black / Red,241.0,True,True,False,75.0,True
+EVGA 012-P3-1578-AR,288.74,GeForce GTX 570,1.25,822.0,822.0,Black / Red,266.0,True,True,False,75.0,True
+PowerColor TurboDuo,497.99,Radeon R9 280X,3.0,850.0,1000.0,Black / Red,265.0,False,True,False,75.0,True
+ATI FirePro V8750,1267.77,FirePro V8750,2.0,750.0,750.0,Black / Red,254.0,True,True,False,75.0,True
