@@ -1,544 +1,1181 @@
-name,price,core_count,core_clock,boost_clock,microarchitecture,tdp,graphics,brand,has_integrated_graphics,socket
-AMD Ryzen 7 9800X3D,451.5,8,4.7,5.2,Zen 5,120,Radeon,AMD,True,AM5
-AMD Ryzen 7 7800X3D,340.05,8,4.2,5.0,Zen 4,120,Radeon,AMD,True,AM5
-AMD Ryzen 5 7600X,170.49,6,4.7,5.3,Zen 4,105,Radeon,AMD,True,AM5
-AMD Ryzen 5 9600X,204.99,6,3.9,5.4,Zen 5,65,Radeon,AMD,True,AM5
-AMD Ryzen 7 7700X,242.98,8,4.5,5.4,Zen 4,105,Radeon,AMD,True,AM5
-AMD Ryzen 9 9950X3D,649.99,16,4.3,5.7,Zen 5,170,Radeon,AMD,True,AM5
-AMD Ryzen 5 5500,74.22,6,3.6,4.2,Zen 3,65,None,AMD,False,AM4
-AMD Ryzen 7 9700X,305.89,8,3.8,5.5,Zen 5,65,Radeon,AMD,True,AM5
-AMD Ryzen 5 5600X,158.99,6,3.7,4.6,Zen 3,65,None,AMD,False,AM4
-AMD Ryzen 5 5600,125.61,6,3.5,4.4,Zen 3,65,None,AMD,False,AM4
-AMD Ryzen 7 5800X,179.95,8,3.8,4.7,Zen 3,105,None,AMD,False,AM4
-Intel Core i7-14700K,297.17,20,3.4,5.6,Raptor Lake Refresh,125,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i9-14900K,439.0,24,3.2,6.0,Raptor Lake Refresh,125,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i5-12400F,108.99,6,2.5,4.4,Alder Lake,65,None,Intel,False,LGA1700
-AMD Ryzen 5 3600,79.75,6,3.6,4.2,Zen 2,65,None,AMD,False,AM4
-AMD Ryzen 5 7600,196.97,6,3.8,5.1,Zen 4,65,Radeon,AMD,True,AM5
-AMD Ryzen 7 5700X,154.99,8,3.4,4.6,Zen 3,65,None,AMD,False,AM4
-AMD Ryzen 9 7900X,314.11,12,4.7,5.6,Zen 4,170,Radeon,AMD,True,AM5
-AMD Ryzen 9 9900X,359.0,12,4.4,5.6,Zen 5,120,Radeon,AMD,True,AM5
-Intel Core i5-14600K,189.99,14,3.5,5.3,Raptor Lake Refresh,125,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core Ultra 7 265K,269.99,20,3.9,5.5,Arrow Lake,125,Intel Xe,Intel,True,LGA1851
-AMD Ryzen 7 5700X3D,313.3,8,3.0,4.1,Zen 3,105,None,AMD,False,AM4
-Intel Core i5-14400F,125.99,10,2.5,4.7,Raptor Lake Refresh,65,None,Intel,False,LGA1700
-AMD Ryzen 9 9950X,533.83,16,4.3,5.7,Zen 5,170,Radeon,AMD,True,AM5
-AMD Ryzen 7 5800XT,140.0,8,3.8,4.8,Zen 3,105,None,AMD,False,AM4
-Intel Core Ultra 9 285K,559.99,24,3.7,5.7,Arrow Lake,125,Intel Xe,Intel,True,LGA1851
-Intel Core i7-12700K,214.15,12,3.6,5.0,Alder Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700
-AMD Ryzen 5 7600X3D,433.5,6,4.1,4.7,Zen 4,65,Radeon,AMD,True,AM5
-AMD Ryzen 5 5600G,134.99,6,3.9,4.4,Zen 3,65,Radeon Vega 7,AMD,True,AM4
-AMD Ryzen 7 7700,293.97,8,3.6,5.3,Zen 4,65,Radeon,AMD,True,AM5
-Intel Core i5-13400F,151.47,10,2.5,4.6,Raptor Lake,65,None,Intel,False,LGA1700
-Intel Core i7-12700KF,174.99,12,3.6,5.0,Alder Lake,125,None,Intel,False,LGA1700
-AMD Ryzen 9 5900X,254.99,12,3.7,4.8,Zen 3,105,None,AMD,False,AM4
-AMD Ryzen 7 3700X,142.94,8,3.6,4.4,Zen 2,65,None,AMD,False,AM4
-Intel Core i5-12600KF,129.99,10,3.7,4.9,Alder Lake,125,None,Intel,False,LGA1700
-AMD Ryzen 5 8400F,137.57,6,4.2,4.7,Zen 4,65,None,AMD,False,AM5
-AMD Ryzen 5 8500G,152.5,6,4.1,5.0,Zen 4,65,Radeon 740M,AMD,True,AM5
-AMD Threadripper 3990X,2699.99,64,2.9,4.3,Zen 2,280,None,AMD,False,AM4
-Intel Core i5-12600K,148.19,10,3.7,4.9,Alder Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700
-AMD Ryzen 7 5700G,174.97,8,3.8,4.6,Zen 3,65,Radeon Vega 8,AMD,True,AM4
-AMD Ryzen 9 5950X,274.99,16,3.4,4.9,Zen 3,105,None,AMD,False,AM4
-AMD Ryzen 7 5800X3D,704.86,8,3.4,4.5,Zen 3,105,None,AMD,False,AM4
-Intel Core i3-12100F,79.45,4,3.3,4.3,Alder Lake,58,None,Intel,False,LGA1700
-AMD Ryzen 9 7950X,449.96,16,4.5,5.7,Zen 4,170,Radeon,AMD,True,AM5
-Intel Core i5-14600KF,197.98,14,3.5,5.3,Raptor Lake Refresh,125,None,Intel,False,LGA1700
-AMD Ryzen 5 4500,78.38,6,3.6,4.1,Zen 2,65,None,AMD,False,AM4
-AMD Ryzen 5 8600G,224.83,6,4.3,5.0,Zen 4,65,Radeon 760M,AMD,True,AM5
-AMD Ryzen 7 5700,134.96,8,3.7,4.6,Zen 3,65,None,AMD,False,AM4
-Intel Core i7-14700KF,313.95,20,3.4,5.6,Raptor Lake Refresh,125,None,Intel,False,LGA1700
-Intel Core i9-12900K,285.99,16,3.2,5.2,Alder Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core Ultra 7 265KF,277.44,20,3.9,5.5,Arrow Lake,125,None,Intel,False,LGA1851
-AMD Ryzen 9 9900X3D,539.98,12,4.4,5.5,Zen 5,120,Radeon,AMD,True,AM5
-AMD Ryzen 9 7950X3D,769.27,16,4.2,5.7,Zen 4,120,Radeon,AMD,True,AM5
-AMD Ryzen 7 8700G,279.0,8,4.2,5.1,Zen 4,65,Radeon 780M,AMD,True,AM5
-Intel Core i9-14900KF,419.97,24,3.2,6.0,Raptor Lake Refresh,125,None,Intel,False,LGA1700
-Intel Core i7-13700K,390.33,16,3.4,5.4,Raptor Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i5-10400F,137.44,6,2.9,4.3,Comet Lake,65,None,Intel,False,LGA1200
-AMD Ryzen 7 8700F,239.99,8,4.1,5.0,Zen 4,65,None,AMD,False,AM5
-AMD Ryzen 5 2600,149.99,6,3.4,3.9,Zen+,65,None,AMD,False,AM4
-Intel Core i9-14900KS,639.97,24,3.2,6.2,Raptor Lake Refresh,150,Intel UHD Graphics 770,Intel,True,LGA1700
-AMD Ryzen 5 5600GT,135.0,6,3.6,4.6,Zen 3,65,Radeon Vega 7,AMD,True,AM4
-Intel Core i5-13600KF,195.9,14,3.5,5.1,Raptor Lake,125,None,Intel,False,LGA1700
-AMD Ryzen 9 5900XT,249.99,16,3.3,4.8,Zen 3,105,None,AMD,False,AM4
-Intel Core i7-14700F,294.58,20,2.1,5.4,Raptor Lake Refresh,65,None,Intel,False,LGA1700
-AMD Ryzen 9 7900,342.94,12,3.7,5.4,Zen 4,65,Radeon,AMD,True,AM5
-Intel Core i7-9700K,239.43,8,3.6,4.9,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i7-8700K,179.0,6,3.7,4.7,Coffee Lake,95,Intel UHD Graphics 630,Intel,True,LGA1151
-AMD Ryzen 3 3200G,73.45,4,3.6,4.0,Zen+,65,Radeon Vega 8,AMD,True,AM4
-AMD Ryzen 5 3400G,85.08,4,3.7,4.2,Zen+,65,Radeon Vega 11,AMD,True,AM4
-Intel Core i9-13900K,434.0,24,3.0,5.8,Raptor Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i5-12400,143.55,6,2.5,4.4,Alder Lake,65,Intel UHD Graphics 730,Intel,True,LGA1700
-AMD Ryzen 5 3600X,171.97,6,3.8,4.4,Zen 2,95,None,AMD,False,AM4
-Intel Core i9-9900K,399.0,8,3.6,5.0,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151
-AMD Ryzen 7 2700X,170.99,8,3.7,4.3,Zen+,105,None,AMD,False,AM4
-Intel Core i3-14100F,90.05,4,3.5,4.7,Raptor Lake Refresh,58,None,Intel,False,LGA1700
-Intel Core i9-12900KF,265.68,16,3.2,5.2,Alder Lake,125,None,Intel,False,LGA1700
-AMD Ryzen 5 5600XT,144.99,6,3.7,4.7,Zen 3,65,None,AMD,False,AM4
-Intel Core i5-13600K,299.99,14,3.5,5.1,Raptor Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i7-7700K,151.69,4,4.2,4.5,Kaby Lake,91,Intel HD Graphics 630,Intel,True,LGA1151
-AMD Ryzen 3 4100,75.29,4,3.8,4.0,Zen 2,65,None,AMD,False,AM4
-Intel Core Ultra 5 245K,259.99,14,4.2,5.2,Arrow Lake,125,Intel Xe,Intel,True,LGA1851
-AMD Ryzen 3 3100,96.43,4,3.6,3.9,Zen 2,65,None,AMD,False,AM4
-Intel Core i5-9400F,93.0,6,2.9,4.1,Coffee Lake Refresh,65,None,Intel,False,LGA1151
-Intel Core i7-13700KF,299.0,16,3.4,5.4,Raptor Lake,125,None,Intel,False,LGA1700
-Intel Core i7-10700K,349.0,8,3.8,5.1,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Core i5-14400,175.98,10,2.5,4.7,Raptor Lake Refresh,65,Intel UHD Graphics 730,Intel,True,LGA1700
-AMD Ryzen 7 7700,393.08,8,3.6,5.3,Zen 4,65,Radeon,AMD,True,AM5
-Intel Core i7-6700K,228.96,4,4.0,4.2,Skylake,91,Intel HD Graphics 530,Intel,True,LGA1151
-AMD Ryzen 7 7800X3D,431.66,8,4.2,5.0,Zen 4,120,Radeon,AMD,True,AM5
-Intel Core i5-11400F,192.0,6,2.6,4.4,Rocket Lake,65,None,Intel,False,LGA1200
-AMD Threadripper 3970X,1714.99,32,3.7,4.5,Zen 2,280,None,AMD,False,AM4
-AMD Ryzen 7 3800X,269.8,8,3.9,4.5,Zen 2,105,None,AMD,False,AM4
-AMD Ryzen 5 2600X,115.0,6,3.6,4.2,Zen+,95,None,AMD,False,AM4
-Intel Core i7-12700F,247.0,12,2.1,4.9,Alder Lake,65,None,Intel,False,LGA1700
-Intel Core i5-9600K,166.0,6,3.7,4.6,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core Ultra 5 225F,190.83,10,3.3,4.9,Arrow Lake,65,None,Intel,False,LGA1851
-Intel Core i7-11700K,293.99,8,3.6,5.0,Rocket Lake,125,Intel UHD Graphics 750,Intel,True,LGA1200
-Intel Core i3-12100,113.58,4,3.3,4.3,Alder Lake,60,Intel UHD Graphics 730,Intel,True,LGA1700
-Intel Core i5-10400,139.99,6,2.9,4.3,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Core i7-8700,188.47,6,3.2,4.6,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i3-14100,119.95,4,3.5,4.7,Raptor Lake Refresh,60,Intel UHD Graphics 730,Intel,True,LGA1700
-Intel Core i3-13100F,85.34,4,3.4,4.5,Raptor Lake,58,None,Intel,False,LGA1700
-Intel Pentium E5700,14.99,2,3.0,3.0,Wolfdale,65,None,Intel,False,LGA775
-Intel Core i9-10900K,548.99,10,3.7,5.3,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Core i5-13400,164.05,10,2.5,4.6,Raptor Lake,65,Intel UHD Graphics 730,Intel,True,LGA1700
-Intel Core i7-7700,102.5,4,3.6,4.2,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i7-13700F,255.0,16,2.1,5.2,Raptor Lake,65,None,Intel,False,LGA1700
-Intel Core i5-6500,87.13,4,3.2,3.6,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151
-AMD Ryzen 5 5500GT,141.92,6,3.6,4.4,Zen 3,65,Radeon Vega 7,AMD,True,AM4
-Intel Core i9-13900KF,435.0,24,3.0,5.8,Raptor Lake,125,None,Intel,False,LGA1700
-AMD Ryzen 5 9600,467.55,6,3.8,5.2,Zen 5,65,Radeon,AMD,True,AM5
-Intel Core Ultra 5 235,264.99,14,3.4,5.0,Arrow Lake,65,Intel Xe,Intel,True,LGA1851
-Intel Core i5-8400,178.89,6,2.8,4.0,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i7-6700,123.0,4,3.4,4.0,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Core Ultra 5 225,213.01,10,3.3,4.9,Arrow Lake,65,Intel Xe,Intel,True,LGA1851
-Intel Core i7-14700,306.55,20,2.1,5.4,Raptor Lake Refresh,65,Intel UHD Graphics 770,Intel,True,LGA1700
-AMD Ryzen 5 1600 (14nm),115.0,6,3.2,3.6,Zen,65,None,AMD,False,AM4
-Intel Core i9-11900K,449.0,8,3.5,5.3,Rocket Lake,125,Intel UHD Graphics 750,Intel,True,LGA1200
-Intel Core i7-10700F,325.26,8,2.9,4.8,Comet Lake,65,None,Intel,False,LGA1200
-Intel Core i3-10100F,100.0,4,3.6,4.3,Comet Lake,65,None,Intel,False,LGA1200
-Intel Core i7-11700F,229.99,8,2.5,4.9,Rocket Lake,65,None,Intel,False,LGA1200
-Intel Core i5-13500,234.99,14,2.5,4.8,Raptor Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Pentium E2220,12.99,2,2.4,2.4,Core,65,None,Intel,False,LGA775
-Intel Core i7-12700,289.97,12,2.1,4.9,Alder Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i5-10600K,174.99,6,4.1,4.8,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Core i5-6600K,89.99,4,3.5,3.9,Skylake,91,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Core Ultra 9 285,579.99,24,2.5,5.6,Arrow Lake,65,Intel Xe,Intel,True,LGA1851
-Intel Core i7-4770K,99.0,4,3.5,3.9,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Core i7-3770,98.69,4,3.4,3.4,Ivy Bridge,77,Intel HD Graphics 4000,Intel,True,LGA1155
-Intel Core i7-10700,399.69,8,2.9,4.8,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200
-AMD Ryzen 9 3950X,455.95,16,3.5,4.7,Zen 2,105,None,AMD,False,AM4
-Intel Core i3-6100,29.99,2,3.7,3.7,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151
-AMD Threadripper 3960X,1267.0,24,3.8,4.5,Zen 2,280,None,AMD,False,AM4
-AMD Ryzen 7 2700,161.69,8,3.2,4.1,Zen+,65,None,AMD,False,AM4
-Intel Core i5-7500,63.0,4,3.4,3.8,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i5-14500,238.09,14,2.6,5.0,Raptor Lake Refresh,65,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i7-9700,298.68,8,3.0,4.7,Coffee Lake Refresh,65,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core Ultra 7 265,374.99,20,2.4,5.3,Arrow Lake,65,Intel Xe,Intel,True,LGA1851
-Intel Core i5-11400,159.99,6,2.6,4.4,Rocket Lake,65,Intel UHD Graphics 730,Intel,True,LGA1200
-Intel Core i9-13900KS,429.0,24,3.0,6.0,Raptor Lake,150,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core Ultra 7 265F,269.99,20,2.4,5.3,Arrow Lake,65,None,Intel,False,LGA1851
-Intel Core i3-8100,60.78,4,3.6,3.6,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i7-4790,149.94,4,3.6,4.0,Haswell Refresh,84,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Xeon E5-2699 V4,332.72,22,2.2,3.6,Broadwell,145,None,Intel,False,LGA1150
-Intel Core i5-4690K,54.0,4,3.5,3.9,Haswell Refresh,88,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Xeon E5-2680 V4,1975.0,14,2.4,3.3,Broadwell,120,None,Intel,False,LGA1150
-Intel Core i9-12900KS,379.99,16,3.4,5.5,Alder Lake,150,Intel UHD Graphics 770,Intel,True,LGA1700
-AMD Ryzen 7 1700,165.0,8,3.0,3.7,Zen,65,None,AMD,False,AM4
-Intel Core i5-8600K,327.23,6,3.6,4.3,Coffee Lake,95,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i3-10100,99.99,4,3.6,4.3,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Pentium G640,19.0,2,2.8,2.8,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155
-Intel Core i9-9900KF,329.0,8,3.6,5.0,Coffee Lake Refresh,95,None,Intel,False,LGA1151
-Intel Core i7-9700F,259.0,8,3.0,4.7,Coffee Lake Refresh,65,None,Intel,False,LGA1151
-AMD EPYC 4564P,699.99,16,4.5,5.7,Zen 4,170,Radeon,AMD,True,AM5
-AMD Ryzen 5 2400G,115.0,4,3.6,3.9,Zen,65,Radeon Vega 11,AMD,True,AM4
-Intel Core i5-12500,179.92,6,3.0,4.6,Alder Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i3-9100F,75.0,4,3.6,4.2,Coffee Lake Refresh,65,None,Intel,False,LGA1151
-Intel Core i5-8500,170.0,6,3.0,4.1,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i5-7500T,55.0,4,2.7,3.3,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151
-AMD Ryzen 5 1600 (12nm),99.0,6,3.2,3.6,Zen+,65,None,AMD,False,AM4
-AMD Athlon 3000G (14nm),98.79,2,3.5,3.5,Zen,35,Radeon Vega 3,AMD,True,AM4
-Intel Core i7-10700KF,245.0,8,3.8,5.1,Comet Lake,125,None,Intel,False,LGA1200
-Intel Core i3-10105F,143.53,4,3.7,4.4,Comet Lake,65,None,Intel,False,LGA1200
-Intel Core i5-7600,55.8,4,3.5,4.1,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i7-9700KF,395.02,8,3.6,4.9,Coffee Lake Refresh,95,None,Intel,False,LGA1151
-Intel Core i7-4770,177.0,4,3.4,3.9,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Core i5-3470,95.46,4,3.2,3.2,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155
-AMD Ryzen 5 1600X,99.0,6,3.6,4.0,Zen,95,None,AMD,False,AM4
-Intel Core i7-11700KF,354.57,8,3.6,5.0,Rocket Lake,125,None,Intel,False,LGA1200
-Intel Core i3-4150,35.0,2,3.5,3.5,Haswell Refresh,54,Intel HD Graphics 4400,Intel,True,LGA1150
-Intel Core i7-11700,377.99,8,2.5,4.9,Rocket Lake,65,Intel UHD Graphics 750,Intel,True,LGA1200
-Intel Core Ultra 5 245KF,284.99,14,4.2,5.2,Arrow Lake,125,None,Intel,False,LGA1851
-Intel Core i5-7600K,182.89,4,3.8,4.2,Kaby Lake,91,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i3-13100,125.25,4,3.4,4.5,Raptor Lake,60,Intel UHD Graphics 730,Intel,True,LGA1700
-Intel Core i9-11900KF,399.0,8,3.5,5.3,Rocket Lake,125,None,Intel,False,LGA1200
-AMD Ryzen 7 1700X,428.88,8,3.4,3.8,Zen,95,None,AMD,False,AM4
-Intel Core i7-13700,319.93,16,2.1,5.2,Raptor Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700
-AMD Ryzen 3 3300X,110.99,4,3.8,4.3,Zen 2,65,None,AMD,False,AM4
-Intel Core i9-14900F,499.0,24,2.0,5.8,Raptor Lake Refresh,65,None,Intel,False,LGA1700
-AMD Ryzen 7 1800X,135.0,8,3.6,4.0,Zen,95,None,AMD,False,AM4
-AMD Ryzen 5 3600XT,609.9,6,3.8,4.5,Zen 2,95,None,AMD,False,AM4
-Intel Core i5-4570,98.0,4,3.2,3.2,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Core i5-11600KF,169.89,6,3.9,4.9,Rocket Lake,125,None,Intel,False,LGA1200
-Intel Core i5-2400,49.99,4,3.1,3.1,Sandy Bridge,95,Intel HD Graphics 2000,Intel,True,LGA1155
-Intel Core i5-9600KF,169.69,6,3.7,4.6,Coffee Lake Refresh,95,None,Intel,False,LGA1151
-Intel Core i5-9400,149.94,6,2.9,4.1,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i3-10105,99.0,4,3.7,4.4,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Core i5-4460,68.56,4,3.2,3.4,Haswell Refresh,84,Intel HD Graphics 4600,Intel,True,LGA1150
-AMD Ryzen 3 1200 (14nm),70.0,4,3.1,3.4,Zen,65,None,AMD,False,AM4
-Intel Core i5-10600KF,236.92,6,4.1,4.8,Comet Lake,125,None,Intel,False,LGA1200
-AMD Ryzen 5 1400,79.98,4,3.2,3.4,Zen,65,None,AMD,False,AM4
-Intel Core i7-6800K,72.98,6,3.4,3.6,Broadwell,140,None,Intel,False,LGA1150
-Intel Core i5-4570T,49.0,2,2.9,2.9,Haswell,35,Intel HD Graphics 4600,Intel,True,LGA1150
-AMD Ryzen 5 5600T,160.19,6,3.5,4.5,Zen 3,65,None,AMD,False,AM4
-Intel Core i7-8700K,255.04,6,3.7,4.7,Coffee Lake,95,Intel UHD Graphics 630,Intel,True,LGA1151
-AMD Threadripper 2920X,199.1,12,3.5,4.3,Zen+,180,None,AMD,False,AM4
-Intel Core i3-9100,108.89,4,3.6,4.2,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i3-7100,36.99,2,3.9,3.9,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Xeon E5-2687W V4,2282.01,12,3.0,3.5,Broadwell,160,None,Intel,False,LGA1150
-Intel Core i9-14900,571.86,24,2.0,5.8,Raptor Lake Refresh,65,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i9-9900KS,1389.0,8,4.0,5.0,Coffee Lake Refresh,127,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i5-9500,198.69,6,3.0,4.4,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i7-2600,189.69,4,3.4,3.4,Sandy Bridge,95,Intel HD Graphics 2000,Intel,True,LGA1155
-AMD Ryzen 5 1500X,149.99,4,3.5,3.7,Zen,65,None,AMD,False,AM4
-Intel Core i5-10500,229.95,6,3.1,4.5,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Core i9-10980XE,1004.04,18,3.0,4.8,Cascade Lake,165,None,Intel,False,LGA3647
-Intel Core i9-7900X,264.99,10,3.3,4.5,Skylake,140,None,Intel,False,LGA1151
-Intel Core i5-3570K,128.99,4,3.4,3.4,Ivy Bridge,77,Intel HD Graphics 4000,Intel,True,LGA1155
-Intel Core i7-4790K,130.51,4,4.0,4.4,Haswell Refresh,88,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Core i3-4130,41.0,2,3.4,3.4,Haswell,54,Intel HD Graphics 4400,Intel,True,LGA1150
-Intel Core i5-4690,52.0,4,3.5,3.9,Haswell Refresh,84,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Core i5-8400,198.95,6,2.8,4.0,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151
-AMD Threadripper 1950X,850.0,16,3.4,4.0,Zen,180,None,AMD,False,AM4
-Intel Celeron G6900,93.71,2,3.4,3.4,Alder Lake,46,Intel UHD Graphics 710,Intel,True,LGA1700
-AMD EPYC 4244P,189.33,6,3.8,5.1,Zen 4,65,Radeon,AMD,True,AM5
-Intel Core i9-13900,414.99,24,2.0,5.6,Raptor Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Pentium Gold G7400,90.0,2,3.7,3.7,Alder Lake,46,Intel UHD Graphics 710,Intel,True,LGA1700
-Intel Core i9-9940X,1950.0,14,3.3,4.4,Skylake,165,None,Intel,False,LGA1151
-AMD Athlon 200GE,69.98,2,3.2,3.2,Zen,35,Radeon Vega 3,AMD,True,AM4
-Intel Core i5-2500K,100.0,4,3.3,3.3,Sandy Bridge,95,Intel HD Graphics 3000,Intel,True,LGA1155
-AMD Threadripper 1920X,195.0,12,3.5,4.0,Zen,180,None,AMD,False,AM4
-Intel Core i5-8500T,125.0,6,2.1,3.5,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core 2 Duo E8400,27.55,2,3.0,3.0,Wolfdale,65,None,Intel,False,LGA775
-Intel Xeon E3-1220 V6,25.0,4,3.0,3.5,Kaby Lake,72,None,Intel,False,LGA1151
-Intel Pentium Gold G5420,29.0,2,3.8,3.8,Coffee Lake,54,Intel UHD Graphics 610,Intel,True,LGA1151
-Intel Pentium G4400,50.0,2,3.3,3.3,Skylake,54,Intel HD Graphics 510,Intel,True,LGA1151
-Intel Core i5-12600,249.99,6,3.3,4.8,Alder Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Celeron 420,69.95,1,1.6,1.6,Core,35,None,Intel,False,LGA775
-Intel Core i9-10900,390.77,10,2.8,5.2,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Celeron G5900,45.2,2,3.4,3.4,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200
-Intel Core i9-10900X,479.99,10,3.7,4.7,Cascade Lake,165,None,Intel,False,LGA3647
-Intel Core i5-4670K,105.86,4,3.4,3.4,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Core i5-6500,149.94,4,3.2,3.6,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Core i9-9900K,954.81,8,3.6,5.0,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151
-AMD Threadripper 2970WX,898.88,24,3.0,4.2,Zen+,250,None,AMD,False,AM4
-Intel Core i9-13900F,516.43,24,2.0,5.6,Raptor Lake,65,None,Intel,False,LGA1700
-Intel Xeon E5-1650 V4,114.94,6,3.6,4.0,Broadwell,140,None,Intel,False,LGA1150
-Intel Core i5-11600,140.0,6,2.8,4.8,Rocket Lake,65,Intel UHD Graphics 750,Intel,True,LGA1200
-Intel Core i7-8086K,343.12,6,4.0,5.0,Coffee Lake,95,Intel UHD Graphics 630,Intel,True,LGA1151
-AMD EPYC 4464P,429.99,12,3.7,5.4,Zen 4,65,Radeon,AMD,True,AM5
-Intel Core i7-2600K,255.55,4,3.4,3.4,Sandy Bridge,95,Intel HD Graphics 3000,Intel,True,LGA1155
-Intel Core i5-11500,160.0,6,2.7,4.6,Rocket Lake,65,Intel UHD Graphics 750,Intel,True,LGA1200
-Intel Core i9-9900,419.69,8,3.1,5.0,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i9-11900F,329.0,8,2.5,5.2,Rocket Lake,65,None,Intel,False,LGA1200
-Intel Core i7-6850K,85.0,6,3.6,3.8,Broadwell,140,None,Intel,False,LGA1150
-AMD FX-9590,292.58,8,4.7,5.0,Piledriver,220,None,AMD,False,FM2+
-Intel Core i9-12900F,359.89,16,2.4,5.1,Alder Lake,65,None,Intel,False,LGA1700
-Intel Celeron G5905,51.79,2,3.5,3.5,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200
-Intel Core i9-12900,391.4,16,2.4,5.1,Alder Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700
-Intel Core i7-4770S,99.0,4,3.1,3.1,Haswell,65,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Core i7-4930K,98.0,6,3.4,3.9,Ivy Bridge,130,None,Intel,False,LGA1155
-Intel Core i5-8600,189.0,6,3.1,4.3,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i5-4440,100.0,4,3.1,3.3,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Celeron G3930,28.5,2,2.9,2.9,Kaby Lake,51,Intel HD Graphics 610,Intel,True,LGA1151
-Intel Pentium G4560,59.0,2,3.5,3.5,Kaby Lake,54,Intel HD Graphics 610,Intel,True,LGA1151
-Intel Core i3-530,45.0,2,2.93,2.93,Westmere,73,Intel HD Graphics,Intel,True,LGA1156
-Intel Core i5-9600,213.69,6,3.1,4.6,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i7-7700,140.0,4,3.6,4.2,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i5-10600,529.95,6,3.3,4.8,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Pentium Gold G6600,186.19,2,4.2,4.2,Comet Lake,58,Intel UHD Graphics 630,Intel,True,LGA1200
-AMD Athlon II X2 240,29.48,2,2.8,2.8,K10,65,None,AMD,False,AM3
-Intel Core i9-10920X,769.87,12,3.5,4.8,Cascade Lake,165,None,Intel,False,LGA3647
-Intel Core i7-2700K,195.86,4,3.5,3.5,Sandy Bridge,95,Intel HD Graphics 3000,Intel,True,LGA1155
-Intel Core i3-7100T,29.0,2,3.4,3.4,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i9-9900K (Standard Folding Box),565.0,8,3.6,5.0,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i7-7820X,1224.41,8,3.6,4.5,Skylake,140,None,Intel,False,LGA1151
-Intel Xeon E5-2630 V4,255.06,10,2.2,3.1,Broadwell,85,None,Intel,False,LGA1150
-AMD FX-8300,111.37,8,3.3,3.3,Piledriver,95,None,AMD,False,FM2+
-AMD A4-6300,46.79,2,3.7,3.9,Piledriver,65,Radeon HD 8370D,AMD,True,FM2+
-Intel Core i7-7800X,499.99,6,3.5,4.0,Skylake,140,None,Intel,False,LGA1151
-Intel Core i9-11900,390.99,8,2.5,5.2,Rocket Lake,65,Intel UHD Graphics 750,Intel,True,LGA1200
-Intel Pentium Gold G6400,66.95,2,4.0,4.0,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200
-Intel Xeon E5-2667 V3,298.95,8,3.2,3.6,Haswell,135,None,Intel,False,LGA1150
-Intel 300,105.36,2,3.9,3.9,Raptor Lake Refresh,46,Intel UHD Graphics 710,Intel,True,LGA1700
-Intel Xeon E5-4620,58.77,8,2.2,2.6,Sandy Bridge,95,None,Intel,False,LGA1155
-Intel Core i3-2100,49.0,2,3.1,3.1,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155
-Intel Celeron E3400,18.98,2,2.6,2.6,Wolfdale,65,None,Intel,False,LGA775
-Intel Core i7-6700,395.05,4,3.4,4.0,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Core i3-2120,170.0,2,3.3,3.3,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155
-AMD EPYC 4344P,345.99,8,3.8,5.3,Zen 4,65,Radeon,AMD,True,AM5
-Intel Core i9-7920X,170.66,12,2.9,4.4,Skylake,140,None,Intel,False,LGA1151
-Intel Xeon E5-2620,36.75,6,2.0,2.0,Sandy Bridge,95,None,Intel,False,LGA1155
-Intel Core i9-9980XE,1498.95,18,3.0,4.4,Skylake,165,None,Intel,False,LGA1151
-AMD Ryzen 3 1200 (12nm),70.0,4,3.1,3.4,Zen+,65,None,AMD,False,AM4
-Intel Core i5-4430,83.0,4,3.0,3.0,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Core i7-920,80.0,4,2.66,2.66,Nehalem,130,None,Intel,False,LGA1156
-Intel Core i7-4960X Extreme Edition,775.04,6,3.6,4.0,Ivy Bridge,130,None,Intel,False,LGA1155
-Intel Core i5-4670,119.88,4,3.4,3.4,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150
-AMD Threadripper 1900X,240.0,8,3.8,4.0,Zen,180,None,AMD,False,AM4
-Intel Xeon E5-2630 V3,169.95,8,2.4,3.2,Haswell,85,None,Intel,False,LGA1150
-Intel Core i7-6950X,328.19,10,3.0,3.5,Broadwell,140,None,Intel,False,LGA1150
-AMD FX-6100,72.8,6,3.3,3.3,Bulldozer,95,None,AMD,False,FM2
-Intel Core i5-750,69.0,4,2.66,2.66,Nehalem,95,None,Intel,False,LGA1156
-AMD Athlon II X4 640,53.01,4,3.0,3.0,K10,95,None,AMD,False,AM3
-Intel Core i3-8350K,135.0,4,4.0,4.0,Coffee Lake,91,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i7-3930K,298.98,6,3.2,3.2,Sandy Bridge,130,None,Intel,False,LGA1155
-AMD FX-4350,82.96,4,4.2,4.2,Piledriver,125,None,AMD,False,FM2+
-Intel Core i7-6900K,279.0,8,3.2,3.7,Broadwell,140,None,Intel,False,LGA1150
-Intel Xeon E5-2683 V4,329.95,16,2.1,3.0,Broadwell,120,None,Intel,False,LGA1150
-AMD EPYC 4364P,389.99,8,4.5,5.4,Zen 4,105,Radeon,AMD,True,AM5
-Intel Core i9-10940X,699.99,14,3.3,4.8,Cascade Lake,165,None,Intel,False,LGA3647
-AMD FX-8370,257.01,8,4.0,4.3,Piledriver,125,None,AMD,False,FM2+
-Intel Core i7-8700T,279.95,6,2.4,4.0,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151
-AMD A8-7600,78.89,4,3.1,3.8,Steamroller,65,Radeon R7 (on-die),AMD,True,FM2+
-Intel Celeron G5925,59.99,2,3.6,3.6,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200
-Intel Core i7-860,50.0,4,2.8,2.8,Nehalem,95,None,Intel,False,LGA1156
-Intel Core i7-9700,335.01,8,3.0,4.7,Coffee Lake Refresh,65,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Pentium Gold G5400,115.69,2,3.7,3.7,Coffee Lake,58,Intel UHD Graphics 610,Intel,True,LGA1151
-Intel Core i9-9980XE,1814.98,18,3.0,4.4,Skylake,165,None,Intel,False,LGA1151
-Intel Core i5-7400T,64.56,4,2.4,3.0,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i7-7740X,378.88,4,4.3,4.5,Kaby Lake,112,None,Intel,False,LGA1151
-Intel Core i7-9700F,279.0,8,3.0,4.7,Coffee Lake Refresh,65,None,Intel,False,LGA1151
-Intel Core i9-7980XE,1249.95,18,2.6,4.4,Skylake,165,None,Intel,False,LGA1151
-Intel Core i5-3450,95.0,4,3.1,3.1,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155
-Intel Xeon E5-2650,69.94,8,2.0,2.8,Sandy Bridge,95,None,Intel,False,LGA1155
-AMD FX-4350,55.05,4,4.2,4.2,Piledriver,125,None,AMD,False,FM2+
-Intel Xeon E5-1630 V4,298.95,4,3.7,4.0,Broadwell,140,None,Intel,False,LGA1150
-Intel Core 2 Quad Q9300,42.6,4,2.5,2.5,Yorkfield,95,None,Intel,False,LGA775
-Intel Xeon E5-2683 V4,1998.95,16,2.1,3.0,Broadwell,120,None,Intel,False,LGA1150
-Intel Core i3-3240,199.0,2,3.4,3.4,Ivy Bridge,55,Intel HD Graphics 2500,Intel,True,LGA1155
-AMD A10-7700K,128.02,4,3.4,3.8,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+
-Intel Core i5-9600KF,274.99,6,3.7,4.6,Coffee Lake Refresh,95,None,Intel,False,LGA1151
-AMD Phenom II X6 1090T Black,291.98,6,3.2,3.2,K10,125,None,AMD,False,AM3
-Intel Xeon E5-1620 V3,111.0,4,3.5,3.6,Haswell,140,None,Intel,False,LGA1150
-Intel Core i7-4820K,198.0,4,3.7,3.9,Ivy Bridge,130,None,Intel,False,LGA1155
-Intel Xeon E5-2660 V3,149.94,10,2.6,3.3,Haswell,105,None,Intel,False,LGA1150
-Intel Core i9-7960X,462.16,16,2.8,4.4,Skylake,165,None,Intel,False,LGA1151
-AMD FX-6120,58.53,6,3.5,4.1,Bulldozer,95,None,AMD,False,FM2
-Intel Xeon E3-1230 V2,274.0,4,3.3,3.3,Ivy Bridge,69,None,Intel,False,LGA1155
-Intel Core i5-9500F,162.0,6,3.0,4.4,Coffee Lake Refresh,65,None,Intel,False,LGA1151
-Intel Core i5-8400T,113.37,6,1.7,3.3,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Xeon E5-2680,110.0,8,2.7,3.5,Sandy Bridge,130,None,Intel,False,LGA1155
-Intel Core i7-7700T,498.95,4,2.9,3.8,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151
-AMD FX-8350,192.49,8,4.0,4.0,Piledriver,125,None,AMD,False,FM2+
-AMD A8-6600K,92.86,4,3.9,3.9,Piledriver,100,Radeon HD 8570D,AMD,True,FM2+
-Intel Pentium G3258,124.99,2,3.2,3.2,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150
-AMD A10-7850K,139.84,4,3.7,4.0,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+
-Intel Celeron G3900,48.56,2,2.8,2.8,Skylake,51,Intel HD Graphics 510,Intel,True,LGA1151
-AMD FX-8320,106.55,8,3.5,3.5,Piledriver,125,None,AMD,False,FM2+
-Intel Core i7-4770K,300.0,4,3.5,3.9,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Xeon E3-1270 V3,410.0,4,3.5,3.9,Haswell,80,None,Intel,False,LGA1150
-Intel Core i5-6402P,118.66,4,2.8,3.4,Skylake,65,Intel HD Graphics 510,Intel,True,LGA1151
-Intel Core 2 Quad Q9550,52.55,4,2.83,2.83,Yorkfield,95,None,Intel,False,LGA775
-Intel Core 2 Duo E7500,149.0,2,2.93,2.93,Wolfdale,65,None,Intel,False,LGA775
-AMD FX-6300,62.51,6,3.5,3.5,Piledriver,95,None,AMD,False,FM2+
-Intel Core i7-950,84.15,4,3.06,3.06,Nehalem,130,None,Intel,False,LGA1156
-Intel Core i7-3970X Extreme Edition,175.0,6,3.5,3.5,Sandy Bridge,150,None,Intel,False,LGA1155
-Intel Core i3-8100,120.32,4,3.6,3.6,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151
-AMD A10-9700,127.71,4,3.5,3.8,Excavator,65,Radeon R7 (on-die),AMD,True,FM2+
-Intel Core i9-9900X,579.99,10,3.5,4.4,Skylake,165,None,Intel,False,LGA1151
-AMD Phenom II X4 820,52.64,4,2.8,2.8,K10,95,None,AMD,False,AM3
-Intel Core i7-5820K,429.95,6,3.3,3.6,Haswell,140,None,Intel,False,LGA1150
-Intel Core i5-7400,184.6,4,3.0,3.5,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i5-6500T,229.95,4,2.5,3.1,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Core i3-6300,99.99,2,3.8,3.8,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Core i7-3960X Extreme Edition,320.0,6,3.3,3.3,Sandy Bridge,130,None,Intel,False,LGA1155
-Intel Core i7-10700K Avengers Collector's Edition,741.0,8,3.8,5.1,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Core i5-3550,299.0,4,3.3,3.3,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155
-Intel Core i3-7350K,115.0,2,4.2,4.2,Kaby Lake,60,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Xeon E5-2630,47.66,6,2.3,2.3,Sandy Bridge,95,None,Intel,False,LGA1155
-Intel Core i7-7740X,209.95,4,4.3,4.5,Kaby Lake,112,None,Intel,False,LGA1151
-Intel Pentium Gold G6405,94.99,2,4.1,4.1,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200
-Intel Core i3-7100,76.77,2,3.9,3.9,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Pentium G645,40.99,2,2.9,2.9,Sandy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155
-Intel Xeon E3-1240 V2,400.0,4,3.4,3.4,Ivy Bridge,69,None,Intel,False,LGA1155
-Intel Core i3-7320,59.0,2,4.1,4.1,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Xeon E5-1620 V4,232.12,4,3.5,3.8,Broadwell,140,None,Intel,False,LGA1150
-Intel Core i3-10320,120.0,4,3.8,4.6,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200
-Intel Xeon E3-1245 V6,120.0,4,3.7,4.1,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151
-Intel Xeon E5-1660 V3,204.44,8,3.0,3.5,Haswell,140,None,Intel,False,LGA1150
-Intel Celeron G3930,29.0,2,2.9,2.9,Kaby Lake,51,Intel HD Graphics 610,Intel,True,LGA1151
-Intel Core i3-2120T,40.0,2,2.6,2.6,Sandy Bridge,35,Intel HD Graphics 2000,Intel,True,LGA1155
-Intel Celeron G4900,48.59,2,3.1,3.1,Coffee Lake,65,Intel UHD Graphics 610,Intel,True,LGA1151
-Intel Xeon E-2286G,627.61,6,4.0,4.9,Coffee Lake Refresh,95,Intel HD Graphics P630,Intel,True,LGA1151
-Intel Core i7-960,150.0,4,3.2,3.2,Nehalem,130,None,Intel,False,LGA1156
-Intel Xeon E3-1230 V3,309.0,4,3.3,3.7,Haswell,80,None,Intel,False,LGA1150
-Intel Xeon E3-1241 V3,298.0,4,3.5,3.9,Haswell Refresh,80,None,Intel,False,LGA1150
-Intel Core i9-9960X,999.99,16,3.1,4.4,Skylake,165,None,Intel,False,LGA1151
-AMD Phenom II X6 1055T,199.99,6,2.8,2.8,K10,125,None,AMD,False,AM3
-AMD A6-7400K,89.98,2,3.5,3.9,Steamroller,65,Radeon R5 (on die),AMD,True,FM2+
-Intel Core i7-2600S,99.99,4,2.8,2.8,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155
-Intel Celeron 440,49.99,1,2.0,2.0,Core,35,None,Intel,False,LGA775
-Intel Core i3-3250,90.0,2,3.5,3.5,Ivy Bridge,55,Intel HD Graphics 2500,Intel,True,LGA1155
-Intel Xeon E5-2620 V3,127.98,6,2.4,3.2,Haswell,85,None,Intel,False,LGA1150
-Intel Xeon E5-2630 V2,488.88,6,2.6,3.1,Ivy Bridge,80,None,Intel,False,LGA1155
-Intel Xeon E5-2660 V4,399.0,14,2.0,3.2,Broadwell,105,None,Intel,False,LGA1150
-Intel Pentium G2020,34.99,2,2.9,2.9,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155
-Intel Core 2 Extreme QX9775,1298.0,4,3.2,3.2,Yorkfield,150,None,Intel,False,LGA775
-AMD A10-6700,102.76,4,3.7,3.7,Piledriver,65,Radeon HD 8670D,AMD,True,FM2+
-Intel Core i3-9350KF,136.06,4,4.0,4.6,Coffee Lake Refresh,91,None,Intel,False,LGA1151
-Intel Core i7-7800X,389.95,6,3.5,4.0,Skylake,140,None,Intel,False,LGA1151
-Intel Core i9-7900X,449.95,10,3.3,4.5,Skylake,140,None,Intel,False,LGA1151
-Intel Core i5-2400S,214.76,4,2.5,2.5,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155
-Intel Core i5-7640X,188.88,4,4.0,4.2,Kaby Lake,112,None,Intel,False,LGA1151
-Intel Core 2 Quad Q9550,165.51,4,2.83,2.83,Yorkfield,95,None,Intel,False,LGA775
-Intel Xeon E5-1680 V3,404.09,8,3.2,3.8,Haswell,140,None,Intel,False,LGA1150
-AMD A12-9800E,142.82,4,3.1,3.8,Excavator,35,Radeon R7 (on-die),AMD,True,FM2+
-Intel Core i3-9300,240.13,4,3.7,4.3,Coffee Lake Refresh,62,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i3-540,98.95,2,3.06,3.06,Westmere,73,Intel HD Graphics,Intel,True,LGA1156
-Intel Pentium G630,30.74,2,2.7,2.7,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155
-Intel Xeon E5-2650L,129.94,8,1.8,2.3,Sandy Bridge,70,None,Intel,False,LGA1155
-Intel Core i7-5930K,529.95,6,3.5,3.7,Haswell,140,None,Intel,False,LGA1150
-AMD Athlon II X4 640,74.79,4,3.0,3.0,K10,95,None,AMD,False,AM3
-AMD FX-9370,216.59,8,4.4,4.7,Piledriver,220,None,AMD,False,FM2+
-Intel Xeon E-2236,452.02,6,3.4,4.8,Coffee Lake Refresh,80,None,Intel,False,LGA1151
-Intel Core i7-4790T,149.88,4,2.7,3.9,Haswell Refresh,45,None,Intel,False,LGA1150
-Intel Core 2 Quad Q8400,84.95,4,2.66,2.66,Yorkfield,95,None,Intel,False,LGA775
-Intel Celeron G3900,39.0,2,2.8,2.8,Skylake,51,Intel HD Graphics 510,Intel,True,LGA1151
-Intel Celeron 430,59.95,1,1.8,1.8,Core,35,None,Intel,False,LGA775
-Intel Xeon E5-1650 V2,235.03,6,3.5,3.9,Ivy Bridge,130,None,Intel,False,LGA1155
-Intel Core i5-3340,278.02,4,3.1,3.3,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155
-Intel Pentium Gold G5400T,90.0,2,3.1,3.1,Coffee Lake,35,Intel UHD Graphics 610,Intel,True,LGA1151
-Intel Core 2 Duo E4300,75.0,2,1.8,1.8,Core,65,None,Intel,False,LGA775
-Intel Core i3-6100T,149.94,2,3.2,3.2,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Xeon E3-1220 V3,149.94,4,3.1,3.5,Haswell,80,None,Intel,False,LGA1150
-AMD Athlon II X4 635,58.02,4,2.9,2.9,K10,95,None,AMD,False,AM3
-Intel Core i7-980,356.02,6,3.333,3.333,Westmere,130,None,Intel,False,LGA1156
-AMD FX-8370,317.33,8,4.0,4.3,Piledriver,125,None,AMD,False,FM2+
-Intel Core i7-6800K,189.95,6,3.4,3.6,Broadwell,140,None,Intel,False,LGA1150
-Intel Pentium E2160,49.0,2,1.8,1.8,Core,65,None,Intel,False,LGA775
-Intel Core i5-3450S,85.0,4,2.8,2.8,Ivy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155
-Intel Xeon E3-1245 V6,435.16,4,3.7,4.1,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151
-Intel Pentium E5300,86.24,2,2.6,2.6,Wolfdale,65,None,Intel,False,LGA775
-Intel Core i7-930,148.72,4,2.8,2.8,Nehalem,130,None,Intel,False,LGA1156
-Intel Core 2 Quad Q9300,219.0,4,2.5,2.5,Yorkfield,95,None,Intel,False,LGA775
-Intel Core i7-875K,180.0,4,2.93,2.93,Nehalem,95,None,Intel,False,LGA1156
-Intel Core i3-3210,159.0,2,3.2,3.2,Ivy Bridge,55,Intel HD Graphics 2500,Intel,True,LGA1155
-Intel Core i5-7400T,78.02,4,2.4,3.0,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151
-AMD A10-5800K,78.02,4,3.8,3.8,Piledriver,100,Radeon HD 7660D,AMD,True,FM2+
-Intel Core i7-870,195.02,4,2.93,2.93,Nehalem,95,None,Intel,False,LGA1156
-Intel Core 2 Quad Q9550S,259.64,4,2.83,2.83,Yorkfield,65,None,Intel,False,LGA775
-Intel Core i3-2100T,64.63,2,2.5,2.5,Sandy Bridge,35,Intel HD Graphics 2000,Intel,True,LGA1155
-Intel Xeon E5-2603 V3,135.0,6,1.6,1.6,Haswell,85,None,Intel,False,LGA1150
-Intel Core 2 Quad Q6600,94.97,4,2.4,2.4,Core,100,None,Intel,False,LGA775
-Intel Core i3-550,129.94,2,3.2,3.2,Westmere,73,Intel HD Graphics,Intel,True,LGA1156
-Intel Core i3-2130,92.0,2,3.4,3.4,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155
-Intel Core i3-6098P,59.0,2,3.6,3.6,Skylake,54,Intel HD Graphics 510,Intel,True,LGA1151
-Intel Xeon E3-1285 V6,989.95,4,4.1,4.5,Kaby Lake,79,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i9-9940X,998.95,14,3.3,4.4,Skylake,165,None,Intel,False,LGA1151
-Intel Celeron G4900,73.0,2,3.1,3.1,Coffee Lake,65,Intel UHD Graphics 610,Intel,True,LGA1151
-AMD Athlon II X4 620,53.55,4,2.6,2.6,K10,95,None,AMD,False,AM3
-Intel Xeon E3-1245 V2,315.0,4,3.4,3.4,Ivy Bridge,77,Intel HD Graphics P4000,Intel,True,LGA1155
-Intel Pentium E2140,99.0,2,1.6,1.6,Core,65,None,Intel,False,LGA775
-Intel Core 2 Duo E8400,98.95,2,3.0,3.0,Wolfdale,65,None,Intel,False,LGA775
-Intel Core i5-6600T,179.95,4,2.7,3.5,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Xeon E-2176G,583.29,6,3.7,4.7,Coffee Lake,80,Intel HD Graphics P630,Intel,True,LGA1151
-Intel Core 2 Duo E6400,74.9,2,2.13,2.13,Core,65,None,Intel,False,LGA775
-Intel Core i7-940,149.94,4,2.93,2.93,Nehalem,130,None,Intel,False,LGA1156
-AMD Athlon II X4 630,52.6,4,2.8,2.8,K10,95,None,AMD,False,AM3
-Intel Celeron G530,35.88,2,2.4,2.4,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155
-Intel Celeron G1610,49.0,2,2.6,2.6,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155
-Intel Celeron G4930,129.69,2,3.2,3.2,Coffee Lake,54,Intel UHD Graphics 610,Intel,True,LGA1151
-Intel Pentium G640T,89.0,2,2.4,2.4,Sandy Bridge,35,Intel HD Graphics,Intel,True,LGA1155
-AMD A10-6700,83.22,4,3.7,3.7,Piledriver,65,Radeon HD 8670D,AMD,True,FM2+
-AMD A10-5700,72.51,4,3.4,3.4,Piledriver,65,Radeon HD 7660D,AMD,True,FM2+
-Intel Core i3-6100,98.95,2,3.7,3.7,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Celeron G4920,73.0,2,3.2,3.2,Coffee Lake,65,Intel UHD Graphics 610,Intel,True,LGA1151
-Intel Pentium G3420,71.73,2,3.2,3.2,Haswell,54,Intel HD Graphics,Intel,True,LGA1150
-Intel Core i7-7820X,495.03,8,3.6,4.5,Skylake,140,None,Intel,False,LGA1151
-Intel Xeon E-2136,732.0,6,3.3,4.5,Coffee Lake,80,None,Intel,False,LGA1151
-Intel Celeron G3920,489.95,2,2.6,2.6,Skylake,35,Intel HD Graphics 510,Intel,True,LGA1151
-Intel Core i5-8600,269.95,6,3.1,4.3,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i3-3245,109.0,2,3.4,3.4,Ivy Bridge,55,Intel HD Graphics 4000,Intel,True,LGA1155
-Intel Xeon E5-2630L V3,391.94,8,1.8,2.9,Haswell,55,None,Intel,False,LGA1150
-Intel Xeon E3-1230 V6,455.49,4,3.5,3.9,Kaby Lake,72,None,Intel,False,LGA1151
-AMD A10-9700E,132.71,4,3.0,3.5,Excavator,35,Radeon R7 (on-die),AMD,True,FM2+
-Intel Xeon E-2274G,1098.95,4,4.0,4.9,Coffee Lake Refresh,83,Intel HD Graphics P630,Intel,True,LGA1151
-Intel Core 2 Duo E8400,99.43,2,3.0,3.0,Wolfdale,65,None,Intel,False,LGA775
-Intel Pentium G2120,35.0,2,3.1,3.1,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155
-Intel Xeon E3-1265L V3,398.95,4,2.5,3.7,Haswell,45,Intel HD Graphics,Intel,True,LGA1150
-Intel Xeon E3-1280 V6,562.0,4,3.9,4.2,Kaby Lake,72,None,Intel,False,LGA1151
-Intel Core i5-3330S,149.94,4,2.7,3.2,Ivy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155
-Intel Core i3-4340,92.35,2,3.6,3.6,Haswell,54,Intel HD Graphics 4600,Intel,True,LGA1150
-Intel Celeron G3930T,46.07,2,2.7,2.7,Kaby Lake,35,Intel HD Graphics 610,Intel,True,LGA1151
-Intel Core 2 Duo E6700,103.95,2,2.66,2.66,Core,65,None,Intel,False,LGA775
-Intel Core 2 Duo E7200,169.95,2,2.53,2.53,Wolfdale,65,None,Intel,False,LGA775
-Intel Xeon E5-2643 V3,229.95,6,3.4,3.7,Haswell,135,None,Intel,False,LGA1150
-AMD Opteron 6320,269.0,8,2.8,3.3,Piledriver,115,None,AMD,False,FM2+
-Intel Xeon E5-2603 V4,449.95,6,1.7,1.7,Broadwell,85,None,Intel,False,LGA1150
-Intel Xeon E5-2643 V4,929.95,6,3.4,3.7,Broadwell,135,None,Intel,False,LGA1150
-Intel Pentium Gold G5600,229.69,2,3.9,3.9,Coffee Lake,54,Intel UHD Graphics 630,Intel,True,LGA1151
-Intel Core i7-6900K,289.08,8,3.2,3.7,Broadwell,140,None,Intel,False,LGA1150
-Intel Core i5-7500T,199.95,4,2.7,3.3,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Pentium G6950,37.93,2,2.8,2.8,Westmere,73,Intel HD Graphics,Intel,True,LGA1156
-AMD A4-3300,89.95,2,2.5,2.5,Lynx,65,Radeon HD 6410D,AMD,True,LGA1156
-Intel Xeon E5-2695 V3,498.95,14,2.3,3.3,Haswell,120,None,Intel,False,LGA1150
-Intel Pentium G3470,153.1,2,3.6,3.6,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150
-Intel Xeon E3-1220 V5,349.95,4,3.0,3.5,Skylake,80,None,Intel,False,LGA1151
-Intel Xeon E3-1270 V6,719.95,4,3.8,4.2,Kaby Lake,72,None,Intel,False,LGA1151
-Intel Xeon E-2174G,649.95,4,3.8,4.7,Coffee Lake,71,Intel HD Graphics P630,Intel,True,LGA1151
-AMD Phenom II X4 830,55.05,4,2.8,2.8,K10,95,None,AMD,False,AM3
-AMD Phenom II X4 975,168.02,4,3.6,3.6,K10,125,None,AMD,False,AM3
-Intel Pentium G870,67.64,2,3.1,3.1,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155
-AMD A4-6300B,49.95,2,3.7,3.9,Piledriver,65,Radeon HD 8370D,AMD,True,FM2+
-Intel Core i3-6300T,119.99,2,3.3,3.3,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151
-Intel Core 2 Duo E6320,89.95,2,1.86,1.86,Core,65,None,Intel,False,LGA775
-Intel Core 2 Duo E6550,95.91,2,2.33,2.33,Core,65,None,Intel,False,LGA775
-Intel Xeon E3-1275,376.99,4,3.4,3.4,Sandy Bridge,95,Intel HD Graphics,Intel,True,LGA1155
-Intel Xeon E3-1225 V2,214.5,4,3.2,3.2,Ivy Bridge,77,Intel HD Graphics P4000,Intel,True,LGA1155
-AMD Opteron 6320,242.39,8,2.8,3.3,Piledriver,115,None,AMD,False,FM2+
-Intel Xeon E-2124G,270.99,4,3.4,4.5,Coffee Lake,71,Intel HD Graphics P630,Intel,True,LGA1151
-Intel Xeon E5-2623 V3,234.94,4,3.0,3.5,Haswell,105,None,Intel,False,LGA1150
-Intel Core i3-560,89.95,2,3.333,3.333,Westmere,73,Intel HD Graphics,Intel,True,LGA1156
-Intel Xeon E5-2640 V3,189.95,8,2.6,3.4,Haswell,90,None,Intel,False,LGA1150
-Intel Pentium E6500,89.99,2,2.93,2.93,Wolfdale,65,None,Intel,False,LGA775
-Intel Core 2 Duo E6750,89.95,2,2.66,2.66,Core,65,None,Intel,False,LGA775
-Intel Core 2 Duo E7600,98.95,2,3.06,3.06,Wolfdale,65,None,Intel,False,LGA775
-Intel Celeron G540,69.98,2,2.5,2.5,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155
-Intel Core i3-2125,152.0,2,3.3,3.3,Sandy Bridge,65,Intel HD Graphics 3000,Intel,True,LGA1155
-Intel Xeon E5-2643 V2,398.95,6,3.5,3.8,Ivy Bridge,130,None,Intel,False,LGA1155
-Intel Core i5-7600T,229.95,4,2.8,3.7,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Core i5-7640X,217.4,4,4.0,4.2,Kaby Lake,112,None,Intel,False,LGA1151
-Intel Xeon E3-1275 V6,504.44,4,3.8,4.2,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151
-Intel Xeon E5-2620,77.0,6,2.0,2.0,Sandy Bridge,95,None,Intel,False,LGA1155
-Intel Celeron E3300,61.79,2,2.5,2.5,Wolfdale,65,None,Intel,False,LGA775
-Intel Core 2 Duo E6400,89.95,2,2.13,2.13,Core,65,None,Intel,False,LGA775
-Intel Core 2 Duo E6420,69.95,2,2.13,2.13,Core,65,None,Intel,False,LGA775
-Intel Core i5-660,149.94,2,3.33,3.33,Westmere,73,Intel HD Graphics,Intel,True,LGA1156
-Intel Core i5-670,109.08,2,3.46,3.46,Westmere,73,Intel HD Graphics,Intel,True,LGA1156
-Intel Xeon E5-2665,149.94,8,2.4,3.1,Sandy Bridge,115,None,Intel,False,LGA1155
-AMD Pro A10-7850B,148.02,4,3.7,4.0,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+
-Intel Xeon E5-2620 V3,149.94,6,2.4,3.2,Haswell,85,None,Intel,False,LGA1150
-Intel Pentium G4620,224.12,2,3.7,3.7,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Xeon E3-1240 V6,429.95,4,3.7,4.1,Kaby Lake,72,None,Intel,False,LGA1151
-Intel Xeon E3-1220 V6,249.95,4,3.0,3.5,Kaby Lake,72,None,Intel,False,LGA1151
-Intel Xeon E3-1225 V6,355.29,4,3.3,3.7,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151
-Intel Xeon E3-1225 V6,369.51,4,3.3,3.7,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151
-Intel Xeon E5-2620,139.94,6,2.0,2.0,Sandy Bridge,95,None,Intel,False,LGA1155
-Intel Pentium E5300,79.4,2,2.6,2.6,Wolfdale,65,None,Intel,False,LGA775
-Intel Core 2 Duo E6850,89.95,2,3.0,3.0,Core,65,None,Intel,False,LGA775
-Intel Core 2 Duo E8300,99.95,2,2.83,2.83,Wolfdale,65,None,Intel,False,LGA775
-Intel Core i5-661,80.0,2,3.33,3.33,Westmere,87,Intel HD Graphics,Intel,True,LGA1156
-Intel Core i7-860,189.95,4,2.8,2.8,Nehalem,95,None,Intel,False,LGA1156
-Intel Xeon E3-1230,918.89,4,3.2,3.2,Sandy Bridge,80,None,Intel,False,LGA1155
-Intel Xeon E5-2603,98.95,4,1.8,1.8,Sandy Bridge,80,None,Intel,False,LGA1155
-Intel Xeon E5-2609,89.95,4,2.4,2.4,Sandy Bridge,80,None,Intel,False,LGA1155
-Intel Xeon E3-1230 V2,189.95,4,3.3,3.3,Ivy Bridge,69,None,Intel,False,LGA1155
-Intel Xeon E3-1275 V2,374.0,4,3.5,3.5,Ivy Bridge,77,Intel HD Graphics P4000,Intel,True,LGA1155
-Intel Pentium G4600,169.95,2,3.6,3.6,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151
-Intel Celeron G3950,64.97,2,3.0,3.0,Kaby Lake,51,Intel HD Graphics 610,Intel,True,LGA1151
-Intel Core 2 Duo E4600,98.95,2,2.4,2.4,Core,65,None,Intel,False,LGA775
-Intel Pentium G3460,125.0,2,3.5,3.5,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150
-Intel Xeon E3-1275 V6,495.4,4,3.8,4.2,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151
+name,price,core_count,core_clock,boost_clock,microarchitecture,tdp,graphics,brand,has_integrated_graphics,socket,price_is_predicted
+AMD Ryzen 7 9800X3D,451.5,8,4.7,5.2,Zen 5,120,Radeon,AMD,True,AM5,False
+AMD Ryzen 7 7800X3D,340.05,8,4.2,5.0,Zen 4,120,Radeon,AMD,True,AM5,False
+AMD Ryzen 5 7600X,170.49,6,4.7,5.3,Zen 4,105,Radeon,AMD,True,AM5,False
+AMD Ryzen 5 9600X,204.99,6,3.9,5.4,Zen 5,65,Radeon,AMD,True,AM5,False
+AMD Ryzen 7 7700X,242.98,8,4.5,5.4,Zen 4,105,Radeon,AMD,True,AM5,False
+AMD Ryzen 9 9950X3D,649.99,16,4.3,5.7,Zen 5,170,Radeon,AMD,True,AM5,False
+AMD Ryzen 5 5500,74.22,6,3.6,4.2,Zen 3,65,,AMD,False,AM4,False
+AMD Ryzen 7 9700X,305.89,8,3.8,5.5,Zen 5,65,Radeon,AMD,True,AM5,False
+AMD Ryzen 5 5600X,158.99,6,3.7,4.6,Zen 3,65,,AMD,False,AM4,False
+AMD Ryzen 5 5600,125.61,6,3.5,4.4,Zen 3,65,,AMD,False,AM4,False
+AMD Ryzen 7 5800X,179.95,8,3.8,4.7,Zen 3,105,,AMD,False,AM4,False
+Intel Core i7-14700K,297.17,20,3.4,5.6,Raptor Lake Refresh,125,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core i9-14900K,439.0,24,3.2,6.0,Raptor Lake Refresh,125,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core i5-12400F,108.99,6,2.5,4.4,Alder Lake,65,,Intel,False,LGA1700,False
+AMD Ryzen 5 3600,79.75,6,3.6,4.2,Zen 2,65,,AMD,False,AM4,False
+AMD Ryzen 5 7600,196.97,6,3.8,5.1,Zen 4,65,Radeon,AMD,True,AM5,False
+AMD Ryzen 7 5700X,154.99,8,3.4,4.6,Zen 3,65,,AMD,False,AM4,False
+AMD Ryzen 9 7900X,314.11,12,4.7,5.6,Zen 4,170,Radeon,AMD,True,AM5,False
+AMD Ryzen 9 9900X,359.0,12,4.4,5.6,Zen 5,120,Radeon,AMD,True,AM5,False
+Intel Core i5-14600K,189.99,14,3.5,5.3,Raptor Lake Refresh,125,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core Ultra 7 265K,269.99,20,3.9,5.5,Arrow Lake,125,Intel Xe,Intel,True,LGA1851,False
+AMD Ryzen 7 5700X3D,313.3,8,3.0,4.1,Zen 3,105,,AMD,False,AM4,False
+Intel Core i5-14400F,125.99,10,2.5,4.7,Raptor Lake Refresh,65,,Intel,False,LGA1700,False
+AMD Ryzen 9 9950X,533.83,16,4.3,5.7,Zen 5,170,Radeon,AMD,True,AM5,False
+AMD Ryzen 5 7500F,200.86383655575182,6,3.7,5.0,Zen 4,65,,AMD,False,AM5,True
+AMD Ryzen 7 5800XT,140.0,8,3.8,4.8,Zen 3,105,,AMD,False,AM4,False
+Intel Core Ultra 9 285K,559.99,24,3.7,5.7,Arrow Lake,125,Intel Xe,Intel,True,LGA1851,False
+Intel Core i7-12700K,214.15,12,3.6,5.0,Alder Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700,False
+AMD Ryzen 5 7600X3D,433.5,6,4.1,4.7,Zen 4,65,Radeon,AMD,True,AM5,False
+AMD Ryzen 5 5600G,134.99,6,3.9,4.4,Zen 3,65,Radeon Vega 7,AMD,True,AM4,False
+AMD Ryzen 7 7700,293.97,8,3.6,5.3,Zen 4,65,Radeon,AMD,True,AM5,False
+Intel Core i5-13400F,151.47,10,2.5,4.6,Raptor Lake,65,,Intel,False,LGA1700,False
+Intel Core i7-12700KF,174.99,12,3.6,5.0,Alder Lake,125,,Intel,False,LGA1700,False
+AMD Ryzen 9 5900X,254.99,12,3.7,4.8,Zen 3,105,,AMD,False,AM4,False
+AMD Ryzen 7 3700X,142.94,8,3.6,4.4,Zen 2,65,,AMD,False,AM4,False
+Intel Core i5-12600KF,129.99,10,3.7,4.9,Alder Lake,125,,Intel,False,LGA1700,False
+AMD Ryzen 5 8400F,137.57,6,4.2,4.7,Zen 4,65,,AMD,False,AM5,False
+AMD Ryzen 5 8500G,152.5,6,4.1,5.0,Zen 4,65,Radeon 740M,AMD,True,AM5,False
+AMD Threadripper 3990X,2699.99,64,2.9,4.3,Zen 2,280,,AMD,False,AM4,False
+Intel Core i5-12600K,148.19,10,3.7,4.9,Alder Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700,False
+AMD Ryzen 7 5700G,174.97,8,3.8,4.6,Zen 3,65,Radeon Vega 8,AMD,True,AM4,False
+AMD Ryzen 9 5950X,274.99,16,3.4,4.9,Zen 3,105,,AMD,False,AM4,False
+AMD Ryzen 7 5800X3D,704.86,8,3.4,4.5,Zen 3,105,,AMD,False,AM4,False
+Intel Core i3-12100F,79.45,4,3.3,4.3,Alder Lake,58,,Intel,False,LGA1700,False
+AMD Ryzen 9 7950X,449.96,16,4.5,5.7,Zen 4,170,Radeon,AMD,True,AM5,False
+Intel Core i5-14600KF,197.98,14,3.5,5.3,Raptor Lake Refresh,125,,Intel,False,LGA1700,False
+AMD Ryzen 5 4500,78.38,6,3.6,4.1,Zen 2,65,,AMD,False,AM4,False
+AMD Ryzen 5 8600G,224.83,6,4.3,5.0,Zen 4,65,Radeon 760M,AMD,True,AM5,False
+AMD Ryzen 7 5700,134.96,8,3.7,4.6,Zen 3,65,,AMD,False,AM4,False
+Intel Core i7-14700KF,313.95,20,3.4,5.6,Raptor Lake Refresh,125,,Intel,False,LGA1700,False
+Intel Core i9-12900K,285.99,16,3.2,5.2,Alder Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core Ultra 7 265KF,277.44,20,3.9,5.5,Arrow Lake,125,,Intel,False,LGA1851,False
+AMD Ryzen 9 9900X3D,539.98,12,4.4,5.5,Zen 5,120,Radeon,AMD,True,AM5,False
+AMD Ryzen 9 7950X3D,769.27,16,4.2,5.7,Zen 4,120,Radeon,AMD,True,AM5,False
+AMD Ryzen 7 8700G,279.0,8,4.2,5.1,Zen 4,65,Radeon 780M,AMD,True,AM5,False
+Intel Core i9-14900KF,419.97,24,3.2,6.0,Raptor Lake Refresh,125,,Intel,False,LGA1700,False
+Intel Core i7-13700K,390.33,16,3.4,5.4,Raptor Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core i5-10400F,137.44,6,2.9,4.3,Comet Lake,65,,Intel,False,LGA1200,False
+AMD Ryzen 7 8700F,239.99,8,4.1,5.0,Zen 4,65,,AMD,False,AM5,False
+AMD Ryzen 5 2600,149.99,6,3.4,3.9,Zen+,65,,AMD,False,AM4,False
+Intel Core i9-14900KS,639.97,24,3.2,6.2,Raptor Lake Refresh,150,Intel UHD Graphics 770,Intel,True,LGA1700,False
+AMD Ryzen 5 5600GT,135.0,6,3.6,4.6,Zen 3,65,Radeon Vega 7,AMD,True,AM4,False
+Intel Core i5-13600KF,195.9,14,3.5,5.1,Raptor Lake,125,,Intel,False,LGA1700,False
+AMD Ryzen 9 5900XT,249.99,16,3.3,4.8,Zen 3,105,,AMD,False,AM4,False
+Intel Core i7-14700F,294.58,20,2.1,5.4,Raptor Lake Refresh,65,,Intel,False,LGA1700,False
+AMD Ryzen 9 7900,342.94,12,3.7,5.4,Zen 4,65,Radeon,AMD,True,AM5,False
+Intel Core i7-9700K,239.43,8,3.6,4.9,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-8700K,179.0,6,3.7,4.7,Coffee Lake,95,Intel UHD Graphics 630,Intel,True,LGA1151,False
+AMD Ryzen 3 3200G,73.45,4,3.6,4.0,Zen+,65,Radeon Vega 8,AMD,True,AM4,False
+AMD Ryzen 5 3400G,85.08,4,3.7,4.2,Zen+,65,Radeon Vega 11,AMD,True,AM4,False
+Intel Core i9-13900K,434.0,24,3.0,5.8,Raptor Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core i5-12400,143.55,6,2.5,4.4,Alder Lake,65,Intel UHD Graphics 730,Intel,True,LGA1700,False
+AMD Ryzen 5 3600X,171.97,6,3.8,4.4,Zen 2,95,,AMD,False,AM4,False
+Intel Core i9-9900K,399.0,8,3.6,5.0,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151,False
+AMD Ryzen 7 2700X,170.99,8,3.7,4.3,Zen+,105,,AMD,False,AM4,False
+Intel Core i3-14100F,90.05,4,3.5,4.7,Raptor Lake Refresh,58,,Intel,False,LGA1700,False
+Intel Core i9-12900KF,265.68,16,3.2,5.2,Alder Lake,125,,Intel,False,LGA1700,False
+AMD Ryzen 5 5600XT,144.99,6,3.7,4.7,Zen 3,65,,AMD,False,AM4,False
+Intel Core i5-13600K,299.99,14,3.5,5.1,Raptor Lake,125,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core i7-7700K,151.69,4,4.2,4.5,Kaby Lake,91,Intel HD Graphics 630,Intel,True,LGA1151,False
+AMD Ryzen 3 4100,75.29,4,3.8,4.0,Zen 2,65,,AMD,False,AM4,False
+Intel Core Ultra 5 245K,259.99,14,4.2,5.2,Arrow Lake,125,Intel Xe,Intel,True,LGA1851,False
+AMD Ryzen 3 3100,96.43,4,3.6,3.9,Zen 2,65,,AMD,False,AM4,False
+Intel Core i5-9400F,93.0,6,2.9,4.1,Coffee Lake Refresh,65,,Intel,False,LGA1151,False
+Intel Core i7-13700KF,299.0,16,3.4,5.4,Raptor Lake,125,,Intel,False,LGA1700,False
+Intel Core i7-10700K,349.0,8,3.8,5.1,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Core i5-14400,175.98,10,2.5,4.7,Raptor Lake Refresh,65,Intel UHD Graphics 730,Intel,True,LGA1700,False
+AMD Ryzen 9 3900X,271.5688647212609,12,3.8,4.6,Zen 2,105,,AMD,False,AM4,True
+AMD Ryzen 7 7700,393.08,8,3.6,5.3,Zen 4,65,Radeon,AMD,True,AM5,False
+Intel Core i7-6700K,228.96,4,4.0,4.2,Skylake,91,Intel HD Graphics 530,Intel,True,LGA1151,False
+AMD Ryzen 7 7800X3D,431.66,8,4.2,5.0,Zen 4,120,Radeon,AMD,True,AM5,False
+AMD Ryzen 9 7900X3D,401.01809201338153,12,4.4,5.6,Zen 4,120,Radeon,AMD,True,AM5,True
+Intel Core i5-11400F,192.0,6,2.6,4.4,Rocket Lake,65,,Intel,False,LGA1200,False
+AMD Threadripper 3970X,1714.99,32,3.7,4.5,Zen 2,280,,AMD,False,AM4,False
+AMD Ryzen 7 3800X,269.8,8,3.9,4.5,Zen 2,105,,AMD,False,AM4,False
+AMD Ryzen 5 2600X,115.0,6,3.6,4.2,Zen+,95,,AMD,False,AM4,False
+Intel Core i7-12700F,247.0,12,2.1,4.9,Alder Lake,65,,Intel,False,LGA1700,False
+Intel Core i5-9600K,166.0,6,3.7,4.6,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core Ultra 5 225F,190.83,10,3.3,4.9,Arrow Lake,65,,Intel,False,LGA1851,False
+Intel Core i7-11700K,293.99,8,3.6,5.0,Rocket Lake,125,Intel UHD Graphics 750,Intel,True,LGA1200,False
+Intel Core i3-12100,113.58,4,3.3,4.3,Alder Lake,60,Intel UHD Graphics 730,Intel,True,LGA1700,False
+Intel Core i5-10400,139.99,6,2.9,4.3,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Core i7-8700,188.47,6,3.2,4.6,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i3-14100,119.95,4,3.5,4.7,Raptor Lake Refresh,60,Intel UHD Graphics 730,Intel,True,LGA1700,False
+Intel Core i3-13100F,85.34,4,3.4,4.5,Raptor Lake,58,,Intel,False,LGA1700,False
+Intel Pentium E5700,14.99,2,3.0,3.0,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core i9-10900K,548.99,10,3.7,5.3,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Core i5-13400,164.05,10,2.5,4.6,Raptor Lake,65,Intel UHD Graphics 730,Intel,True,LGA1700,False
+Intel Core i7-7700,102.5,4,3.6,4.2,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-13700F,255.0,16,2.1,5.2,Raptor Lake,65,,Intel,False,LGA1700,False
+Intel Core i5-6500,87.13,4,3.2,3.6,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151,False
+AMD Ryzen 5 5500GT,141.92,6,3.6,4.4,Zen 3,65,Radeon Vega 7,AMD,True,AM4,False
+Intel Core i9-13900KF,435.0,24,3.0,5.8,Raptor Lake,125,,Intel,False,LGA1700,False
+AMD Ryzen 5 4600G,115.80808230109913,6,3.7,4.2,Zen 2,65,Radeon Vega 7,AMD,True,AM4,True
+AMD Ryzen 5 9600,467.55,6,3.8,5.2,Zen 5,65,Radeon,AMD,True,AM5,False
+Intel Core Ultra 5 235,264.99,14,3.4,5.0,Arrow Lake,65,Intel Xe,Intel,True,LGA1851,False
+Intel Core i7-4790K,175.18860956293588,4,4.0,4.4,Haswell Refresh,88,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Core i5-8400,178.89,6,2.8,4.0,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-6700,123.0,4,3.4,4.0,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151,False
+Intel Core Ultra 5 225,213.01,10,3.3,4.9,Arrow Lake,65,Intel Xe,Intel,True,LGA1851,False
+AMD Ryzen 5 3500X,115.70324625822545,6,3.6,4.1,Zen 2,65,,AMD,False,AM4,True
+Intel Core i7-14700,306.55,20,2.1,5.4,Raptor Lake Refresh,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+AMD Ryzen 5 1600 (14nm),115.0,6,3.2,3.6,Zen,65,,AMD,False,AM4,False
+Intel Core i9-11900K,449.0,8,3.5,5.3,Rocket Lake,125,Intel UHD Graphics 750,Intel,True,LGA1200,False
+Intel Core i7-10700F,325.26,8,2.9,4.8,Comet Lake,65,,Intel,False,LGA1200,False
+Intel Core i3-10100F,100.0,4,3.6,4.3,Comet Lake,65,,Intel,False,LGA1200,False
+Intel Core i7-11700F,229.99,8,2.5,4.9,Rocket Lake,65,,Intel,False,LGA1200,False
+Intel Core i5-13500,234.99,14,2.5,4.8,Raptor Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Pentium E2220,12.99,2,2.4,2.4,Core,65,,Intel,False,LGA775,False
+Intel Core i7-12700,289.97,12,2.1,4.9,Alder Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+AMD Ryzen 5 3600,115.80808230109913,6,3.6,4.2,Zen 2,65,,AMD,False,AM4,True
+Intel Core i5-10600K,174.99,6,4.1,4.8,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Core i5-6600K,89.99,4,3.5,3.9,Skylake,91,Intel HD Graphics 530,Intel,True,LGA1151,False
+Intel Core Ultra 9 285,579.99,24,2.5,5.6,Arrow Lake,65,Intel Xe,Intel,True,LGA1851,False
+Intel Core i7-4770K,99.0,4,3.5,3.9,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Core i7-3770,98.69,4,3.4,3.4,Ivy Bridge,77,Intel HD Graphics 4000,Intel,True,LGA1155,False
+Intel Core i7-10700,399.69,8,2.9,4.8,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,False
+AMD Ryzen 9 3950X,455.95,16,3.5,4.7,Zen 2,105,,AMD,False,AM4,False
+Intel Core i3-6100,29.99,2,3.7,3.7,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151,False
+AMD Threadripper 3960X,1267.0,24,3.8,4.5,Zen 2,280,,AMD,False,AM4,False
+AMD Ryzen 7 2700,161.69,8,3.2,4.1,Zen+,65,,AMD,False,AM4,False
+Intel Core i5-7500,63.0,4,3.4,3.8,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i5-14500,238.09,14,2.6,5.0,Raptor Lake Refresh,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core i7-9700,298.68,8,3.0,4.7,Coffee Lake Refresh,65,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core Ultra 7 265,374.99,20,2.4,5.3,Arrow Lake,65,Intel Xe,Intel,True,LGA1851,False
+Intel Core i5-11400,159.99,6,2.6,4.4,Rocket Lake,65,Intel UHD Graphics 730,Intel,True,LGA1200,False
+Intel Core i9-10850K,392.69960115215207,10,3.6,5.2,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200,True
+Intel Core i5-7400,128.88625236877735,4,3.0,3.5,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Core i9-13900KS,429.0,24,3.0,6.0,Raptor Lake,150,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core Ultra 7 265F,269.99,20,2.4,5.3,Arrow Lake,65,,Intel,False,LGA1851,False
+Intel Core i3-8100,60.78,4,3.6,3.6,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-4790,149.94,4,3.6,4.0,Haswell Refresh,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Xeon E5-2699 V4,332.72,22,2.2,3.6,Broadwell,145,,Intel,False,LGA1150,False
+Intel Core i5-4690K,54.0,4,3.5,3.9,Haswell Refresh,88,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Xeon E5-2680 V4,1975.0,14,2.4,3.3,Broadwell,120,,Intel,False,LGA1150,False
+Intel Core i9-12900KS,379.99,16,3.4,5.5,Alder Lake,150,Intel UHD Graphics 770,Intel,True,LGA1700,False
+AMD Ryzen 7 1700,165.0,8,3.0,3.7,Zen,65,,AMD,False,AM4,False
+Intel Core i5-8600K,327.23,6,3.6,4.3,Coffee Lake,95,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i3-10100,99.99,4,3.6,4.3,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Pentium G640,19.0,2,2.8,2.8,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,False
+Intel Core i9-9900KF,329.0,8,3.6,5.0,Coffee Lake Refresh,95,,Intel,False,LGA1151,False
+Intel Core i7-9700F,259.0,8,3.0,4.7,Coffee Lake Refresh,65,,Intel,False,LGA1151,False
+AMD EPYC 4564P,699.99,16,4.5,5.7,Zen 4,170,Radeon,AMD,True,AM5,False
+AMD Ryzen 3 2200G,87.62290909677189,4,3.5,3.7,Zen,65,Radeon Vega 8,AMD,True,AM4,True
+AMD Ryzen 5 2400G,115.0,4,3.6,3.9,Zen,65,Radeon Vega 11,AMD,True,AM4,False
+Intel Core i5-12500,179.92,6,3.0,4.6,Alder Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+AMD Ryzen 5 5600X3D,167.61878126072838,6,3.3,4.4,Zen 3,105,,AMD,False,AM4,True
+Intel Core i3-9100F,75.0,4,3.6,4.2,Coffee Lake Refresh,65,,Intel,False,LGA1151,False
+Intel Core i5-8500,170.0,6,3.0,4.1,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i5-11600K,271.2072404446525,6,3.9,4.9,Rocket Lake,125,Intel UHD Graphics 750,Intel,True,LGA1200,True
+Intel Core i5-7500T,55.0,4,2.7,3.3,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i5-4590,143.86965464439328,4,3.3,3.7,Haswell Refresh,84,Intel HD Graphics 4600,Intel,True,LGA1150,True
+AMD Ryzen 5 1600 (12nm),99.0,6,3.2,3.6,Zen+,65,,AMD,False,AM4,False
+AMD Athlon 3000G (14nm),98.79,2,3.5,3.5,Zen,35,Radeon Vega 3,AMD,True,AM4,False
+Intel Core i7-10700KF,245.0,8,3.8,5.1,Comet Lake,125,,Intel,False,LGA1200,False
+Intel Core i7-3770K,208.86227587533324,4,3.5,3.5,Ivy Bridge,77,Intel HD Graphics 4000,Intel,True,LGA1155,True
+AMD Ryzen 9 3900XT,288.77008947484313,12,3.8,4.7,Zen 2,105,,AMD,False,AM4,True
+Intel Core i3-10105F,143.53,4,3.7,4.4,Comet Lake,65,,Intel,False,LGA1200,False
+Intel Core i5-7600,55.8,4,3.5,4.1,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-9700KF,395.02,8,3.6,4.9,Coffee Lake Refresh,95,,Intel,False,LGA1151,False
+Intel Core i7-4770,177.0,4,3.4,3.9,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Core i5-3470,95.46,4,3.2,3.2,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155,False
+AMD FX-8350,212.226894306105,8,4.0,4.0,Piledriver,125,,AMD,False,FM2+,True
+AMD Ryzen 7 3700X,173.86721598311374,8,3.6,4.4,Zen 2,65,,AMD,False,AM4,True
+AMD Ryzen 5 1600X,99.0,6,3.6,4.0,Zen,95,,AMD,False,AM4,False
+AMD 2650,123.14873770276583,2,1.45,1.45,Jaguar,25,Radeon HD 8240,AMD,True,AM1,True
+Intel Core i7-11700KF,354.57,8,3.6,5.0,Rocket Lake,125,,Intel,False,LGA1200,False
+Intel Core i3-4150,35.0,2,3.5,3.5,Haswell Refresh,54,Intel HD Graphics 4400,Intel,True,LGA1150,False
+Intel Core i7-11700,377.99,8,2.5,4.9,Rocket Lake,65,Intel UHD Graphics 750,Intel,True,LGA1200,False
+Intel Core Ultra 5 245KF,284.99,14,4.2,5.2,Arrow Lake,125,,Intel,False,LGA1851,False
+Intel Core i7-6950X,300.3164987041594,10,3.0,3.5,Broadwell,140,,Intel,False,LGA1150,True
+Intel Core i5-7600K,182.89,4,3.8,4.2,Kaby Lake,91,Intel HD Graphics 630,Intel,True,LGA1151,False
+AMD Ryzen 5 3500,115.70324625822545,6,3.6,4.1,Zen 2,65,,AMD,False,AM4,True
+Intel Core i3-13100,125.25,4,3.4,4.5,Raptor Lake,60,Intel UHD Graphics 730,Intel,True,LGA1700,False
+Intel Core i9-11900KF,399.0,8,3.5,5.3,Rocket Lake,125,,Intel,False,LGA1200,False
+AMD Ryzen 7 1700X,428.88,8,3.4,3.8,Zen,95,,AMD,False,AM4,False
+AMD Ryzen 7 3800XT,283.45475160697504,8,3.9,4.7,Zen 2,105,,AMD,False,AM4,True
+Intel Core i5-9400F,169.44009524780915,6,2.9,4.1,Coffee Lake Refresh,65,,Intel,False,LGA1151,True
+Intel Core i7-13700,319.93,16,2.1,5.2,Raptor Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+AMD Ryzen 3 3300X,110.99,4,3.8,4.3,Zen 2,65,,AMD,False,AM4,False
+Intel Core i9-14900F,499.0,24,2.0,5.8,Raptor Lake Refresh,65,,Intel,False,LGA1700,False
+AMD Ryzen 7 1800X,135.0,8,3.6,4.0,Zen,95,,AMD,False,AM4,False
+AMD Ryzen 5 3600XT,609.9,6,3.8,4.5,Zen 2,95,,AMD,False,AM4,False
+Intel Core i5-4570,98.0,4,3.2,3.2,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+AMD Ryzen 5 7600X3D,169.87003140361577,6,4.1,4.7,Zen 4,65,Radeon,AMD,True,AM5,True
+Intel Core i5-11600KF,169.89,6,3.9,4.9,Rocket Lake,125,,Intel,False,LGA1200,False
+Intel Core i5-2400,49.99,4,3.1,3.1,Sandy Bridge,95,Intel HD Graphics 2000,Intel,True,LGA1155,False
+Intel Core i5-9600KF,169.69,6,3.7,4.6,Coffee Lake Refresh,95,,Intel,False,LGA1151,False
+Intel Core i5-9400,149.94,6,2.9,4.1,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i3-10105,99.0,4,3.7,4.4,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Core i5-4460,68.56,4,3.2,3.4,Haswell Refresh,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+AMD Ryzen 3 1200 (14nm),70.0,4,3.1,3.4,Zen,65,,AMD,False,AM4,False
+Intel Core i5-10600KF,236.92,6,4.1,4.8,Comet Lake,125,,Intel,False,LGA1200,False
+AMD Ryzen 5 1400,79.98,4,3.2,3.4,Zen,65,,AMD,False,AM4,False
+Intel Core i5-6400,128.06040969912848,4,2.7,3.3,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Core i7-6800K,72.98,6,3.4,3.6,Broadwell,140,,Intel,False,LGA1150,False
+Intel Core i5-4570T,49.0,2,2.9,2.9,Haswell,35,Intel HD Graphics 4600,Intel,True,LGA1150,False
+AMD Ryzen 5 5600T,160.19,6,3.5,4.5,Zen 3,65,,AMD,False,AM4,False
+Intel Core i7-8700K,255.04,6,3.7,4.7,Coffee Lake,95,Intel UHD Graphics 630,Intel,True,LGA1151,False
+AMD Threadripper 2920X,199.1,12,3.5,4.3,Zen+,180,,AMD,False,AM4,False
+Intel Core i3-9100,108.89,4,3.6,4.2,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i3-7100,36.99,2,3.9,3.9,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i9-10900KF,359.94583025502686,10,3.7,5.3,Comet Lake,125,,Intel,False,LGA1200,True
+Intel Xeon E5-2687W V4,2282.01,12,3.0,3.5,Broadwell,160,,Intel,False,LGA1150,False
+AMD FX-6300,103.56617787010732,6,3.5,3.5,Piledriver,95,,AMD,False,FM2+,True
+Intel Core i9-14900,571.86,24,2.0,5.8,Raptor Lake Refresh,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core i9-9900KS,1389.0,8,4.0,5.0,Coffee Lake Refresh,127,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i5-9500,198.69,6,3.0,4.4,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-2600,189.69,4,3.4,3.4,Sandy Bridge,95,Intel HD Graphics 2000,Intel,True,LGA1155,False
+AMD Ryzen 5 1500X,149.99,4,3.5,3.7,Zen,65,,AMD,False,AM4,False
+Intel Core i5-10500,229.95,6,3.1,4.5,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Core i9-10980XE,1004.04,18,3.0,4.8,Cascade Lake,165,,Intel,False,LGA3647,False
+Intel Core i9-7900X,264.99,10,3.3,4.5,Skylake,140,,Intel,False,LGA1151,False
+Intel Core i5-3570K,128.99,4,3.4,3.4,Ivy Bridge,77,Intel HD Graphics 4000,Intel,True,LGA1155,False
+AMD Ryzen 9 PRO 7945,332.9976508157525,12,3.7,5.4,Zen 4,65,Radeon,AMD,True,AM5,True
+Intel Core i7-4790K,130.51,4,4.0,4.4,Haswell Refresh,88,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Core i3-4130,41.0,2,3.4,3.4,Haswell,54,Intel HD Graphics 4400,Intel,True,LGA1150,False
+Intel Core i5-4690,52.0,4,3.5,3.9,Haswell Refresh,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Core i5-8400,198.95,6,2.8,4.0,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+AMD Threadripper 1950X,850.0,16,3.4,4.0,Zen,180,,AMD,False,AM4,False
+Intel Core i7-5820K,219.05512361003827,6,3.3,3.6,Haswell,140,,Intel,False,LGA1150,True
+Intel Core i5-6600,143.6284640073259,4,3.3,3.9,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Core i7-8700,224.40858913207313,6,3.2,4.6,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Celeron G6900,93.71,2,3.4,3.4,Alder Lake,46,Intel UHD Graphics 710,Intel,True,LGA1700,False
+AMD EPYC 4244P,189.33,6,3.8,5.1,Zen 4,65,Radeon,AMD,True,AM5,False
+Intel Core i9-13900,414.99,24,2.0,5.6,Raptor Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Pentium Gold G7400,90.0,2,3.7,3.7,Alder Lake,46,Intel UHD Graphics 710,Intel,True,LGA1700,False
+Intel Core i9-9940X,1950.0,14,3.3,4.4,Skylake,165,,Intel,False,LGA1151,False
+AMD Athlon 200GE,69.98,2,3.2,3.2,Zen,35,Radeon Vega 3,AMD,True,AM4,False
+Intel Core i7-4790,139.40794644623253,4,3.6,4.0,Haswell Refresh,84,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Core i5-2500K,100.0,4,3.3,3.3,Sandy Bridge,95,Intel HD Graphics 3000,Intel,True,LGA1155,False
+AMD Threadripper 1920X,195.0,12,3.5,4.0,Zen,180,,AMD,False,AM4,False
+Intel Core i5-8500T,125.0,6,2.1,3.5,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core 2 Duo E8400,27.55,2,3.0,3.0,Wolfdale,65,,Intel,False,LGA775,False
+Intel Xeon E3-1220 V6,25.0,4,3.0,3.5,Kaby Lake,72,,Intel,False,LGA1151,False
+Intel Core i5-3570,198.71815473732644,4,3.4,3.4,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155,True
+Intel Pentium Gold G5420,29.0,2,3.8,3.8,Coffee Lake,54,Intel UHD Graphics 610,Intel,True,LGA1151,False
+Intel Pentium G4400,50.0,2,3.3,3.3,Skylake,54,Intel HD Graphics 510,Intel,True,LGA1151,False
+Intel Core i5-12600,249.99,6,3.3,4.8,Alder Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Celeron 420,69.95,1,1.6,1.6,Core,35,,Intel,False,LGA775,False
+Intel Core i9-10900F,346.6231706478807,10,2.8,5.2,Comet Lake,65,,Intel,False,LGA1200,True
+AMD A6-6400K,69.66057103374844,2,3.9,3.9,Piledriver,65,Radeon HD 8470D,AMD,True,FM2+,True
+Intel Core i9-10900,390.77,10,2.8,5.2,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Celeron G5900,45.2,2,3.4,3.4,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200,False
+Intel Core i9-10900X,479.99,10,3.7,4.7,Cascade Lake,165,,Intel,False,LGA3647,False
+Intel Core i5-4670K,105.86,4,3.4,3.4,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Core i5-6500,149.94,4,3.2,3.6,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151,False
+Intel Core i9-9900K,954.81,8,3.6,5.0,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151,False
+AMD Threadripper 2970WX,898.88,24,3.0,4.2,Zen+,250,,AMD,False,AM4,False
+Intel Core i9-9820X,640.540942550953,10,3.3,4.1,Skylake,165,,Intel,False,LGA1151,True
+Intel Core i5-13500T,363.6603150841614,14,1.6,4.6,Raptor Lake,35,Intel UHD Graphics 770,Intel,True,LGA1700,True
+Intel Core i9-13900F,516.43,24,2.0,5.6,Raptor Lake,65,,Intel,False,LGA1700,False
+Intel Xeon E5-1650 V4,114.94,6,3.6,4.0,Broadwell,140,,Intel,False,LGA1150,False
+Intel Core i5-11600,140.0,6,2.8,4.8,Rocket Lake,65,Intel UHD Graphics 750,Intel,True,LGA1200,False
+Intel Core i7-8086K,343.12,6,4.0,5.0,Coffee Lake,95,Intel UHD Graphics 630,Intel,True,LGA1151,False
+AMD EPYC 4464P,429.99,12,3.7,5.4,Zen 4,65,Radeon,AMD,True,AM5,False
+Intel Xeon E5-2690 V2,257.257822694446,10,3.0,3.6,Ivy Bridge,130,,Intel,False,LGA1155,True
+Intel Core i7-2600K,255.55,4,3.4,3.4,Sandy Bridge,95,Intel HD Graphics 3000,Intel,True,LGA1155,False
+Intel Core i7-9700K,366.0236349982298,8,3.6,4.9,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-11500,160.0,6,2.7,4.6,Rocket Lake,65,Intel UHD Graphics 750,Intel,True,LGA1200,False
+AMD Ryzen 5 2600,121.50559787138958,6,3.4,3.9,Zen+,65,,AMD,False,AM4,True
+Intel Core i7-7700K,216.14549486722925,4,4.2,4.5,Kaby Lake,91,Intel HD Graphics 630,Intel,True,LGA1151,True
+AMD FX-6350,161.86263184306424,6,3.9,3.9,Piledriver,125,,AMD,False,FM2+,True
+Intel Core i9-9900,419.69,8,3.1,5.0,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+AMD Ryzen 5 5600XT,164.01234268503288,6,3.7,4.7,Zen 3,65,,AMD,False,AM4,True
+Intel Core i9-11900F,329.0,8,2.5,5.2,Rocket Lake,65,,Intel,False,LGA1200,False
+Intel Core i7-6850K,85.0,6,3.6,3.8,Broadwell,140,,Intel,False,LGA1150,False
+AMD FX-9590,292.58,8,4.7,5.0,Piledriver,220,,AMD,False,FM2+,False
+Intel Core i9-12900F,359.89,16,2.4,5.1,Alder Lake,65,,Intel,False,LGA1700,False
+Intel Celeron G5905,51.79,2,3.5,3.5,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200,False
+Intel Core i9-12900,391.4,16,2.4,5.1,Alder Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700,False
+Intel Core i5-14500T,364.44935333824884,14,1.7,4.8,Raptor Lake Refresh,35,Intel UHD Graphics 770,Intel,True,LGA1700,True
+Intel Core i7-4770S,99.0,4,3.1,3.1,Haswell,65,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Core i7-4930K,98.0,6,3.4,3.9,Ivy Bridge,130,,Intel,False,LGA1155,False
+Intel Core i5-8600,189.0,6,3.1,4.3,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i5-4440,100.0,4,3.1,3.3,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Core i7-6700K,171.00493730239089,4,4.0,4.2,Skylake,91,Intel HD Graphics 530,Intel,True,LGA1151,True
+AMD Athlon X2 340,73.54099905276816,2,3.2,3.2,Piledriver,65,,AMD,False,FM2+,True
+Intel Celeron G3930,28.5,2,2.9,2.9,Kaby Lake,51,Intel HD Graphics 610,Intel,True,LGA1151,False
+Intel Pentium G4560,59.0,2,3.5,3.5,Kaby Lake,54,Intel HD Graphics 610,Intel,True,LGA1151,False
+AMD Ryzen 3 3200G,85.53788231687389,4,3.6,4.0,Zen+,65,Radeon Vega 8,AMD,True,AM4,True
+AMD FX-8320,188.72297576408408,8,3.5,3.5,Piledriver,125,,AMD,False,FM2+,True
+AMD Ryzen 5 3400G,85.61562042126813,4,3.7,4.2,Zen+,65,Radeon Vega 11,AMD,True,AM4,True
+Intel Core i3-530,45.0,2,2.93,2.93,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,False
+Intel Core i3-12100T,195.64283594122315,4,2.2,4.1,Alder Lake,35,Intel UHD Graphics 730,Intel,True,LGA1700,True
+Intel Xeon E5-2650 V4,359.7932250015991,12,2.2,2.9,Broadwell,105,,Intel,False,LGA1150,True
+AMD Ryzen 3 1300X,87.62290909677189,4,3.5,3.7,Zen,65,,AMD,False,AM4,True
+Intel Core i5-9600,213.69,6,3.1,4.6,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-7700,140.0,4,3.6,4.2,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i3-3220,86.60100207793548,2,3.3,3.3,Ivy Bridge,55,Intel HD Graphics 2500,Intel,True,LGA1155,True
+Intel Core i5-10600,529.95,6,3.3,4.8,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Pentium Gold G6600,186.19,2,4.2,4.2,Comet Lake,58,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Xeon E5-2698 V4,595.3654947619366,20,2.2,3.6,Broadwell,135,,Intel,False,LGA1150,True
+AMD Athlon II X2 240,29.48,2,2.8,2.8,K10,65,,AMD,False,AM3,False
+Intel Core i9-10920X,769.87,12,3.5,4.8,Cascade Lake,165,,Intel,False,LGA3647,False
+Intel Core i7-2700K,195.86,4,3.5,3.5,Sandy Bridge,95,Intel HD Graphics 3000,Intel,True,LGA1155,False
+Intel Core i3-7100T,29.0,2,3.4,3.4,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i9-9900K (Standard Folding Box),565.0,8,3.6,5.0,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-7820X,1224.41,8,3.6,4.5,Skylake,140,,Intel,False,LGA1151,False
+Intel Xeon E5-2630 V4,255.06,10,2.2,3.1,Broadwell,85,,Intel,False,LGA1150,False
+Intel Core i9-13900T,637.4909784029427,24,1.1,5.3,Raptor Lake,35,Intel UHD Graphics 770,Intel,True,LGA1700,True
+AMD FX-8300,111.37,8,3.3,3.3,Piledriver,95,,AMD,False,FM2+,False
+AMD A4-6300,46.79,2,3.7,3.9,Piledriver,65,Radeon HD 8370D,AMD,True,FM2+,False
+AMD Ryzen 7 3800X,293.53333100298306,8,3.9,4.5,Zen 2,105,,AMD,False,AM4,True
+Intel Core i7-7800X,499.99,6,3.5,4.0,Skylake,140,,Intel,False,LGA1151,False
+Intel Core i9-11900,390.99,8,2.5,5.2,Rocket Lake,65,Intel UHD Graphics 750,Intel,True,LGA1200,False
+Intel Pentium Gold G6400,66.95,2,4.0,4.0,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200,False
+Intel Xeon E5-2667 V3,298.95,8,3.2,3.6,Haswell,135,,Intel,False,LGA1150,False
+Intel 300,105.36,2,3.9,3.9,Raptor Lake Refresh,46,Intel UHD Graphics 710,Intel,True,LGA1700,False
+Intel Xeon E5-4620,58.77,8,2.2,2.6,Sandy Bridge,95,,Intel,False,LGA1155,False
+AMD Ryzen 5 2600X,126.34256678263087,6,3.6,4.2,Zen+,95,,AMD,False,AM4,True
+Intel Core i7-5960X,287.1944863079688,8,3.0,3.5,Haswell,140,,Intel,False,LGA1150,True
+AMD Threadripper 2990WX,1060.8513106459766,32,3.0,4.2,Zen+,250,,AMD,False,AM4,True
+Intel Core i3-2100,49.0,2,3.1,3.1,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155,False
+AMD Threadripper 2950X,526.463905757197,16,3.5,4.4,Zen+,180,,AMD,False,AM4,True
+AMD Ryzen 5 3600X,156.7640178202365,6,3.8,4.4,Zen 2,95,,AMD,False,AM4,True
+Intel Core i5-2500,167.50342828476948,4,3.3,3.3,Sandy Bridge,95,Intel HD Graphics 2000,Intel,True,LGA1155,True
+Intel Celeron E3400,18.98,2,2.6,2.6,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core i7-6700,395.05,4,3.4,4.0,Skylake,65,Intel HD Graphics 530,Intel,True,LGA1151,False
+Intel Core i3-2120,170.0,2,3.3,3.3,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155,False
+Intel Core i3-4170,83.76510908165656,2,3.7,3.7,Haswell Refresh,54,Intel HD Graphics 4400,Intel,True,LGA1150,True
+AMD EPYC 4344P,345.99,8,3.8,5.3,Zen 4,65,Radeon,AMD,True,AM5,False
+Intel Core i9-7920X,170.66,12,2.9,4.4,Skylake,140,,Intel,False,LGA1151,False
+Intel Xeon E5-2620,36.75,6,2.0,2.0,Sandy Bridge,95,,Intel,False,LGA1155,False
+Intel Core i9-9980XE,1498.95,18,3.0,4.4,Skylake,165,,Intel,False,LGA1151,False
+AMD Ryzen 3 1200 (12nm),70.0,4,3.1,3.4,Zen+,65,,AMD,False,AM4,False
+AMD Ryzen 5 5600T,169.85893159830314,6,3.5,4.5,Zen 3,65,,AMD,False,AM4,True
+Intel Core i5-4430,83.0,4,3.0,3.0,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Core i7-920,80.0,4,2.66,2.66,Nehalem,130,,Intel,False,LGA1156,False
+Intel Core i7-4960X Extreme Edition,775.04,6,3.6,4.0,Ivy Bridge,130,,Intel,False,LGA1155,False
+Intel Core i5-4670,119.88,4,3.4,3.4,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+AMD Threadripper 1900X,240.0,8,3.8,4.0,Zen,180,,AMD,False,AM4,False
+Intel Xeon E5-2630 V3,169.95,8,2.4,3.2,Haswell,85,,Intel,False,LGA1150,False
+Intel Core i5-9600K,250.92246881792573,6,3.7,4.6,Coffee Lake Refresh,95,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i7-6950X,328.19,10,3.0,3.5,Broadwell,140,,Intel,False,LGA1150,False
+AMD A8-9600,88.5594840316455,4,3.1,3.4,Excavator,65,Radeon R7 (on-die),AMD,True,FM2+,True
+Intel Core i7-5930K,258.7408465455361,6,3.5,3.7,Haswell,140,,Intel,False,LGA1150,True
+AMD Ryzen 5 2400G,88.85054402388127,4,3.6,3.9,Zen,65,Radeon Vega 11,AMD,True,AM4,True
+AMD FX-6100,72.8,6,3.3,3.3,Bulldozer,95,,AMD,False,FM2,False
+Intel Core i7-13700T,350.798130445323,16,1.4,4.9,Raptor Lake,35,,Intel,False,LGA1700,True
+Intel Core i5-750,69.0,4,2.66,2.66,Nehalem,95,,Intel,False,LGA1156,False
+Intel Xeon E5-2697 V4,595.3654947619366,18,2.3,3.6,Broadwell,145,,Intel,False,LGA1150,True
+AMD Athlon II X4 640,53.01,4,3.0,3.0,K10,95,,AMD,False,AM3,False
+AMD Ryzen 9 3900,269.33763654732303,12,3.1,3.1,Zen 2,65,,AMD,False,AM4,True
+Intel Core i3-8350K,135.0,4,4.0,4.0,Coffee Lake,91,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i5-3330,114.17995853325645,4,3.0,3.0,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155,True
+Intel Core i7-3930K,298.98,6,3.2,3.2,Sandy Bridge,130,,Intel,False,LGA1155,False
+AMD FX-4350,82.96,4,4.2,4.2,Piledriver,125,,AMD,False,FM2+,False
+Intel Xeon E5-2697 V2,457.4842252480587,12,2.7,3.5,Ivy Bridge,130,,Intel,False,LGA1155,True
+Intel Core i7-6900K,279.0,8,3.2,3.7,Broadwell,140,,Intel,False,LGA1150,False
+Intel Xeon E5-2683 V4,329.95,16,2.1,3.0,Broadwell,120,,Intel,False,LGA1150,False
+AMD EPYC 4364P,389.99,8,4.5,5.4,Zen 4,105,Radeon,AMD,True,AM5,False
+Intel Xeon E5-1620 V2,224.97268602616336,4,3.7,3.9,Ivy Bridge,130,,Intel,False,LGA1155,True
+AMD Ryzen 5 PRO 7645,225.48240310438612,6,3.8,5.1,Zen 4,65,Radeon,AMD,True,AM5,True
+Intel Core i9-10940X,699.99,14,3.3,4.8,Cascade Lake,165,,Intel,False,LGA3647,False
+AMD FX-8370,257.01,8,4.0,4.3,Piledriver,125,,AMD,False,FM2+,False
+Intel Core i7-8700T,279.95,6,2.4,4.0,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151,False
+AMD A8-7600,78.89,4,3.1,3.8,Steamroller,65,Radeon R7 (on-die),AMD,True,FM2+,False
+Intel Xeon E5-2690 V4,921.510182404284,14,2.6,3.5,Broadwell,135,,Intel,False,LGA1150,True
+Intel Core i5-8600K,189.19167734194968,6,3.6,4.3,Coffee Lake,95,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-13600,248.81821731664394,14,2.7,5.0,Raptor Lake,65,Intel UHD Graphics 770,Intel,True,LGA1700,True
+Intel Celeron G5925,59.99,2,3.6,3.6,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200,False
+AMD EPYC 4584PX,494.8287310949371,16,4.2,5.7,Zen 4,120,Radeon,AMD,True,AM5,True
+Intel Core i7-860,50.0,4,2.8,2.8,Nehalem,95,,Intel,False,LGA1156,False
+Intel Core i7-6700T,160.98984081776536,4,2.8,3.6,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Xeon E5-2670 V3,346.50903356118573,12,2.3,3.1,Haswell,120,,Intel,False,LGA1150,True
+Intel Core i3-4160,76.46812066858583,2,3.6,3.6,Haswell Refresh,54,Intel HD Graphics 4400,Intel,True,LGA1150,True
+Intel Xeon E5-2699 V3,569.3944130303327,18,2.3,3.6,Haswell,145,,Intel,False,LGA1150,True
+Intel Core i7-9700,335.01,8,3.0,4.7,Coffee Lake Refresh,65,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Pentium Gold G5400,115.69,2,3.7,3.7,Coffee Lake,58,Intel UHD Graphics 610,Intel,True,LGA1151,False
+Intel Xeon E5-2680 V3,497.62565934693316,12,2.5,3.3,Haswell,120,,Intel,False,LGA1150,True
+Intel Core i9-9980XE,1814.98,18,3.0,4.4,Skylake,165,,Intel,False,LGA1151,False
+Intel Core i5-7400T,64.56,4,2.4,3.0,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-7740X,378.88,4,4.3,4.5,Kaby Lake,112,,Intel,False,LGA1151,False
+Intel Core i7-9700F,279.0,8,3.0,4.7,Coffee Lake Refresh,65,,Intel,False,LGA1151,False
+AMD Ryzen 7 PRO 7745,326.87103379887066,8,3.8,5.3,Zen 4,65,Radeon,AMD,True,AM5,True
+Intel Core i9-7980XE,1249.95,18,2.6,4.4,Skylake,165,,Intel,False,LGA1151,False
+Intel Core i7-990X Extreme Edition,235.54432202381307,6,3.467,3.467,Westmere,130,,Intel,False,LGA1156,True
+Intel Core i7-3820,206.90472592848795,4,3.6,3.6,Sandy Bridge,130,,Intel,False,LGA1155,True
+Intel Core i5-3450,95.0,4,3.1,3.1,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155,False
+Intel Xeon E5-2650,69.94,8,2.0,2.8,Sandy Bridge,95,,Intel,False,LGA1155,False
+AMD FX-4300,112.4133699835833,4,3.8,3.8,Piledriver,95,,AMD,False,FM2+,True
+AMD Ryzen 7 1700X,168.0652056724592,8,3.4,3.8,Zen,95,,AMD,False,AM4,True
+Intel Core i5-9400,167.14361357163446,6,2.9,4.1,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151,True
+AMD FX-4350,55.05,4,4.2,4.2,Piledriver,125,,AMD,False,FM2+,False
+Intel Xeon E5-1630 V4,298.95,4,3.7,4.0,Broadwell,140,,Intel,False,LGA1150,False
+Intel Core 2 Quad Q9300,42.6,4,2.5,2.5,Yorkfield,95,,Intel,False,LGA775,False
+Intel Xeon E5-2683 V4,1998.95,16,2.1,3.0,Broadwell,120,,Intel,False,LGA1150,False
+Intel Core i3-3240,199.0,2,3.4,3.4,Ivy Bridge,55,Intel HD Graphics 2500,Intel,True,LGA1155,False
+AMD A10-7700K,128.02,4,3.4,3.8,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+,False
+Intel Core i5-9600KF,274.99,6,3.7,4.6,Coffee Lake Refresh,95,,Intel,False,LGA1151,False
+AMD Phenom II X6 1090T Black,291.98,6,3.2,3.2,K10,125,,AMD,False,AM3,False
+Intel Core i7-980X Extreme Edition,243.67932399393482,6,3.33,3.33,Westmere,130,,Intel,False,LGA1156,True
+Intel Core 2 Quad Q6600,76.36110444010059,4,2.4,2.4,Core,100,,Intel,False,LGA775,True
+Intel Xeon E5-1620 V3,111.0,4,3.5,3.6,Haswell,140,,Intel,False,LGA1150,False
+Intel Core i7-4820K,198.0,4,3.7,3.9,Ivy Bridge,130,,Intel,False,LGA1155,False
+Intel Xeon E5-2660 V3,149.94,10,2.6,3.3,Haswell,105,,Intel,False,LGA1150,False
+Intel Core i9-7960X,462.16,16,2.8,4.4,Skylake,165,,Intel,False,LGA1151,False
+AMD FX-6120,58.53,6,3.5,4.1,Bulldozer,95,,AMD,False,FM2,False
+Intel Xeon E3-1230 V2,274.0,4,3.3,3.3,Ivy Bridge,69,,Intel,False,LGA1155,False
+Intel Core i7-9800X,639.9735291773785,8,3.8,4.5,Skylake,165,,Intel,False,LGA1151,True
+Intel Core i5-9500F,162.0,6,3.0,4.4,Coffee Lake Refresh,65,,Intel,False,LGA1151,False
+Intel Core i5-8400T,113.37,6,1.7,3.3,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Xeon E3-1231 V3,264.2795425069876,4,3.4,3.8,Haswell Refresh,80,,Intel,False,LGA1150,True
+Intel Core i7-3770S,119.26882920319112,4,3.1,3.1,Ivy Bridge,65,Intel HD Graphics 4000,Intel,True,LGA1155,True
+Intel Xeon E5-2680,110.0,8,2.7,3.5,Sandy Bridge,130,,Intel,False,LGA1155,False
+Intel Core i5-9500T,254.95381008220738,6,2.2,3.7,Coffee Lake Refresh,35,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i3-10100T,212.55909583009074,4,3.0,3.8,Comet Lake,35,Intel UHD Graphics 630,Intel,True,LGA1200,True
+Intel Core i7-7700T,498.95,4,2.9,3.8,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i3-13100T,195.00645514452802,4,2.5,4.2,Raptor Lake,35,Intel UHD Graphics 730,Intel,True,LGA1700,True
+AMD FX-8350,192.49,8,4.0,4.0,Piledriver,125,,AMD,False,FM2+,False
+AMD A8-6600K,92.86,4,3.9,3.9,Piledriver,100,Radeon HD 8570D,AMD,True,FM2+,False
+Intel Pentium G3258,124.99,2,3.2,3.2,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,False
+Intel Core i5-650,126.86547714400855,2,3.2,3.2,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,True
+Intel Core i7-5775C,129.97745259829796,4,3.3,3.7,Broadwell,65,Iris Pro Graphics 6200,Intel,True,LGA1150,True
+AMD 5350,62.76282840265796,4,2.05,2.05,Jaguar,25,Radeon HD 8400,AMD,True,AM1,True
+AMD Ryzen 9 3950X,342.171487480534,16,3.5,4.7,Zen 2,105,,AMD,False,AM4,True
+Intel Core 2 Quad Q9650,96.14806764799073,4,3.0,3.0,Yorkfield,95,,Intel,False,LGA775,True
+AMD Phenom II X6 1100T Black,162.54556125346787,6,3.3,3.3,K10,125,,AMD,False,AM3,True
+Intel Core i7-4790S,125.03261687931698,4,3.2,4.0,Haswell Refresh,65,Intel HD Graphics 4000,Intel,True,LGA1150,True
+Intel Core i5-7500,134.0809288467499,4,3.4,3.8,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151,True
+AMD A10-7850K,139.84,4,3.7,4.0,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+,False
+Intel Celeron G3900,48.56,2,2.8,2.8,Skylake,51,Intel HD Graphics 510,Intel,True,LGA1151,False
+AMD Athlon II 160u,107.59578245840635,1,1.8,1.8,K10,20,,AMD,False,AM3,True
+Intel Xeon E5-2697 V3,881.3358471084056,14,2.6,3.6,Haswell,145,,Intel,False,LGA1150,True
+AMD FX-8320,106.55,8,3.5,3.5,Piledriver,125,,AMD,False,FM2+,False
+Intel Core i7-4770K,300.0,4,3.5,3.9,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Xeon E3-1270 V3,410.0,4,3.5,3.9,Haswell,80,,Intel,False,LGA1150,False
+Intel Core i5-6402P,118.66,4,2.8,3.4,Skylake,65,Intel HD Graphics 510,Intel,True,LGA1151,False
+Intel Core 2 Quad Q9550,52.55,4,2.83,2.83,Yorkfield,95,,Intel,False,LGA775,False
+Intel Core 2 Duo E7500,149.0,2,2.93,2.93,Wolfdale,65,,Intel,False,LGA775,False
+AMD FX-6300,62.51,6,3.5,3.5,Piledriver,95,,AMD,False,FM2+,False
+Intel Core i7-950,84.15,4,3.06,3.06,Nehalem,130,,Intel,False,LGA1156,False
+AMD A10-6800K,113.30937259971601,4,4.1,4.1,Piledriver,100,Radeon HD 8670D,AMD,True,FM2+,True
+Intel Xeon E5-2695 V4,648.5275285018276,18,2.1,3.3,Broadwell,120,,Intel,False,LGA1150,True
+Intel Core i7-3970X Extreme Edition,175.0,6,3.5,3.5,Sandy Bridge,150,,Intel,False,LGA1155,False
+Intel Core i3-8100,120.32,4,3.6,3.6,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+AMD A10-9700,127.71,4,3.5,3.8,Excavator,65,Radeon R7 (on-die),AMD,True,FM2+,False
+Intel Core i5-4570S,85.63537746333557,4,2.9,2.9,Haswell,65,Intel HD Graphics 4600,Intel,True,LGA1150,True
+AMD A8-7680,86.58222361722659,4,3.5,3.8,Puma+,65,Radeon R7 (on-die),AMD,True,AM1,True
+Intel Core i3-10300,130.15121266907138,4,3.7,4.4,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,True
+Intel Core i9-9900X,579.99,10,3.5,4.4,Skylake,165,,Intel,False,LGA1151,False
+Intel Core i5-10600K,278.6139780255749,6,4.1,4.8,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200,True
+Intel Core i5-4690,139.40794644623253,4,3.5,3.9,Haswell Refresh,84,Intel HD Graphics 4600,Intel,True,LGA1150,True
+AMD Phenom II X4 820,52.64,4,2.8,2.8,K10,95,,AMD,False,AM3,False
+Intel Core i7-5820K,429.95,6,3.3,3.6,Haswell,140,,Intel,False,LGA1150,False
+Intel Core i5-7400,184.6,4,3.0,3.5,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151,False
+AMD Phenom II X4 965 Black,124.83988387461608,4,3.4,3.4,K10,125,,AMD,False,AM3,True
+Intel Core 2 Extreme QX9770,559.8946329044621,4,3.2,3.2,Yorkfield,136,,Intel,False,LGA775,True
+Intel Core i5-6500T,168.79067270500968,4,2.5,3.1,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Core i7-870,98.81316177154253,4,2.93,2.93,Nehalem,95,,Intel,False,LGA1156,True
+Intel Core i5-6500T,229.95,4,2.5,3.1,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,False
+Intel Core i3-6300,99.99,2,3.8,3.8,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151,False
+Intel Xeon E5-2640 V4,172.70810700446134,10,2.4,3.4,Broadwell,90,,Intel,False,LGA1150,True
+Intel Core i7-3960X Extreme Edition,320.0,6,3.3,3.3,Sandy Bridge,130,,Intel,False,LGA1155,False
+Intel Xeon E5-2680 V2,198.68460339756865,10,2.8,3.6,Ivy Bridge,115,,Intel,False,LGA1155,True
+AMD A10-7800,89.65160753957542,4,3.5,3.9,Steamroller,65,Radeon R7 (on-die),AMD,True,FM2+,True
+Intel Core i7-10700K Avengers Collector's Edition,741.0,8,3.8,5.1,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200,False
+Intel Core i5-3550,299.0,4,3.3,3.3,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155,False
+Intel Core i3-7350K,115.0,2,4.2,4.2,Kaby Lake,60,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Xeon E5-2630,47.66,6,2.3,2.3,Sandy Bridge,95,,Intel,False,LGA1155,False
+AMD Athlon X4 860K,116.98614818944971,4,3.7,4.0,Steamroller,95,,AMD,False,FM2+,True
+Intel Pentium G4600,82.50313482133623,2,3.6,3.6,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Xeon E-2288G,431.4336182730055,8,3.7,5.0,Coffee Lake Refresh,95,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Xeon E5-2695 V3,531.3340682681463,14,2.3,3.3,Haswell,120,,Intel,False,LGA1150,True
+Intel Core i7-7740X,209.95,4,4.3,4.5,Kaby Lake,112,,Intel,False,LGA1151,False
+Intel Pentium Gold G6405,94.99,2,4.1,4.1,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200,False
+Intel Core i5-2320,89.92610897047548,4,3.0,3.0,Sandy Bridge,95,Intel HD Graphics 2000,Intel,True,LGA1155,True
+Intel Core i5-4590S,137.14700652989828,4,3.0,3.7,Haswell Refresh,65,Intel HD Graphics 4000,Intel,True,LGA1150,True
+Intel Core i3-7100,76.77,2,3.9,3.9,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i3-9100T,228.52104434017053,4,3.1,3.7,Coffee Lake Refresh,35,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-760,84.70082450308578,4,2.8,2.8,Nehalem,95,,Intel,False,LGA1156,True
+Intel Pentium G645,40.99,2,2.9,2.9,Sandy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155,False
+Intel Xeon E3-1240 V2,400.0,4,3.4,3.4,Ivy Bridge,69,,Intel,False,LGA1155,False
+Intel Core i3-7320,59.0,2,4.1,4.1,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Xeon E5-1620 V4,232.12,4,3.5,3.8,Broadwell,140,,Intel,False,LGA1150,False
+Intel Core i3-10320,120.0,4,3.8,4.6,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,False
+AMD FX-4100,84.56550206334624,4,3.6,3.6,Bulldozer,95,,AMD,False,FM2,True
+Intel Xeon E3-1240L V5,180.75077484271378,4,2.1,3.2,Skylake,25,,Intel,False,LGA1151,True
+Intel Xeon E3-1245 V6,120.0,4,3.7,4.1,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151,False
+Intel Xeon E5-1660 V3,204.44,8,3.0,3.5,Haswell,140,,Intel,False,LGA1150,False
+Intel Celeron G3930,29.0,2,2.9,2.9,Kaby Lake,51,Intel HD Graphics 610,Intel,True,LGA1151,False
+Intel Core i3-2120T,40.0,2,2.6,2.6,Sandy Bridge,35,Intel HD Graphics 2000,Intel,True,LGA1155,False
+Intel Core i7-4771,144.55409719866395,4,3.5,3.9,Haswell,84,Intel HD Graphics 4600,Intel,True,LGA1150,True
+AMD A8-7650K,123.86626888387883,4,3.3,3.7,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+,True
+Intel Core i5-7600K,168.4190991064,4,3.8,4.2,Kaby Lake,91,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Core i9-9900T,317.03112021831464,8,2.1,4.4,Coffee Lake Refresh,35,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-3470S,89.3610471856115,4,2.9,2.9,Ivy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155,True
+Intel Core i9-10850KA Avengers Limited Edition,392.69960115215207,10,3.6,5.2,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200,True
+AMD FX-8320E,155.6597502721493,8,3.2,4.0,Piledriver,95,,AMD,False,FM2+,True
+Intel Xeon E5-1650 V3,248.9347632067812,6,3.5,3.8,Haswell,140,,Intel,False,LGA1150,True
+Intel Celeron G4900,48.59,2,3.1,3.1,Coffee Lake,65,Intel UHD Graphics 610,Intel,True,LGA1151,False
+Intel Xeon E-2286G,627.61,6,4.0,4.9,Coffee Lake Refresh,95,Intel HD Graphics P630,Intel,True,LGA1151,False
+Intel Core i7-960,150.0,4,3.2,3.2,Nehalem,130,,Intel,False,LGA1156,False
+Intel Xeon E3-1230 V3,309.0,4,3.3,3.7,Haswell,80,,Intel,False,LGA1150,False
+Intel Xeon E3-1241 V3,298.0,4,3.5,3.9,Haswell Refresh,80,,Intel,False,LGA1150,False
+Intel Core i9-9960X,999.99,16,3.1,4.4,Skylake,165,,Intel,False,LGA1151,False
+AMD Phenom II X6 1055T,199.99,6,2.8,2.8,K10,125,,AMD,False,AM3,False
+Intel Pentium G3220,60.16359636392321,2,3.0,3.0,Haswell,54,Intel HD Graphics,Intel,True,LGA1150,True
+AMD A6-7400K,89.98,2,3.5,3.9,Steamroller,65,Radeon R5 (on die),AMD,True,FM2+,False
+Intel Core i7-2600S,99.99,4,2.8,2.8,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155,False
+Intel Celeron 440,49.99,1,2.0,2.0,Core,35,,Intel,False,LGA775,False
+Intel Core i3-3250,90.0,2,3.5,3.5,Ivy Bridge,55,Intel HD Graphics 2500,Intel,True,LGA1155,False
+Intel Core i9-9900,402.6942361071078,8,3.1,5.0,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Xeon E5-2620 V3,127.98,6,2.4,3.2,Haswell,85,,Intel,False,LGA1150,False
+Intel Xeon E5-2630 V2,488.88,6,2.6,3.1,Ivy Bridge,80,,Intel,False,LGA1155,False
+Intel Xeon E5-2660 V4,399.0,14,2.0,3.2,Broadwell,105,,Intel,False,LGA1150,False
+Intel Core i5-8500,169.07021423905246,6,3.0,4.1,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Pentium G2020,34.99,2,2.9,2.9,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155,False
+Intel Core i5-3350P,141.43991357173093,4,3.1,3.1,Ivy Bridge,69,,Intel,False,LGA1155,True
+Intel Xeon E5-2667 V2,285.5110225044411,8,3.3,4.0,Ivy Bridge,130,,Intel,False,LGA1155,True
+Intel Core i5-9500,182.3539663661379,6,3.0,4.4,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core 2 Extreme QX9775,1298.0,4,3.2,3.2,Yorkfield,150,,Intel,False,LGA775,False
+AMD A10-6700,102.76,4,3.7,3.7,Piledriver,65,Radeon HD 8670D,AMD,True,FM2+,False
+AMD Athlon 220GE,86.2410822412788,2,3.4,3.4,Zen,35,Radeon Vega 3,AMD,True,AM4,True
+Intel Core i3-9350KF,136.06,4,4.0,4.6,Coffee Lake Refresh,91,,Intel,False,LGA1151,False
+Intel Core i7-7800X,389.95,6,3.5,4.0,Skylake,140,,Intel,False,LGA1151,False
+Intel Core i9-7900X,449.95,10,3.3,4.5,Skylake,140,,Intel,False,LGA1151,False
+Intel Core i5-2400S,214.76,4,2.5,2.5,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155,False
+Intel Xeon E3-1275 V2,208.86227587533324,4,3.5,3.5,Ivy Bridge,77,Intel HD Graphics P4000,Intel,True,LGA1155,True
+Intel Pentium G2030,60.57133023275435,2,3.0,3.0,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Xeon E5-2670,184.91228979889695,8,2.6,3.3,Sandy Bridge,115,,Intel,False,LGA1155,True
+Intel Xeon E5-2650 V3,219.4219365473282,10,2.3,3.0,Haswell,105,,Intel,False,LGA1150,True
+Intel Core i9-7980XE,1051.2775839747405,18,2.6,4.4,Skylake,165,,Intel,False,LGA1151,True
+AMD Phenom II X4 955 Black,126.18508334971911,4,3.2,3.2,K10,125,,AMD,False,AM3,True
+AMD A10-5800K,112.4133699835833,4,3.8,3.8,Piledriver,100,Radeon HD 7660D,AMD,True,FM2+,True
+AMD FX-9590,278.5444842133018,8,4.7,5.0,Piledriver,220,,AMD,False,FM2+,True
+Intel Xeon E5-2650L V2,133.75534469295076,10,1.7,2.1,Ivy Bridge,70,,Intel,False,LGA1155,True
+Intel Xeon E5-2640 V3,165.14330407055587,8,2.6,3.4,Haswell,90,,Intel,False,LGA1150,True
+Intel Core i5-7640X,188.88,4,4.0,4.2,Kaby Lake,112,,Intel,False,LGA1151,False
+AMD A6-9500,72.38076839351906,2,3.5,3.8,Excavator,65,Radeon R5 (on die),AMD,True,FM2+,True
+Intel Core 2 Quad Q9550,165.51,4,2.83,2.83,Yorkfield,95,,Intel,False,LGA775,False
+Intel Xeon E5-1680 V3,404.09,8,3.2,3.8,Haswell,140,,Intel,False,LGA1150,False
+AMD A12-9800E,142.82,4,3.1,3.8,Excavator,35,Radeon R7 (on-die),AMD,True,FM2+,False
+Intel Core i3-9300,240.13,4,3.7,4.3,Coffee Lake Refresh,62,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i3-540,98.95,2,3.06,3.06,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,False
+AMD Athlon II X2 250,50.30202857105188,2,3.0,3.0,K10,65,,AMD,False,AM3,True
+Intel Core i5-2300,73.61082307087378,4,2.8,2.8,Sandy Bridge,95,Intel HD Graphics 2000,Intel,True,LGA1155,True
+AMD A6-3670K,76.29755949624422,4,2.7,2.7,Lynx,100,Radeon HD 6530D,AMD,True,LGA1156,True
+Intel Xeon E3-1240 V3,264.2795425069876,4,3.4,3.8,Haswell,80,,Intel,False,LGA1150,True
+Intel Xeon E5-2695 V2,381.5450118363178,12,2.4,3.2,Ivy Bridge,115,,Intel,False,LGA1155,True
+Intel Xeon E3-1270 V5,319.08665378346603,4,3.6,4.0,Skylake,80,,Intel,False,LGA1151,True
+AMD A10-7890K,139.8024195284479,4,4.1,4.3,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+,True
+Intel Core i5-4460S,125.25464755259802,4,2.9,3.4,Haswell Refresh,65,Intel HD Graphics 4000,Intel,True,LGA1150,True
+Intel Core i3-8300,139.80968962455503,4,3.7,3.7,Coffee Lake,62,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i3-8100T,119.36243526623247,4,3.1,3.1,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i7-9700T,310.79063616543345,8,2.0,4.3,Coffee Lake Refresh,35,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Pentium G630,30.74,2,2.7,2.7,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,False
+Intel Xeon E5-2650L,129.94,8,1.8,2.3,Sandy Bridge,70,,Intel,False,LGA1155,False
+Intel Core i7-5930K,529.95,6,3.5,3.7,Haswell,140,,Intel,False,LGA1150,False
+AMD Athlon II X4 640,74.79,4,3.0,3.0,K10,95,,AMD,False,AM3,False
+Intel Core i5-2310,78.4265936653,4,2.9,2.9,Sandy Bridge,95,Intel HD Graphics 2000,Intel,True,LGA1155,True
+AMD FX-9370,216.59,8,4.4,4.7,Piledriver,220,,AMD,False,FM2+,False
+Intel Xeon E5-2650 V2,165.3756111777641,8,2.6,3.4,Ivy Bridge,95,,Intel,False,LGA1155,True
+Intel Xeon E-2236,452.02,6,3.4,4.8,Coffee Lake Refresh,80,,Intel,False,LGA1151,False
+AMD A10-7870K,116.98614818944971,4,3.9,4.1,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+,True
+Intel Core i7-4790T,149.88,4,2.7,3.9,Haswell Refresh,45,,Intel,False,LGA1150,False
+AMD A12-9800,89.96275400767702,4,3.8,4.2,Excavator,65,Radeon R7 (on-die),AMD,True,FM2+,True
+Intel Core 2 Quad Q8400,84.95,4,2.66,2.66,Yorkfield,95,,Intel,False,LGA775,False
+AMD FX-8120,205.98431686901046,8,3.1,3.1,Bulldozer,125,,AMD,False,FM2,True
+Intel Xeon E3-1270 V2,211.7285451366555,4,3.5,3.5,Ivy Bridge,69,,Intel,False,LGA1155,True
+AMD Opteron 6378,680.7505641555545,16,2.4,3.3,Piledriver,115,,AMD,False,FM2+,True
+Intel Celeron G3900,39.0,2,2.8,2.8,Skylake,51,Intel HD Graphics 510,Intel,True,LGA1151,False
+AMD Athlon X4 950,89.88111432152522,4,3.5,3.8,Excavator,65,,AMD,False,FM2+,True
+Intel Celeron 430,59.95,1,1.8,1.8,Core,35,,Intel,False,LGA775,False
+Intel Xeon E5-1650 V2,235.03,6,3.5,3.9,Ivy Bridge,130,,Intel,False,LGA1155,False
+Intel Core i7-880,106.56209364494997,4,3.06,3.06,Nehalem,95,,Intel,False,LGA1156,True
+Intel Core i5-3340,278.02,4,3.1,3.3,Ivy Bridge,77,Intel HD Graphics 2500,Intel,True,LGA1155,False
+Intel Xeon E5-2690 V3,532.8606950370138,12,2.6,3.5,Haswell,135,,Intel,False,LGA1150,True
+Intel Core i5-7600,135.05731203214262,4,3.5,4.1,Kaby Lake,65,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Xeon E5-2650L V4,596.6766481827347,14,1.7,2.5,Broadwell,65,,Intel,False,LGA1150,True
+AMD Ryzen 7 2700,157.43145696962222,8,3.2,4.1,Zen+,65,,AMD,False,AM4,True
+Intel Core i5-4590T,86.39968233055322,4,2.0,2.0,Haswell Refresh,35,Intel HD Graphics 4000,Intel,True,LGA1150,True
+Intel Pentium Gold G5400T,90.0,2,3.1,3.1,Coffee Lake,35,Intel UHD Graphics 610,Intel,True,LGA1151,False
+Intel Xeon E5-2698 V3,569.3944130303327,16,2.3,3.6,Haswell,135,,Intel,False,LGA1150,True
+AMD A6-9500E,73.40993906380379,2,3.0,3.4,Excavator,35,Radeon R5 (on die),AMD,True,FM2+,True
+Intel Celeron 420,73.14189084996228,1,1.6,1.6,Core,35,,Intel,False,LGA775,True
+Intel Core 2 Duo E4300,75.0,2,1.8,1.8,Core,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E8600,97.768184691318,2,3.33,3.33,Wolfdale,65,,Intel,False,LGA775,True
+AMD Sempron 140,38.33453613785577,1,2.7,2.7,K10,45,,AMD,False,AM3,True
+AMD FX-8150,161.24289074283197,8,3.6,3.6,Bulldozer,125,,AMD,False,FM2,True
+Intel Xeon E3-1220 V2,141.43991357173093,4,3.1,3.1,Ivy Bridge,69,,Intel,False,LGA1155,True
+Intel Core i3-4330,75.13046534099557,2,3.5,3.5,Haswell,54,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Xeon E3-1245 V3,143.50956257610565,4,3.4,3.8,Haswell,84,Intel HD Graphics P4600,Intel,True,LGA1150,True
+Intel Xeon E5-2687W V3,605.9563701048323,10,3.1,3.5,Haswell,160,,Intel,False,LGA1150,True
+Intel Core i3-6100T,149.94,2,3.2,3.2,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,False
+Intel Xeon E5-2620 V4,206.70582692361285,8,2.1,3.0,Broadwell,85,,Intel,False,LGA1150,True
+Intel Core i9-7940X,1160.7508100334942,14,3.1,4.4,Skylake,165,,Intel,False,LGA1151,True
+Intel Core i9-9900X,536.3970923478888,10,3.5,4.4,Skylake,165,,Intel,False,LGA1151,True
+AMD Athlon 3000G (14nm),80.30780253776223,2,3.5,3.5,Zen,35,Radeon Vega 3,AMD,True,AM4,True
+Intel Xeon E3-1220 V3,149.94,4,3.1,3.5,Haswell,80,,Intel,False,LGA1150,False
+AMD Athlon II X4 635,58.02,4,2.9,2.9,K10,95,,AMD,False,AM3,False
+Intel Core i7-980,356.02,6,3.333,3.333,Westmere,130,,Intel,False,LGA1156,False
+AMD FX-8370,317.33,8,4.0,4.3,Piledriver,125,,AMD,False,FM2+,False
+Intel Core i7-6800K,189.95,6,3.4,3.6,Broadwell,140,,Intel,False,LGA1150,False
+Intel Pentium E2160,49.0,2,1.8,1.8,Core,65,,Intel,False,LGA775,False
+Intel Core i5-3450S,85.0,4,2.8,2.8,Ivy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155,False
+Intel Xeon E3-1245 V6,435.16,4,3.7,4.1,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151,False
+AMD Phenom II X4 945,80.19426991285329,4,3.0,3.0,K10,125,,AMD,False,AM3,True
+Intel Pentium E5300,86.24,2,2.6,2.6,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core i7-930,148.72,4,2.8,2.8,Nehalem,130,,Intel,False,LGA1156,False
+Intel Core 2 Quad Q9300,219.0,4,2.5,2.5,Yorkfield,95,,Intel,False,LGA775,False
+AMD A8-5500,90.62740316450687,4,3.2,3.2,Piledriver,65,Radeon HD 7560D,AMD,True,FM2+,True
+AMD Athlon X2 370K,76.07190004653765,2,4.2,4.2,Piledriver,65,,AMD,False,FM2+,True
+Intel Core i5-4690K,136.236224941555,4,3.5,3.9,Haswell Refresh,88,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Xeon E3-1271 V3,277.7536696746715,4,3.6,4.0,Haswell Refresh,80,,Intel,False,LGA1150,True
+Intel Xeon E5-1650,256.15615155264976,6,3.2,3.8,Sandy Bridge,130,,Intel,False,LGA1155,True
+Intel Xeon E5-2637 V3,219.05853617419294,4,3.5,3.7,Haswell,135,,Intel,False,LGA1150,True
+Intel Core i5-6400T,198.03806814255015,4,2.2,2.8,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Xeon E3-1230 V6,278.25326028432477,4,3.5,3.9,Kaby Lake,72,,Intel,False,LGA1151,True
+Intel Core i7-875K,180.0,4,2.93,2.93,Nehalem,95,,Intel,False,LGA1156,False
+AMD Phenom II X4 955,126.18508334971911,4,3.2,3.2,K10,125,,AMD,False,AM3,True
+Intel Celeron G440,59.397812527016555,1,1.6,1.6,Sandy Bridge,35,Intel HD Graphics,Intel,True,LGA1155,True
+AMD A8-5600K,102.49618073221181,4,3.6,3.6,Piledriver,100,Radeon HD 7560D,AMD,True,FM2+,True
+AMD A6-5400K,67.27474360341849,2,3.6,3.6,Piledriver,65,Radeon HD 7540D,AMD,True,FM2+,True
+Intel Core i3-3210,159.0,2,3.2,3.2,Ivy Bridge,55,Intel HD Graphics 2500,Intel,True,LGA1155,False
+Intel Xeon E5-2670 V2,198.4105569948556,10,2.5,3.3,Ivy Bridge,115,,Intel,False,LGA1155,True
+Intel Core i5-4440S,126.60428075621964,4,2.8,3.3,Haswell,65,Intel HD Graphics 4600,Intel,True,LGA1150,True
+AMD 3850,81.48380501200559,4,1.3,1.3,Jaguar,25,Radeon HD 8280,AMD,True,AM1,True
+Intel Core i5-7400T,78.02,4,2.4,3.0,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i7-7700T,213.2851631969884,4,2.9,3.8,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Xeon E-2278G,783.6334609750293,8,3.4,5.0,Coffee Lake Refresh,80,Intel HD Graphics P630,Intel,True,LGA1151,True
+AMD Ryzen 3 1200 (12nm),78.81122609855362,4,3.1,3.4,Zen+,65,,AMD,False,AM4,True
+AMD A10-5800K,78.02,4,3.8,3.8,Piledriver,100,Radeon HD 7660D,AMD,True,FM2+,False
+Intel Core i7-870,195.02,4,2.93,2.93,Nehalem,95,,Intel,False,LGA1156,False
+Intel Core 2 Quad Q9550S,259.64,4,2.83,2.83,Yorkfield,65,,Intel,False,LGA775,False
+Intel Core i3-2100T,64.63,2,2.5,2.5,Sandy Bridge,35,Intel HD Graphics 2000,Intel,True,LGA1155,False
+Intel Xeon E5-2603 V3,135.0,6,1.6,1.6,Haswell,85,,Intel,False,LGA1150,False
+Intel Xeon E5-2609 V4,317.6371070770425,8,1.7,1.7,Broadwell,85,,Intel,False,LGA1150,True
+Intel Core 2 Quad Q6600,94.97,4,2.4,2.4,Core,100,,Intel,False,LGA775,False
+Intel Core i3-550,129.94,2,3.2,3.2,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,False
+AMD Phenom II X6 1075T,112.89649897360715,6,3.0,3.0,K10,95,,AMD,False,AM3,True
+AMD Phenom II X4 940 Black,80.19426991285329,4,3.0,3.0,K10,125,,AMD,False,AM3,True
+Intel Pentium E5800,100.91281892007984,2,3.2,3.2,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core i3-2130,92.0,2,3.4,3.4,Sandy Bridge,65,Intel HD Graphics 2000,Intel,True,LGA1155,False
+Intel Pentium G3240,62.690379745203415,2,3.1,3.1,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+AMD A4-7300,69.66057103374844,2,3.8,4.0,Piledriver,65,Radeon HD 8470D,AMD,True,FM2+,True
+Intel Xeon E3-1240 V5,319.08665378346603,4,3.5,3.9,Skylake,80,,Intel,False,LGA1151,True
+AMD A10-7860k,89.65160753957542,4,3.6,4.0,Steamroller,65,Radeon R7 (on-die),AMD,True,FM2+,True
+Intel Core i3-6098P,59.0,2,3.6,3.6,Skylake,54,Intel HD Graphics 510,Intel,True,LGA1151,False
+Intel Xeon E3-1285 V6,989.95,4,4.1,4.5,Kaby Lake,79,Intel HD Graphics 630,Intel,True,LGA1151,False
+AMD Athlon 200GE,93.0907285825857,2,3.2,3.2,Zen,35,Radeon Vega 3,AMD,True,AM4,True
+Intel Core i9-9940X,998.95,14,3.3,4.4,Skylake,165,,Intel,False,LGA1151,False
+Intel Celeron G4900,73.0,2,3.1,3.1,Coffee Lake,65,Intel UHD Graphics 610,Intel,True,LGA1151,False
+Intel Xeon E5-4650,224.19970869366404,8,2.7,3.3,Sandy Bridge,130,,Intel,False,LGA1155,True
+AMD Athlon II X4 620,53.55,4,2.6,2.6,K10,95,,AMD,False,AM3,False
+Intel Xeon E3-1245 V2,315.0,4,3.4,3.4,Ivy Bridge,77,Intel HD Graphics P4000,Intel,True,LGA1155,False
+Intel Xeon E5-2687W V2,375.7075911684052,8,3.4,4.0,Ivy Bridge,150,,Intel,False,LGA1155,True
+Intel Core i5-5675C,122.14376810975921,4,3.1,3.6,Broadwell,65,Iris Pro Graphics 6200,Intel,True,LGA1150,True
+Intel Pentium E2140,99.0,2,1.6,1.6,Core,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E8400,98.95,2,3.0,3.0,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core i5-4690S,125.03261687931698,4,3.2,3.9,Haswell Refresh,65,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Pentium G3250,82.11747692526815,2,3.2,3.2,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+Intel Core i5-6600T,179.95,4,2.7,3.5,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,False
+Intel Xeon E3-1245 V5,314.77385910840405,4,3.5,3.9,Skylake,80,Intel HD Graphics P530,Intel,True,LGA1151,True
+Intel Pentium G3260,82.11747692526815,2,3.3,3.3,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+Intel Xeon E-2176G,583.29,6,3.7,4.7,Coffee Lake,80,Intel HD Graphics P630,Intel,True,LGA1151,False
+Intel Core 2 Duo E6400,74.9,2,2.13,2.13,Core,65,,Intel,False,LGA775,False
+Intel Core i7-940,149.94,4,2.93,2.93,Nehalem,130,,Intel,False,LGA1156,False
+AMD Athlon II X4 630,52.6,4,2.8,2.8,K10,95,,AMD,False,AM3,False
+Intel Celeron G530,35.88,2,2.4,2.4,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,False
+Intel Celeron G1610,49.0,2,2.6,2.6,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155,False
+Intel Celeron G4930,129.69,2,3.2,3.2,Coffee Lake,54,Intel UHD Graphics 610,Intel,True,LGA1151,False
+Intel Core 2 Quad Q8200,86.17795146441972,4,2.33,2.33,Yorkfield,95,,Intel,False,LGA775,True
+AMD Athlon II X2 270,64.58445270822054,2,3.4,3.4,K10,65,,AMD,False,AM3,True
+Intel Pentium G640T,89.0,2,2.4,2.4,Sandy Bridge,35,Intel HD Graphics,Intel,True,LGA1155,False
+AMD A4-5300,68.39917748126871,2,3.4,3.4,Piledriver,65,Radeon HD 7480D,AMD,True,FM2+,True
+AMD A8-6500,81.47564317332197,4,3.5,3.5,Piledriver,65,Radeon HD 8570D,AMD,True,FM2+,True
+AMD A10-6700,83.22,4,3.7,3.7,Piledriver,65,Radeon HD 8670D,AMD,True,FM2+,False
+Intel Pentium G4560,81.51741214473921,2,3.5,3.5,Kaby Lake,54,Intel HD Graphics 610,Intel,True,LGA1151,True
+AMD Threadripper 2970WX,943.3506465971755,24,3.0,4.2,Zen+,250,,AMD,False,AM4,True
+Intel Core i9-9960X,1097.3372351431606,16,3.1,4.4,Skylake,165,,Intel,False,LGA1151,True
+AMD A10-5700,72.51,4,3.4,3.4,Piledriver,65,Radeon HD 7660D,AMD,True,FM2+,False
+Intel Core i3-6100,98.95,2,3.7,3.7,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151,False
+Intel Celeron G4920,73.0,2,3.2,3.2,Coffee Lake,65,Intel UHD Graphics 610,Intel,True,LGA1151,False
+Intel Core i5-750,81.90146499540214,4,2.66,2.66,Nehalem,95,,Intel,False,LGA1156,True
+Intel Core 2 Quad Q9400,100.3282950047389,4,2.66,2.66,Yorkfield,95,,Intel,False,LGA775,True
+AMD Phenom II X4 970 Black,121.73799238785882,4,3.5,3.5,K10,125,,AMD,False,AM3,True
+AMD Phenom II X4 980 Black,141.23191872130602,4,3.7,3.7,K10,125,,AMD,False,AM3,True
+Intel Pentium G620,53.16209924182555,2,2.6,2.6,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,True
+AMD Phenom II X6 1045T,90.21912342454903,6,2.7,2.7,K10,95,,AMD,False,AM3,True
+AMD A4-4000,54.681299810404575,2,3.0,3.0,Piledriver,65,Radeon HD 7480D,AMD,True,FM2+,True
+AMD Athlon X4 750K,104.20068529277646,4,3.4,3.4,Piledriver,100,,AMD,False,FM2+,True
+Intel Pentium G3420,71.73,2,3.2,3.2,Haswell,54,Intel HD Graphics,Intel,True,LGA1150,False
+Intel Core i3-4160T,60.66678727842017,2,3.1,3.1,Haswell Refresh,35,Intel HD Graphics 4400,Intel,True,LGA1150,True
+Intel Xeon E5-2660 V3,215.0191318509538,10,2.6,3.3,Haswell,105,,Intel,False,LGA1150,True
+AMD FX-8310,180.44243940846087,8,3.4,4.3,Piledriver,95,,AMD,False,FM2+,True
+Intel Xeon E3-1230 V5,317.7867483822481,4,3.4,3.8,Skylake,80,,Intel,False,LGA1151,True
+Intel Core i7-7820X,495.03,8,3.6,4.5,Skylake,140,,Intel,False,LGA1151,False
+Intel Core i9-7920X,373.7777140266436,12,2.9,4.4,Skylake,140,,Intel,False,LGA1151,True
+Intel Core i5-3570S,136.35615030568366,4,3.1,3.8,Ivy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155,True
+Intel Core i5-8600T,257.88654580054896,6,2.3,3.7,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Xeon E-2136,732.0,6,3.3,4.5,Coffee Lake,80,,Intel,False,LGA1151,False
+Intel Celeron G3920,489.95,2,2.6,2.6,Skylake,35,Intel HD Graphics 510,Intel,True,LGA1151,False
+Intel Core i5-8600,269.95,6,3.1,4.3,Coffee Lake,65,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Core i3-3245,109.0,2,3.4,3.4,Ivy Bridge,55,Intel HD Graphics 4000,Intel,True,LGA1155,False
+Intel Xeon E5-2630L V3,391.94,8,1.8,2.9,Haswell,55,,Intel,False,LGA1150,False
+Intel Xeon E3-1230 V6,455.49,4,3.5,3.9,Kaby Lake,72,,Intel,False,LGA1151,False
+AMD A10-9700E,132.71,4,3.0,3.5,Excavator,35,Radeon R7 (on-die),AMD,True,FM2+,False
+Intel Xeon E-2274G,1098.95,4,4.0,4.9,Coffee Lake Refresh,83,Intel HD Graphics P630,Intel,True,LGA1151,False
+Intel Core 2 Duo E4300,70.60932944104233,2,1.8,1.8,Core,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E4600,61.3806988272432,2,2.4,2.4,Core,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E8400,99.43,2,3.0,3.0,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E8500,100.91281892007984,2,3.16,3.16,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core i7-920,98.85515466046887,4,2.66,2.66,Nehalem,130,,Intel,False,LGA1156,True
+Intel Core i7-970,251.46955502537818,6,3.2,3.2,Westmere,130,,Intel,False,LGA1156,True
+AMD Phenom II X4 965,124.83988387461608,4,3.4,3.4,K10,125,,AMD,False,AM3,True
+Intel Pentium G2120,35.0,2,3.1,3.1,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155,False
+Intel Core i3-3225,86.60100207793548,2,3.3,3.3,Ivy Bridge,55,Intel HD Graphics 4000,Intel,True,LGA1155,True
+Intel Core i3-4130T,48.136602849829316,2,2.9,2.9,Haswell,35,Intel HD Graphics 4400,Intel,True,LGA1150,True
+Intel Xeon E5-2687W,373.01243150540347,8,3.1,3.8,Sandy Bridge,150,,Intel,False,LGA1155,True
+AMD FX-8370E,180.44243940846087,8,3.3,4.3,Piledriver,95,,AMD,False,FM2+,True
+Intel Xeon E3-1265L V3,398.95,4,2.5,3.7,Haswell,45,Intel HD Graphics,Intel,True,LGA1150,False
+Intel Xeon E3-1280 V6,562.0,4,3.9,4.2,Kaby Lake,72,,Intel,False,LGA1151,False
+Intel Core i3-8300T,133.42888854804758,4,3.2,3.2,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Pentium Gold G5500,85.26556698326533,2,3.8,3.8,Coffee Lake,54,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-3330S,149.94,4,2.7,3.2,Ivy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155,False
+Intel Core i5-9400T,146.04814669388017,6,1.8,3.4,Coffee Lake Refresh,35,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Pentium Gold G6605,117.6567286850184,2,4.3,4.3,Comet Lake,58,Intel UHD Graphics 630,Intel,True,LGA1200,True
+Intel Core i9-10900K,392.69960115215207,10,3.7,5.3,Comet Lake,125,Intel UHD Graphics 630,Intel,True,LGA1200,True
+Intel Core i3-4340,92.35,2,3.6,3.6,Haswell,54,Intel HD Graphics 4600,Intel,True,LGA1150,False
+Intel Celeron G3930T,46.07,2,2.7,2.7,Kaby Lake,35,Intel HD Graphics 610,Intel,True,LGA1151,False
+AMD Phenom II X4 925,55.686949021080224,4,2.8,2.8,K10,95,,AMD,False,AM3,True
+Intel Pentium E6600,79.41199671294385,2,3.06,3.06,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E6700,103.95,2,2.66,2.66,Core,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E7200,169.95,2,2.53,2.53,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core 2 Quad Q6700,93.26943497505613,4,2.66,2.66,Core,100,,Intel,False,LGA775,True
+Intel Core 2 Quad Q8300,100.32888427659687,4,2.5,2.5,Yorkfield,95,,Intel,False,LGA775,True
+Intel Core 2 Extreme QX9650,206.41956985837695,4,3.0,3.0,Yorkfield,130,,Intel,False,LGA775,True
+AMD FX-8100,142.06388947883818,8,2.8,2.8,Bulldozer,95,,AMD,False,FM2,True
+Intel Core i5-2550K,167.99827152624053,4,3.4,3.4,Sandy Bridge,95,,Intel,False,LGA1155,True
+AMD FX-6200,138.13335660804555,6,3.8,3.8,Bulldozer,125,,AMD,False,FM2,True
+Intel Celeron G1840,48.49785662586775,2,2.8,2.8,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+Intel Core i3-4370,79.5407367739731,2,3.8,3.8,Haswell Refresh,54,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Xeon E3-1276 V3,139.40794644623253,4,3.6,4.0,Haswell Refresh,84,Intel HD Graphics P4600,Intel,True,LGA1150,True
+Intel Xeon E3-1246 V3,139.40794644623253,4,3.5,3.9,Haswell Refresh,84,Intel HD Graphics P4600,Intel,True,LGA1150,True
+Intel Xeon E5-1620,225.05494596898924,4,3.6,3.8,Sandy Bridge,130,,Intel,False,LGA1155,True
+Intel Xeon E5-2643 V3,229.95,6,3.4,3.7,Haswell,135,,Intel,False,LGA1150,False
+Intel Core i7-4770T,99.33207934954032,4,2.5,2.5,Haswell,45,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Core i3-6100T,112.2419855978034,2,3.2,3.2,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,True
+AMD Opteron 6320,269.0,8,2.8,3.3,Piledriver,115,,AMD,False,FM2+,False
+Intel Xeon E5-2603 V4,449.95,6,1.7,1.7,Broadwell,85,,Intel,False,LGA1150,False
+Intel Core i3-7300,86.50098528599796,2,4.0,4.0,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Xeon E5-2643 V4,929.95,6,3.4,3.7,Broadwell,135,,Intel,False,LGA1150,False
+AMD Athlon X4 970,89.88111432152522,4,3.8,4.0,Excavator,65,,AMD,False,FM2+,True
+AMD Ryzen 7 1800X,156.5670544847768,8,3.6,4.0,Zen,95,,AMD,False,AM4,True
+AMD Threadripper 2920X,262.43879825530115,12,3.5,4.3,Zen+,180,,AMD,False,AM4,True
+Intel Core i9-9920X,618.930896919384,12,3.5,4.4,Skylake,165,,Intel,False,LGA1151,True
+Intel Core i3-10325,141.65348161560436,4,3.9,4.7,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,True
+AMD EPYC 4484PX,401.01809201338153,12,4.4,5.6,Zen 4,120,Radeon,AMD,True,AM5,True
+Intel Pentium Gold G5600,229.69,2,3.9,3.9,Coffee Lake,54,Intel UHD Graphics 630,Intel,True,LGA1151,False
+Intel Celeron G5920,77.97255353917129,2,3.5,3.5,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200,True
+Intel Xeon E5-1660 V2,265.7214723183622,6,3.7,4.0,Ivy Bridge,130,,Intel,False,LGA1155,True
+Intel Core i7-6900K,289.08,8,3.2,3.7,Broadwell,140,,Intel,False,LGA1150,False
+Intel Core i5-7500T,199.95,4,2.7,3.3,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,False
+AMD Phenom II X2 555 Black,101.18683429587352,2,3.2,3.2,K10,80,,AMD,False,AM3,True
+Intel Pentium E2140,83.40062258160218,2,1.6,1.6,Core,65,,Intel,False,LGA775,True
+Intel Pentium E5200,74.1754032421492,2,2.5,2.5,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E6320,70.60932944104233,2,1.86,1.86,Core,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E7400,62.74964597262725,2,2.8,2.8,Wolfdale,65,,Intel,False,LGA775,True
+Intel Pentium G6950,37.93,2,2.8,2.8,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,False
+Intel Pentium E5500,62.74964597262725,2,2.8,2.8,Wolfdale,65,,Intel,False,LGA775,True
+AMD Phenom II X4 840,106.2495716495409,4,3.2,3.2,K10,95,,AMD,False,AM3,True
+AMD A8-3850,82.51503671486786,4,2.9,2.9,Lynx,100,Radeon HD 6550D,AMD,True,LGA1156,True
+Intel Core i5-2405S,97.36893842978711,4,2.5,2.5,Sandy Bridge,65,Intel HD Graphics 3000,Intel,True,LGA1155,True
+AMD A8-3870K,92.06607321079262,4,3.0,3.0,Lynx,100,Radeon HD 6550D,AMD,True,LGA1156,True
+AMD A4-3300,89.95,2,2.5,2.5,Lynx,65,Radeon HD 6410D,AMD,True,LGA1156,False
+AMD Athlon X4 760K,112.4133699835833,4,3.8,4.1,Piledriver,100,,AMD,False,FM2+,True
+Intel Xeon E3-1225 V3,130.87323335929818,4,3.2,3.6,Haswell,84,Intel HD Graphics P4600,Intel,True,LGA1150,True
+Intel Xeon E3-1275 V3,144.55409719866395,4,3.5,3.9,Haswell,84,Intel HD Graphics P4600,Intel,True,LGA1150,True
+Intel Celeron G1820,47.56014260341507,2,2.7,2.7,Haswell,53,Intel HD Graphics,Intel,True,LGA1150,True
+Intel Xeon E5-2690,268.68152996370037,8,2.9,3.8,Sandy Bridge,135,,Intel,False,LGA1155,True
+Intel Xeon E5-2640 V2,115.49671177241854,8,2.0,2.5,Ivy Bridge,95,,Intel,False,LGA1155,True
+Intel Xeon E5-2660 V2,170.58137001540462,10,2.2,3.0,Ivy Bridge,95,,Intel,False,LGA1155,True
+Intel Core i3-4360,83.76510908165656,2,3.7,3.7,Haswell Refresh,54,Intel HD Graphics 4600,Intel,True,LGA1150,True
+AMD Sempron 150,39.18359974953209,1,2.9,2.9,K10,45,,AMD,False,AM3,True
+Intel Xeon E5-1630 V3,210.7505924147572,4,3.7,3.8,Haswell,140,,Intel,False,LGA1150,True
+Intel Xeon E5-2695 V3,498.95,14,2.3,3.3,Haswell,120,,Intel,False,LGA1150,False
+Intel Core i7-3770T,228.99826648503833,4,2.5,3.7,Ivy Bridge,45,Intel HD Graphics 4000,Intel,True,LGA1155,True
+Intel Pentium G3470,153.1,2,3.6,3.6,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,False
+Intel Xeon E3-1220 V5,349.95,4,3.0,3.5,Skylake,80,,Intel,False,LGA1151,False
+Intel Xeon E3-1260L V5,185.30992201767936,4,2.9,3.9,Skylake,45,,Intel,False,LGA1151,True
+Intel Xeon E3-1225 V5,309.1945471792318,4,3.3,3.7,Skylake,80,Intel HD Graphics P530,Intel,True,LGA1151,True
+Intel Xeon E3-1235L V5,141.94739493970334,4,2.0,3.0,Skylake,25,Intel HD Graphics P530,Intel,True,LGA1151,True
+Intel Xeon E5-1650 V4,224.0564646342901,6,3.6,4.0,Broadwell,140,,Intel,False,LGA1150,True
+Intel Xeon E3-1270 V6,719.95,4,3.8,4.2,Kaby Lake,72,,Intel,False,LGA1151,False
+Intel Core i9-7960X,941.9389832909992,16,2.8,4.4,Skylake,165,,Intel,False,LGA1151,True
+Intel Core i3-8350K,157.34852980322074,4,4.0,4.0,Coffee Lake,91,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-9500F,182.3539663661379,6,3.0,4.4,Coffee Lake Refresh,65,,Intel,False,LGA1151,True
+Intel Xeon E-2174G,649.95,4,3.8,4.7,Coffee Lake,71,Intel HD Graphics P630,Intel,True,LGA1151,False
+Intel Xeon E-2246G,544.9336769389674,6,3.6,4.8,Coffee Lake Refresh,80,Intel HD Graphics P630,Intel,True,LGA1151,True
+AMD Phenom II X4 830,55.05,4,2.8,2.8,K10,95,,AMD,False,AM3,False
+AMD Phenom II X4 975,168.02,4,3.6,3.6,K10,125,,AMD,False,AM3,False
+Intel Pentium G870,67.64,2,3.1,3.1,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,False
+AMD A4-6300B,49.95,2,3.7,3.9,Piledriver,65,Radeon HD 8370D,AMD,True,FM2+,False
+Intel Core i3-6300T,119.99,2,3.3,3.3,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,False
+AMD Athlon II X2 250u,121.9532670699892,2,1.6,1.6,K10,25,,AMD,False,AM3,True
+AMD Phenom II X4 905e,69.78997722107444,4,2.5,2.5,K10,65,,AMD,False,AM3,True
+Intel Pentium E2220,61.3806988272432,2,2.4,2.4,Core,65,,Intel,False,LGA775,True
+Intel Pentium E5400,62.74964597262725,2,2.7,2.7,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E6320,89.95,2,1.86,1.86,Core,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E6550,95.91,2,2.33,2.33,Core,65,,Intel,False,LGA775,False
+Intel Core i5-680,122.10933835790912,2,3.6,3.6,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,True
+Intel Core i7-930,102.22699467084152,4,2.8,2.8,Nehalem,130,,Intel,False,LGA1156,True
+Intel Core i7-965 Extreme Edition,205.6294704576714,4,3.2,3.2,Nehalem,130,,Intel,False,LGA1156,True
+Intel Core i7-975 Extreme Edition,199.25368660282896,4,3.33,3.33,Nehalem,130,,Intel,False,LGA1156,True
+Intel Core 2 Extreme QX6700,93.26943497505613,4,2.66,2.66,Core,100,,Intel,False,LGA775,True
+Intel Pentium G850,45.790140314701674,2,2.9,2.9,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,True
+AMD Athlon II X4 631,79.03236766480755,4,2.6,2.6,Lynx,100,,AMD,False,LGA1156,True
+Intel Core i3-3220T,48.82246386147231,2,2.8,2.8,Ivy Bridge,35,Intel HD Graphics 2500,Intel,True,LGA1155,True
+AMD FX-8300,140.99427421576138,8,3.3,3.3,Piledriver,95,,AMD,False,FM2+,True
+Intel Xeon E3-1225,108.6650071869012,4,3.1,3.1,Sandy Bridge,95,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Xeon E3-1275,376.99,4,3.4,3.4,Sandy Bridge,95,Intel HD Graphics,Intel,True,LGA1155,False
+Intel Xeon E3-1225 V2,214.5,4,3.2,3.2,Ivy Bridge,77,Intel HD Graphics P4000,Intel,True,LGA1155,False
+AMD FX-4130,112.03367543742998,4,3.8,3.8,Bulldozer,125,,AMD,False,FM2,True
+AMD FX-9370,264.39952590862697,8,4.4,4.7,Piledriver,220,,AMD,False,FM2+,True
+AMD 5150,81.48380501200559,4,1.6,1.6,Jaguar,25,Radeon HD 8400,AMD,True,AM1,True
+Intel Core i3-4350,76.46812066858583,2,3.6,3.6,Haswell Refresh,54,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Celeron G470,52.41881369104049,1,2.0,2.0,Sandy Bridge,35,Intel HD Graphics,Intel,True,LGA1155,True
+AMD E2-3200,58.88835771605214,2,2.4,2.4,Lynx,65,Radeon HD 6370D,AMD,True,LGA1156,True
+Intel Xeon E5-2630L V2,121.14465387883719,6,2.4,2.4,Ivy Bridge,60,,Intel,False,LGA1155,True
+Intel Xeon E5-2609,102.81538335370954,4,2.4,2.4,Sandy Bridge,80,,Intel,False,LGA1155,True
+Intel Core i3-6320,82.82252252014896,2,3.9,3.9,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Pentium G4500,79.62470681835828,2,3.5,3.5,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Xeon E3-1275 V5,314.77385910840405,4,3.6,4.0,Skylake,80,Intel HD Graphics P530,Intel,True,LGA1151,True
+AMD Opteron 6320,242.39,8,2.8,3.3,Piledriver,115,,AMD,False,FM2+,False
+Intel Core i7-6850K,224.0564646342901,6,3.6,3.8,Broadwell,140,,Intel,False,LGA1150,True
+Intel Core i9-7900X,450.65996247043057,10,3.3,4.5,Skylake,140,,Intel,False,LGA1151,True
+Intel Core i7-7800X,274.82808143232154,6,3.5,4.0,Skylake,140,,Intel,False,LGA1151,True
+Intel Celeron G4900T,229.1324345780483,2,1.8,1.8,Coffee Lake,35,Intel UHD Graphics 610,Intel,True,LGA1151,True
+Intel Pentium Gold G5400,89.79020739341459,2,3.7,3.7,Coffee Lake,58,Intel UHD Graphics 610,Intel,True,LGA1151,True
+Intel Pentium Gold G5600,85.26556698326533,2,3.9,3.9,Coffee Lake,54,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-9600T,245.29070000183756,6,2.3,3.9,Coffee Lake Refresh,35,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Xeon E-2244G,562.9151523688843,4,3.8,4.8,Coffee Lake Refresh,71,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Xeon E-2276G,650.7031595002051,6,3.8,4.9,Coffee Lake Refresh,80,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Xeon E-2124G,270.99,4,3.4,4.5,Coffee Lake,71,Intel HD Graphics P630,Intel,True,LGA1151,False
+Intel Xeon E5-2623 V3,234.94,4,3.0,3.5,Haswell,105,,Intel,False,LGA1150,False
+Intel Celeron E3400,63.904004847814114,2,2.6,2.6,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core i3-560,89.95,2,3.333,3.333,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,False
+Intel Xeon E5-2640 V3,189.95,8,2.6,3.4,Haswell,90,,Intel,False,LGA1150,False
+AMD Athlon II X2 220,38.30025295341373,2,2.8,2.8,K10,65,,AMD,False,AM3,True
+AMD Athlon II X3 445,48.70612869910589,3,3.1,3.1,K10,95,,AMD,False,AM3,True
+AMD Phenom II X2 550 Black,60.57874745140121,2,3.1,3.1,K10,80,,AMD,False,AM3,True
+Intel Pentium E6500,89.99,2,2.93,2.93,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E6750,89.95,2,2.66,2.66,Core,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E7600,98.95,2,3.06,3.06,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core 2 Extreme QX6850,204.00935863560122,4,3.0,3.0,Core,130,,Intel,False,LGA775,True
+AMD Athlon II X4 645,74.29864464655762,4,3.1,3.1,K10,95,,AMD,False,AM3,True
+Intel Pentium E6700,100.91281892007984,2,3.2,3.2,Wolfdale,65,,Intel,False,LGA775,True
+AMD A6-3650,77.95402476916504,4,2.6,2.6,Lynx,100,Radeon HD 6530D,AMD,True,LGA1156,True
+AMD Phenom II X6 1035T,92.17392395335986,6,2.6,2.6,K10,95,,AMD,False,AM3,True
+Intel Celeron G540,69.98,2,2.5,2.5,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,False
+AMD A6-3500,58.88835771605214,3,2.1,2.1,Lynx,65,Radeon HD 6530D,AMD,True,LGA1156,True
+Intel Core i3-2125,152.0,2,3.3,3.3,Sandy Bridge,65,Intel HD Graphics 3000,Intel,True,LGA1155,False
+AMD Phenom II X4 970,121.73799238785882,4,3.5,3.5,K10,125,,AMD,False,AM3,True
+Intel Xeon E3-1245,167.50342828476948,4,3.3,3.3,Sandy Bridge,95,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Xeon E3-1270,243.56083476976357,4,3.4,3.4,Sandy Bridge,80,,Intel,False,LGA1155,True
+Intel Xeon E3-1265L V2,103.6467623479928,4,2.5,2.5,Ivy Bridge,45,Intel HD Graphics 2500,Intel,True,LGA1155,True
+AMD Athlon X4 740,90.62740316450687,4,3.2,3.2,Piledriver,65,,AMD,False,FM2+,True
+Intel Pentium G3258,82.11747692526815,2,3.2,3.2,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+AMD Sempron 145,39.09410034268875,1,2.8,2.8,K10,45,,AMD,False,AM3,True
+Intel Xeon E3-1226 V3,143.86965464439328,4,3.3,3.7,Haswell Refresh,84,Intel HD Graphics P4600,Intel,True,LGA1150,True
+Intel Xeon E5-2630,82.17402480257171,6,2.3,2.3,Sandy Bridge,95,,Intel,False,LGA1155,True
+Intel Xeon E5-2643 V2,398.95,6,3.5,3.8,Ivy Bridge,130,,Intel,False,LGA1155,False
+Intel Xeon E5-1620 V3,189.63915568292373,4,3.5,3.6,Haswell,140,,Intel,False,LGA1150,True
+AMD Pro A10-7800B,89.65160753957542,4,3.5,3.9,Steamroller,65,Radeon R7 (on-die),AMD,True,FM2+,True
+Intel Xeon E5-2622 V3,94.70068479937581,8,2.4,2.4,Haswell,85,,Intel,False,LGA1150,True
+Intel Xeon E5-2685 V3,497.62565934693316,12,2.6,3.3,Haswell,120,,Intel,False,LGA1150,True
+AMD Opteron 6344,323.3817588137898,12,2.6,3.2,Piledriver,115,,AMD,False,FM2+,True
+AMD Athlon X4 845,86.58222361722659,4,3.5,3.8,Puma+,65,,AMD,False,AM1,True
+AMD Athlon 5370,62.76282840265796,4,2.2,2.2,Jaguar,25,Radeon R3 (on die),AMD,True,AM1,True
+AMD Athlon X4 870K,116.98614818944971,4,3.9,4.1,Steamroller,95,,AMD,False,FM2+,True
+Intel Core i3-7300T,82.29079913975744,2,3.5,3.5,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-7600T,221.69254975501542,4,2.8,3.7,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-7600T,229.95,4,2.8,3.7,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Core i5-7640X,217.4,4,4.0,4.2,Kaby Lake,112,,Intel,False,LGA1151,False
+Intel Xeon E3-1275 V6,504.44,4,3.8,4.2,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151,False
+AMD Athlon 240GE,80.30780253776223,2,3.5,3.5,Zen,35,Radeon Vega 3,AMD,True,AM4,True
+Intel Core i3-9320,146.75047580039913,4,3.7,4.4,Coffee Lake Refresh,62,,Intel,False,LGA1151,True
+Intel Core i3-9350K,207.7900167997066,4,4.0,4.6,Coffee Lake Refresh,91,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Xeon E-2104G,131.99635275577916,4,3.2,3.2,Coffee Lake,65,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Celeron G5905T,84.49408102744039,2,3.3,3.3,Comet Lake,35,Intel UHD Graphics 610,Intel,True,LGA1200,True
+Intel Core i3-3240T,48.93367925039396,2,2.9,2.9,Ivy Bridge,35,Intel HD Graphics 2500,Intel,True,LGA1155,True
+AMD Phenom II X2 B59,100.10603399888214,2,3.4,3.4,K10,80,,AMD,False,AM3,True
+Intel Xeon E5-2620,77.0,6,2.0,2.0,Sandy Bridge,95,,Intel,False,LGA1155,False
+AMD Athlon II X2 215,37.55572782055992,2,2.7,2.7,K10,65,,AMD,False,AM3,True
+AMD Athlon II X2 260,64.99352155191035,2,3.2,3.2,K10,65,,AMD,False,AM3,True
+AMD Phenom II X2 550,60.57874745140121,2,3.1,3.1,K10,80,,AMD,False,AM3,True
+AMD Athlon II X2 235e,39.343339566624344,2,2.7,2.7,K10,45,,AMD,False,AM3,True
+AMD Athlon II X2 240e,40.12238413272355,2,2.8,2.8,K10,45,,AMD,False,AM3,True
+AMD Phenom II X3 705e,103.27638778848967,3,2.5,2.5,K10,65,,AMD,False,AM3,True
+Intel Celeron E1200,83.40062258160218,2,1.6,1.6,Core,65,,Intel,False,LGA775,True
+Intel Celeron E1400,64.39949622824575,2,2.0,2.0,Core,65,,Intel,False,LGA775,True
+Intel Pentium E2160,70.60932944104233,2,1.8,1.8,Core,65,,Intel,False,LGA775,True
+Intel Pentium E2180,64.39949622824575,2,2.0,2.0,Core,65,,Intel,False,LGA775,True
+Intel Pentium E2200,64.39949622824575,2,2.2,2.2,Core,65,,Intel,False,LGA775,True
+Intel Celeron E3300,61.79,2,2.5,2.5,Wolfdale,65,,Intel,False,LGA775,False
+Intel Pentium E6300,62.74964597262725,2,2.8,2.8,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E6400,89.95,2,2.13,2.13,Core,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E6420,69.95,2,2.13,2.13,Core,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E6550,64.39949622824575,2,2.33,2.33,Core,65,,Intel,False,LGA775,True
+Intel Core i5-655K,126.86547714400855,2,3.2,3.2,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,True
+Intel Core i5-660,149.94,2,3.33,3.33,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,False
+Intel Core i5-670,109.08,2,3.46,3.46,Westmere,73,Intel HD Graphics,Intel,True,LGA1156,False
+Intel Core 2 Extreme QX6800,116.03825557111816,4,2.93,2.93,Core,100,,Intel,False,LGA775,True
+Intel Core 2 Extreme X6800,85.70340568133327,2,2.93,2.93,Core,75,,Intel,False,LGA775,True
+AMD Athlon II X3 450,81.48482060914891,3,3.2,3.2,K10,95,,AMD,False,AM3,True
+AMD Athlon II X3 455,81.48482060914891,3,3.3,3.3,K10,95,,AMD,False,AM3,True
+Intel Pentium E6800,97.768184691318,2,3.333,3.333,Wolfdale,65,,Intel,False,LGA775,True
+AMD Phenom II X3 720 Black,34.70955648331881,3,2.8,2.8,K10,95,,AMD,False,AM3,True
+Intel Pentium G840,44.835077898466565,2,2.8,2.8,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,True
+AMD Phenom II X4 960T Black,67.46754697330591,4,3.0,3.0,K10,95,,AMD,False,AM3,True
+AMD A4-3400,49.95459000075609,2,2.7,2.7,Lynx,65,Radeon HD 6410D,AMD,True,LGA1156,True
+AMD A10-5700,84.30696522942874,4,3.4,3.4,Piledriver,65,Radeon HD 7660D,AMD,True,FM2+,True
+Intel Xeon E3-1240,246.17513396039885,4,3.3,3.3,Sandy Bridge,80,,Intel,False,LGA1155,True
+Intel Celeron G1620,45.712791500432516,2,2.7,2.7,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Xeon E5-1660,256.15615155264976,6,3.3,3.9,Sandy Bridge,130,,Intel,False,LGA1155,True
+Intel Xeon E5-2665,149.94,8,2.4,3.1,Sandy Bridge,115,,Intel,False,LGA1155,False
+Intel Xeon E5-2620 V2,160.60629412705384,6,2.1,2.6,Ivy Bridge,80,,Intel,False,LGA1155,True
+Intel Pentium G3450,78.84784659576641,2,3.4,3.4,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+AMD A6-7400K,71.49063207355742,2,3.5,3.9,Steamroller,65,Radeon R5 (on die),AMD,True,FM2+,True
+AMD Athlon II X4 651,93.33715646672053,4,3.0,3.0,Lynx,100,,AMD,False,LGA1156,True
+Intel Xeon E3-1230 V3,274.6876716864331,4,3.3,3.7,Haswell,80,,Intel,False,LGA1150,True
+Intel Xeon E5-2637 V2,224.97268602616336,4,3.5,3.8,Ivy Bridge,130,,Intel,False,LGA1155,True
+AMD Pro A10-7850B,148.02,4,3.7,4.0,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+,False
+AMD Athlon X4 840,94.73498116582228,4,3.1,3.8,Steamroller,65,,AMD,False,FM2+,True
+Intel Pentium G3250T,48.02716275892736,2,2.8,2.8,Haswell Refresh,35,Intel HD Graphics,Intel,True,LGA1150,True
+Intel Xeon E5-2620 V3,149.94,6,2.4,3.2,Haswell,85,,Intel,False,LGA1150,False
+Intel Xeon E5-2650L V3,225.2892362386948,12,1.8,2.5,Haswell,65,,Intel,False,LGA1150,True
+Intel Xeon E3-1270 V3,277.7536696746715,4,3.5,3.9,Haswell,80,,Intel,False,LGA1150,True
+Intel Core i5-4670S,125.01300890928552,4,3.1,3.8,Haswell,65,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Pentium G4520,79.62470681835828,2,3.6,3.6,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Pentium G4400T,67.24828879117243,2,2.9,2.9,Skylake,35,Intel HD Graphics 510,Intel,True,LGA1151,True
+AMD Opteron 6328,184.7796081556171,8,3.2,3.8,Piledriver,115,,AMD,False,FM2+,True
+AMD Athlon X4 880K,126.00973902769854,4,4.0,4.2,Steamroller,95,,AMD,False,FM2+,True
+Intel Core i3-7350K,101.60217210898384,2,4.2,4.2,Kaby Lake,60,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Pentium G4620,224.12,2,3.7,3.7,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Xeon E5-2450V2,167.1541282737372,8,2.5,3.3,Ivy Bridge,95,,Intel,False,LGA1155,True
+Intel Xeon E5-2470V2,167.1541282737372,10,2.4,3.2,Ivy Bridge,95,,Intel,False,LGA1155,True
+Intel Xeon E3-1240 V6,429.95,4,3.7,4.1,Kaby Lake,72,,Intel,False,LGA1151,False
+Intel Xeon E3-1220 V6,249.95,4,3.0,3.5,Kaby Lake,72,,Intel,False,LGA1151,False
+Intel Xeon E3-1225 V6,355.29,4,3.3,3.7,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151,False
+Intel Xeon E3-1225 V6,369.51,4,3.3,3.7,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151,False
+Intel Core i5-3550S,141.7452600065767,4,3.0,3.7,Ivy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155,True
+Intel Xeon E5-2665,184.91228979889695,8,2.4,3.1,Sandy Bridge,115,,Intel,False,LGA1155,True
+Intel Core i3-9300,143.85128000029923,4,3.7,4.3,Coffee Lake Refresh,62,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-9600,222.4684366292676,6,3.1,4.6,Coffee Lake Refresh,65,Intel UHD Graphics 630,Intel,True,LGA1151,True
+AMD A6-7480,64.49985353722936,2,3.5,3.8,Puma+,65,Radeon R5 (on die),AMD,True,AM1,True
+Intel Xeon E-2144G,421.28101979409195,4,3.6,4.5,Coffee Lake,71,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Xeon E-2126G,511.5305701452581,6,3.3,4.5,Coffee Lake,80,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Xeon E-2174G,433.0297866168853,4,3.8,4.7,Coffee Lake,71,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Xeon E-2236,488.75547812380194,6,3.4,4.8,Coffee Lake Refresh,80,,Intel,False,LGA1151,True
+Intel Xeon E-2124,313.60106947494495,4,3.3,4.3,Coffee Lake,71,,Intel,False,LGA1151,True
+Intel Pentium Gold G6500,80.00717152983177,2,4.1,4.1,Comet Lake,58,Intel UHD Graphics 630,Intel,True,LGA1200,True
+Intel Xeon E-2176G,528.6542189076852,6,3.7,4.7,Coffee Lake,80,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Xeon E5-2620,139.94,6,2.0,2.0,Sandy Bridge,95,,Intel,False,LGA1155,False
+AMD Athlon II X2 245,38.387980307265316,2,2.9,2.9,K10,65,,AMD,False,AM3,True
+AMD Athlon II X4 620,55.01041359877246,4,2.6,2.6,K10,95,,AMD,False,AM3,True
+AMD Phenom II X3 720,34.70955648331881,3,2.8,2.8,K10,95,,AMD,False,AM3,True
+AMD Phenom II X6 1055T,130.71475745483067,6,2.8,2.8,K10,125,,AMD,False,AM3,True
+AMD Athlon II X4 605e,62.76282840265796,4,2.3,2.3,K10,45,,AMD,False,AM3,True
+AMD Phenom II X4 910e,62.19557592742676,4,2.6,2.6,K10,65,,AMD,False,AM3,True
+Intel Core 2 Duo E4500,64.39949622824575,2,2.2,2.2,Core,65,,Intel,False,LGA775,True
+Intel Pentium E5300,79.4,2,2.6,2.6,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E6750,70.61065875920833,2,2.66,2.66,Core,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E6850,89.95,2,3.0,3.0,Core,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E7600,79.41199671294385,2,3.06,3.06,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E8300,99.95,2,2.83,2.83,Wolfdale,65,,Intel,False,LGA775,False
+Intel Core i5-661,80.0,2,3.33,3.33,Westmere,87,Intel HD Graphics,Intel,True,LGA1156,False
+Intel Core i7-860,189.95,4,2.8,2.8,Nehalem,95,,Intel,False,LGA1156,False
+Intel Core 2 Quad Q9400S,118.02935265540985,4,2.66,2.66,Yorkfield,65,,Intel,False,LGA775,True
+Intel Core 2 Extreme QX9775,804.0930684080661,4,3.2,3.2,Yorkfield,150,,Intel,False,LGA775,True
+AMD Phenom II X2 565 Black,100.10603399888214,2,3.4,3.4,K10,80,,AMD,False,AM3,True
+AMD Sempron 130,93.96990624135762,1,2.6,2.6,K10,45,,AMD,False,AM3,True
+Intel Pentium G620T,53.78883321341154,2,2.2,2.2,Sandy Bridge,35,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Pentium G860,59.37015025104678,2,3.0,3.0,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,True
+AMD Athlon II X4 641,79.99905810998554,4,2.8,2.8,Lynx,100,,AMD,False,LGA1156,True
+Intel Xeon E3-1220,159.8659427176799,4,3.1,3.1,Sandy Bridge,80,,Intel,False,LGA1155,True
+Intel Xeon E3-1230,918.89,4,3.2,3.2,Sandy Bridge,80,,Intel,False,LGA1155,False
+Intel Xeon E3-1235,172.86833045345924,4,3.2,3.2,Sandy Bridge,95,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Xeon E3-1280,161.652440545361,4,3.5,3.5,Sandy Bridge,95,,Intel,False,LGA1155,True
+Intel Core i5-3340S,133.6940269427546,4,2.8,3.3,Ivy Bridge,65,Intel HD Graphics 2500,Intel,True,LGA1155,True
+Intel Xeon E5-2603,98.95,4,1.8,1.8,Sandy Bridge,80,,Intel,False,LGA1155,False
+Intel Xeon E5-2609,89.95,4,2.4,2.4,Sandy Bridge,80,,Intel,False,LGA1155,False
+AMD A6-6420K,79.89870681119827,2,4.0,4.2,Piledriver,65,Radeon HD 8000 Series,AMD,True,FM2+,True
+AMD A4-4020,70.47688154032792,2,3.2,3.4,Piledriver,65,Radeon HD 7480D,AMD,True,FM2+,True
+AMD A10-6800B,147.67136524506412,4,4.1,4.4,Piledriver,100,Radeon HD 8670D,AMD,True,FM2+,True
+AMD A4-3300,67.74994620409583,2,2.5,2.5,Lynx,65,Radeon HD 6410D,AMD,True,LGA1156,True
+AMD FX-4200,111.5782734678037,4,3.3,3.3,Bulldozer,125,,AMD,False,FM2,True
+AMD FX-8370,236.5223879280159,8,4.0,4.3,Piledriver,125,,AMD,False,FM2+,True
+AMD Pro A4-7300B,69.66057103374844,2,3.8,4.0,Piledriver,65,Radeon HD 8470D,AMD,True,FM2+,True
+AMD Athlon X2 450,71.49063207355742,2,3.5,3.9,Steamroller,65,,AMD,False,FM2+,True
+AMD Phenom II X4 B99,106.2495716495409,4,3.3,3.3,K10,95,,AMD,False,AM3,True
+Intel Xeon E5-2609 V3,113.41287568493863,6,1.9,1.9,Haswell,85,,Intel,False,LGA1150,True
+Intel Xeon E5-2603 V3,145.90796208806253,6,1.6,1.6,Haswell,85,,Intel,False,LGA1150,True
+Intel Xeon E5-2630 V3,170.80018910557743,8,2.4,3.2,Haswell,85,,Intel,False,LGA1150,True
+Intel Xeon E3-1230 V2,189.95,4,3.3,3.3,Ivy Bridge,69,,Intel,False,LGA1155,False
+Intel Xeon E3-1275 V2,374.0,4,3.5,3.5,Ivy Bridge,77,Intel HD Graphics P4000,Intel,True,LGA1155,False
+Intel Core i3-3240,83.15500126217096,2,3.4,3.4,Ivy Bridge,55,Intel HD Graphics 2500,Intel,True,LGA1155,True
+Intel Xeon E5-2630 V2,239.39744603724782,6,2.6,3.1,Ivy Bridge,80,,Intel,False,LGA1155,True
+Intel Core i3-6300T,108.74777723601659,2,3.3,3.3,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Pentium G4500T,78.54538660693441,2,3.0,3.0,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Xeon E5-2658 V3,242.4729134046746,12,2.2,2.9,Haswell,105,,Intel,False,LGA1150,True
+Intel Core i7-6900K,314.4037425184563,8,3.2,3.7,Broadwell,140,,Intel,False,LGA1150,True
+Intel Xeon E5-2683 V3,554.4900886866125,14,2.0,3.0,Haswell,120,,Intel,False,LGA1150,True
+Intel Pentium G4620,90.36858194962136,2,3.7,3.7,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Core i3-7320,86.50098528599796,2,4.1,4.1,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Pentium G4600,169.95,2,3.6,3.6,Kaby Lake,51,Intel HD Graphics 630,Intel,True,LGA1151,False
+Intel Pentium G4600T,58.238855464195524,2,3.0,3.0,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-7400T,96.4071256442532,4,2.4,3.0,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,True
+AMD A8-7670K,116.98614818944971,4,3.6,3.9,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+,True
+Intel Xeon E5-2420V2,160.60629412705384,6,2.2,2.7,Ivy Bridge,80,,Intel,False,LGA1155,True
+AMD A6-9550,72.38076839351906,2,3.8,4.0,Excavator,65,Radeon R5 (on die),AMD,True,FM2+,True
+Intel Core i7-870S,117.0293079269416,4,2.667,2.667,Nehalem,82,,Intel,False,LGA1156,True
+Intel Pentium Gold G5500T,86.71144285211568,2,3.2,3.2,Coffee Lake,35,Intel UHD Graphics 630,Intel,True,LGA1151,True
+Intel Xeon E5-2660,148.50742498951777,8,2.2,3.0,Sandy Bridge,95,,Intel,False,LGA1155,True
+Intel Xeon E-2146G,537.5631168475009,6,3.5,4.5,Coffee Lake,80,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Xeon E-2136,511.5305701452581,6,3.3,4.5,Coffee Lake,80,,Intel,False,LGA1151,True
+Intel Xeon E-2134,421.28101979409195,4,3.5,4.5,Coffee Lake,71,,Intel,False,LGA1151,True
+Intel Celeron G5925,77.97255353917129,2,3.6,3.6,Comet Lake,58,Intel UHD Graphics 610,Intel,True,LGA1200,True
+Intel Core i3-10305,150.4654731335693,4,3.8,4.5,Comet Lake,65,Intel UHD Graphics 630,Intel,True,LGA1200,True
+Intel Core i5-4670T,86.39968233055322,4,2.3,2.3,Haswell,45,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Celeron G3950,64.97,2,3.0,3.0,Kaby Lake,51,Intel HD Graphics 610,Intel,True,LGA1151,False
+AMD Athlon II X2 255,49.56881661775582,2,3.1,3.1,K10,65,,AMD,False,AM3,True
+AMD Athlon II X3 435,36.321625913542576,3,2.9,2.9,K10,95,,AMD,False,AM3,True
+AMD Phenom II X2 545,60.523455141564924,2,3.0,3.0,K10,80,,AMD,False,AM3,True
+AMD Athlon II X4 635,58.24602022243285,4,2.9,2.9,K10,95,,AMD,False,AM3,True
+AMD Athlon II X3 400e,94.04711947501451,3,2.2,2.2,K10,45,,AMD,False,AM3,True
+AMD Athlon II X3 405e,94.04711947501451,3,2.3,2.3,K10,45,,AMD,False,AM3,True
+AMD Athlon II X3 415e,108.11109604546812,3,2.5,2.5,K10,45,,AMD,False,AM3,True
+AMD Athlon II X4 600e,62.76282840265796,4,2.2,2.2,K10,45,,AMD,False,AM3,True
+AMD Phenom II X3 740 Black,48.661496958732016,3,3.0,3.0,K10,95,,AMD,False,AM3,True
+AMD Phenom II X4 965 Black (140W),136.63052979159224,4,3.4,3.4,K10,140,,AMD,False,AM3,True
+Intel Celeron E1500,64.39949622824575,2,2.2,2.2,Core,65,,Intel,False,LGA775,True
+Intel Celeron E1600,61.3806988272432,2,2.4,2.4,Core,65,,Intel,False,LGA775,True
+Intel Celeron E3200,64.485599471583,2,2.4,2.4,Wolfdale,65,,Intel,False,LGA775,True
+Intel Celeron E3300,74.1754032421492,2,2.5,2.5,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E4400,64.39949622824575,2,2.0,2.0,Core,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E4600,98.95,2,2.4,2.4,Core,65,,Intel,False,LGA775,False
+Intel Core 2 Duo E7300,74.17496606424226,2,2.66,2.66,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E7500,78.3911471027407,2,2.93,2.93,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E8200,74.17496606424226,2,2.66,2.66,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core i5-750S,116.63958657668282,4,2.4,2.4,Nehalem,82,,Intel,False,LGA1156,True
+Intel Core i7-860S,134.04653587205033,4,2.53,2.53,Nehalem,82,,Intel,False,LGA1156,True
+Intel Core 2 Quad Q8200S,107.70532173448294,4,2.33,2.33,Yorkfield,65,,Intel,False,LGA775,True
+Intel Core 2 Quad Q8400,100.3282950047389,4,2.66,2.66,Yorkfield,95,,Intel,False,LGA775,True
+Intel Core 2 Quad Q9450,100.3282950047389,4,2.66,2.66,Yorkfield,95,,Intel,False,LGA775,True
+Intel Core 2 Quad Q9505,115.03424307493023,4,2.83,2.83,Yorkfield,95,,Intel,False,LGA775,True
+Intel Core 2 Quad Q9550,115.03424307493023,4,2.83,2.83,Yorkfield,95,,Intel,False,LGA775,True
+AMD Phenom II X2 560 Black,101.18683429587352,2,3.3,3.3,K10,80,,AMD,False,AM3,True
+AMD Phenom II X4 975,123.8945683220787,4,3.6,3.6,K10,125,,AMD,False,AM3,True
+AMD Athlon II X3 460,80.61240275585166,3,3.4,3.4,K10,95,,AMD,False,AM3,True
+AMD Athlon II X3 440,48.661496958732016,3,3.0,3.0,K10,95,,AMD,False,AM3,True
+Intel Core i3-2105,64.26007722012874,2,3.1,3.1,Sandy Bridge,65,Intel HD Graphics 3000,Intel,True,LGA1155,True
+AMD FX-6100,102.64095818759483,6,3.3,3.3,Bulldozer,95,,AMD,False,FM2,True
+Intel Pentium G630T,53.78883321341154,2,2.3,2.3,Sandy Bridge,35,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Core i5-2380P,110.16279633376638,4,3.1,3.1,Sandy Bridge,95,,Intel,False,LGA1155,True
+Intel Core i5-2450P,175.24299950256557,4,3.2,3.2,Sandy Bridge,95,,Intel,False,LGA1155,True
+Intel Pentium G550,53.16209924182555,2,2.6,2.6,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Celeron G555,43.96675352655546,2,2.7,2.7,Sandy Bridge,65,Intel HD Graphics,Intel,True,LGA1155,True
+AMD Athlon II X4 651K,93.33715646672053,4,3.0,3.0,Lynx,100,,AMD,False,LGA1156,True
+Intel Pentium G2130,86.60100207793548,2,3.2,3.2,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Pentium G3430,77.67917170652612,2,3.3,3.3,Haswell,54,Intel HD Graphics,Intel,True,LGA1150,True
+AMD A10-6790K,134.345353209789,4,4.0,4.3,Piledriver,100,Radeon HD 8670D,AMD,True,FM2+,True
+Intel Celeron G1630,46.614832500921324,2,2.8,2.8,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Pentium G2140,86.60100207793548,2,3.3,3.3,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Xeon E5-2609 V2,121.61221072506483,4,2.5,2.5,Ivy Bridge,80,,Intel,False,LGA1155,True
+Intel Celeron G1850,48.60834741553925,2,2.9,2.9,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+AMD Sempron X2 190,108.11109604546812,2,2.5,2.5,K10,45,,AMD,False,AM3,True
+AMD A10-7700K,125.59595925922292,4,3.4,3.8,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+,True
+AMD A4-6300,69.66057103374844,2,3.7,3.9,Piledriver,65,Radeon HD 8370D,AMD,True,FM2+,True
+AMD FX-4320,121.08723434836895,4,4.0,4.2,Piledriver,95,,AMD,False,FM2+,True
+AMD A8-7600,94.73498116582228,4,3.1,3.8,Steamroller,65,Radeon R7 (on-die),AMD,True,FM2+,True
+AMD Athlon X4 530,62.76282840265796,4,2.0,2.0,Jaguar,25,,AMD,False,AM1,True
+AMD Athlon X4 550,62.76282840265796,4,2.2,2.2,Jaguar,25,,AMD,False,AM1,True
+AMD Pro A8-7600B,94.73498116582228,4,3.1,3.8,Steamroller,65,Radeon R7 (on-die),AMD,True,FM2+,True
+AMD Pro A6-7400B,71.49063207355742,2,3.5,3.9,Steamroller,65,Radeon R5 (on die),AMD,True,FM2+,True
+AMD Athlon X2 350,69.66057103374844,2,3.5,3.9,Piledriver,65,,AMD,False,FM2+,True
+AMD Sempron X2 250,71.73277076895282,2,3.2,3.6,Piledriver,65,,AMD,False,FM2+,True
+Intel Pentium G3460,125.0,2,3.5,3.5,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,False
+Intel Pentium G3460,79.42499760791537,2,3.5,3.5,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+AMD Phenom II X6 1065T,90.21912342454903,6,2.7,2.7,K10,95,,AMD,False,AM3,True
+Intel Xeon E5-2603 V2,115.94966121933139,4,1.8,1.8,Ivy Bridge,80,,Intel,False,LGA1155,True
+Intel Pentium G3470,80.83811029598047,2,3.6,3.6,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+Intel Core i3-6300,82.82252252014896,2,3.8,3.8,Skylake,51,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Core i5-6600T,157.92101813362686,4,2.7,3.5,Skylake,35,Intel HD Graphics 530,Intel,True,LGA1151,True
+Intel Xeon E3-1220 V5,222.61053478539347,4,3.0,3.5,Skylake,80,,Intel,False,LGA1151,True
+Intel Xeon E3-1280 V5,319.08665378346603,4,3.7,4.0,Skylake,80,,Intel,False,LGA1151,True
+AMD A6-7470K,71.49063207355742,2,3.7,4.0,Steamroller,65,Radeon R5 (on die),AMD,True,FM2+,True
+Intel Core i7-6800K,219.05512361003827,6,3.4,3.6,Broadwell,140,,Intel,False,LGA1150,True
+Intel Xeon E5-1620 V4,198.19050371109586,4,3.5,3.8,Broadwell,140,,Intel,False,LGA1150,True
+Intel Celeron G3950,59.14038457319707,2,3.0,3.0,Kaby Lake,51,Intel HD Graphics 610,Intel,True,LGA1151,True
+Intel Pentium G4560T,45.96903448439957,2,2.9,2.9,Kaby Lake,35,Intel HD Graphics 610,Intel,True,LGA1151,True
+Intel Core i3-7101TE,76.27495784849305,2,3.4,3.4,Kaby Lake,35,Intel HD Graphics 610,Intel,True,LGA1151,True
+Intel Core i3-7100T,76.27495784849305,2,3.4,3.4,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Core i5-7500T,125.85718630562627,4,2.7,3.3,Kaby Lake,35,Intel HD Graphics 630,Intel,True,LGA1151,True
+Intel Core i7-7820X,440.31096679159526,8,3.6,4.5,Skylake,140,,Intel,False,LGA1151,True
+Intel Core i7-7740X,254.19971194768124,4,4.3,4.5,Kaby Lake,112,,Intel,False,LGA1151,True
+Intel Core i5-7640X,219.2485265690355,4,4.0,4.2,Kaby Lake,112,,Intel,False,LGA1151,True
+Intel Xeon E5-2430V2,198.31977332891327,6,2.5,3.0,Ivy Bridge,80,,Intel,False,LGA1155,True
+Intel Xeon E5-2440V2,96.53854058674409,8,1.9,2.4,Ivy Bridge,95,,Intel,False,LGA1155,True
+Intel Xeon E3-1270 V6,346.48129589941436,4,3.8,4.2,Kaby Lake,72,,Intel,False,LGA1151,True
+AMD Athlon X4 940,90.14727537136937,4,3.2,3.6,Excavator,65,,AMD,False,FM2+,True
+Intel Celeron G4920,84.75238310275533,2,3.2,3.2,Coffee Lake,65,Intel UHD Graphics 610,Intel,True,LGA1151,True
+Intel Xeon E-2274G,691.4062959243281,4,4.0,4.9,Coffee Lake Refresh,83,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Xeon E-2124G,400.8692054210457,4,3.4,4.5,Coffee Lake,71,Intel HD Graphics P630,Intel,True,LGA1151,True
+Intel Pentium G3420,77.67917170652612,2,3.2,3.2,Haswell,54,Intel HD Graphics,Intel,True,LGA1150,True
+Intel Pentium Gold G6600,115.60144313208986,2,4.2,4.2,Comet Lake,58,Intel UHD Graphics 630,Intel,True,LGA1200,True
+AMD Athlon II X2 240,38.30025295341373,2,2.8,2.8,K10,65,,AMD,False,AM3,True
+AMD Athlon II X3 425,33.54312795668142,3,2.7,2.7,K10,95,,AMD,False,AM3,True
+Intel Celeron 430,68.42288910027204,1,1.8,1.8,Core,35,,Intel,False,LGA775,True
+Intel Celeron 440,64.57475657324494,1,2.0,2.0,Core,35,,Intel,False,LGA775,True
+Intel Celeron 450,64.57475657324494,1,2.2,2.2,Core,35,,Intel,False,LGA775,True
+AMD Athlon II X4 630,55.686949021080224,4,2.8,2.8,K10,95,,AMD,False,AM3,True
+AMD Phenom II X3 710,82.40145697490576,3,2.6,2.6,K10,95,,AMD,False,AM3,True
+AMD Phenom II X4 805,61.74135245406108,4,2.5,2.5,K10,95,,AMD,False,AM3,True
+AMD Phenom II X4 810,55.01041359877246,4,2.6,2.6,K10,95,,AMD,False,AM3,True
+AMD Phenom II X4 910,55.01041359877246,4,2.6,2.6,K10,95,,AMD,False,AM3,True
+AMD Phenom II X4 920,66.22389866177362,4,2.8,2.8,K10,125,,AMD,False,AM3,True
+AMD Athlon II X2 245e,40.21417890942152,2,2.9,2.9,K10,45,,AMD,False,AM3,True
+AMD Athlon II X2 260u,108.88861343804558,2,1.8,1.8,K10,25,,AMD,False,AM3,True
+AMD Athlon II X4 610e,62.76282840265796,4,2.4,2.4,K10,45,,AMD,False,AM3,True
+Intel Core 2 Duo E6400,64.39949622824575,2,2.13,2.13,Core,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E6420,64.39949622824575,2,2.13,2.13,Core,65,,Intel,False,LGA775,True
+Intel Pentium E6500,78.3911471027407,2,2.93,2.93,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E6540,64.39949622824575,2,2.33,2.33,Core,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E6700,70.61065875920833,2,2.66,2.66,Core,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E6850,64.91595946440177,2,3.0,3.0,Core,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E7200,82.06133930999452,2,2.53,2.53,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E8190,74.17496606424226,2,2.66,2.66,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core 2 Duo E8400,64.13319182612283,2,3.0,3.0,Wolfdale,65,,Intel,False,LGA775,True
+Intel Core i7-940,124.67149621448705,4,2.93,2.93,Nehalem,130,,Intel,False,LGA1156,True
+Intel Core 2 Quad Q8400S,118.02935265540985,4,2.66,2.66,Yorkfield,65,,Intel,False,LGA775,True
+Intel Core 2 Quad Q9505S,127.87996882949389,4,2.83,2.83,Yorkfield,65,,Intel,False,LGA775,True
+Intel Core 2 Quad Q9550S,127.87996882949389,4,2.83,2.83,Yorkfield,65,,Intel,False,LGA775,True
+AMD Athlon II X2 265,64.99352155191035,2,3.2,3.2,K10,65,,AMD,False,AM3,True
+AMD Phenom II X3 715 Black,34.70955648331881,3,2.8,2.8,K10,95,,AMD,False,AM3,True
+Intel Celeron E3500,62.74964597262725,2,2.7,2.7,Wolfdale,65,,Intel,False,LGA775,True
+AMD FX-4170,98.01582873061999,4,4.2,4.2,Bulldozer,125,,AMD,False,FM2,True
+Intel Celeron G465,56.22686697082831,2,1.9,1.9,Sandy Bridge,35,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Pentium G2010,46.614832500921324,2,2.8,2.8,Ivy Bridge,55,Intel HD Graphics,Intel,True,LGA1155,True
+Intel Celeron G1830,48.49785662586775,2,2.8,2.8,Haswell,53,Intel HD Graphics,Intel,True,LGA1150,True
+Intel Xeon E5-2640,117.33739769755832,6,2.5,3.0,Sandy Bridge,95,,Intel,False,LGA1155,True
+Intel Pentium G3440,82.11747692526815,2,3.3,3.3,Haswell Refresh,53,Intel HD Graphics,Intel,True,LGA1150,True
+AMD Sempron X2 198,68.68892323891754,2,2.5,2.5,Lynx,65,,AMD,False,LGA1156,True
+AMD A10-6700T,97.634176320632,4,2.5,3.5,Piledriver,45,Radeon HD 8650D,AMD,True,FM2+,True
+AMD A10-6790B,113.30937259971601,4,4.0,4.0,Piledriver,100,Radeon HD 8670D,AMD,True,FM2+,True
+AMD A10-7850K,116.98614818944971,4,3.7,4.0,Steamroller,95,Radeon R7 (on-die),AMD,True,FM2+,True
+AMD A4-6320,69.66057103374844,2,3.8,4.0,Piledriver,65,Radeon HD 8370D,AMD,True,FM2+,True
+AMD A4-3450,51.76543337222356,2,2.9,2.9,Lynx,65,,AMD,False,LGA1156,True
+AMD A4-3420,50.93854167367963,2,2.8,2.8,Lynx,65,Radeon HD 6410D,AMD,True,LGA1156,True
+AMD FX-4150,112.92667834279902,4,4.0,4.1,Bulldozer,125,,AMD,False,FM2,True
+AMD FX-6130,133.34853519487112,6,3.6,3.9,Bulldozer,125,,AMD,False,FM2,True
+AMD FX-8140,144.79789012469863,8,3.2,4.1,Bulldozer,95,,AMD,False,FM2,True
+AMD Athlon II X2 221,51.647910924805174,2,2.8,2.8,Lynx,65,,AMD,False,LGA1156,True
+AMD Athlon II X4 638,92.33457078411537,4,2.7,2.7,Lynx,65,,AMD,False,LGA1156,True
+Intel Core i3-4360T,79.47664010129444,2,3.2,3.2,Haswell Refresh,35,Intel HD Graphics 4600,Intel,True,LGA1150,True
+Intel Pentium G4400,85.17113038632817,2,3.3,3.3,Skylake,54,Intel HD Graphics 510,Intel,True,LGA1151,True
+Intel Xeon E3-1240 V6,278.25326028432477,4,3.7,4.1,Kaby Lake,72,,Intel,False,LGA1151,True
+Intel Xeon E3-1275 V6,495.4,4,3.8,4.2,Kaby Lake,73,Intel HD Graphics P630,Intel,True,LGA1151,False
